@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_demo">
+    <element type="class">xcvxcvTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">192.168.88.204/s/ele-imgs/919/75810.png</element>
+  </locator>
+  <locator name="ele_sdsd">
+    <element type="class">sdsdTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">192.168.88.204/s/ele-imgs/919/75811.png</element>
+  </locator>
+</locators>

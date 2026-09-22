@@ -1,0 +1,44 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_demo",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "xcvxcvTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "demo"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "192.168.88.204/s/ele-imgs/919/75810.png"
+        },
+        {
+            "testcase_element": "ele_sdsd",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "sdsdTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "sdsd"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "192.168.88.204/s/ele-imgs/919/75811.png"
+        }
+    ]
+}
