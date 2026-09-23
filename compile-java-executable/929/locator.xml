@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_loginTest">
+    <element type="class">rs1TGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">192.168.88.204/s/ele-imgs/929/75818.png</element>
+  </locator>
+</locators>
