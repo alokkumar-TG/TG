@@ -24,5 +24,6 @@ class rerer {
 	public static void rerer() {
 		tg.wait("ele_emailaddre857", ComparisonType.IS_VISIBLE);
 		tg.click("ele_emailaddre857", 1);
+		tg.wait(2);
 	}
 }
