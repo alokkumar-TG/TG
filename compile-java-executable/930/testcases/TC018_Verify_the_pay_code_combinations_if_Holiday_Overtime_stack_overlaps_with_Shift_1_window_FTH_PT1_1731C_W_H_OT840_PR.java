@@ -62,5 +62,9 @@ public class TC018_Verify_the_pay_code_combinations_if_Holiday_Overtime_stack_ov
 				tg.testFunction("fnVerifyingPaycodeAmountWages");
 				}
 			tg.testFunction("fnLogOut");
+		if(tg.performAssert(var_Precondition_Login_UserName, ComparisonType.EQUAL_TO, "OJoshi3")){
+		if(tg.performAssert(var_Precondition_Login_PassWord, ComparisonType.EQUAL_TO, "Kronos@134")){
+		}
+		}
 	}
 }

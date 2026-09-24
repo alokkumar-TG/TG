@@ -25,6 +25,20 @@ public class sdsd {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void sdsd() {
 		tg.openBrowser();
+				tg.wait("ele_element508", ComparisonType.IS_VISIBLE);
+				tg.click("ele_element508", 1);
+				tg.wait("ele_rc9l6neapp741", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp741", 1);
+				tg.wait("ele_rc9l6neapp741", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp741", "gfhfghgf");
+				tg.wait("ele_rc9l6neapp095", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp095", 1);
+				tg.wait("ele_rc9l6neapp095", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp095", "dfgdfgdfg");
+				tg.wait("ele_login015", ComparisonType.IS_VISIBLE);
+				tg.click("ele_login015", 1);
+				tg.wait("ele_rcdl6neapp464", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rcdl6neapp464", 1);
 		tg.close();
 	}
 }
