@@ -1,0 +1,543 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:75: error: cannot find symbol
+        tg.type("ele_Environment_3a1c9843", "Desktop");
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:76: error: cannot find symbol
+        tg.type("ele_Directory_3a1c9843", "C:\\Tosca_Projects\\ToscaCommander\\ScreenShots\\TMO\\{Date}\\");
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:77: error: cannot find symbol
+        tg.type("ele_SelectScreen_3a1c9843", "Active Window");
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:78: error: cannot find symbol
+        if (tg.performAssert(var_Precondition_Login_UserName, ComparisonType.EQUAL_TO, "OJoshi3")) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:79: error: cannot find symbol
+            if (tg.performAssert(var_Precondition_Login_PassWord, ComparisonType.EQUAL_TO, "Kronos@134")) {
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:80: error: cannot find symbol
+                tg.testFunction("fnLogInForTstEnvNew", new Object[] {});
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:83: error: cannot find symbol
+        if (tg.performAssert(var_Process_Date_Calculation_Day, ComparisonType.EQUAL_TO, "Mon")) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:84: error: cannot find symbol
+            if (tg.performAssert(var_Process_Date_Calculation_Weekly_Biweekly, ComparisonType.EQUAL_TO, 0)) {
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:85: error: cannot find symbol
+                if (tg.performAssert(var_Process_Date_Calculation_No_of_days_to_punch, ComparisonType.EQUAL_TO, 2)) {
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:86: error: cannot find symbol
+                    if (tg.performAssert(var_Process_Date_Calculation_PunchDate, ComparisonType.EQUAL_TO, "04/03/2026")) {
+                        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:87: error: cannot find symbol
+                        tg.testFunction("fnDateSToDoPunch", new Object[] {});
+                        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:92: error: cannot find symbol
+        if (tg.performAssert(var_Process_Payrule, ComparisonType.EQUAL_TO, "FTH-PT1-1731C-W-H-OT840-PR")) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:93: error: cannot find symbol
+            if (tg.performAssert(var_Process_Employee_ID, ComparisonType.EQUAL_TO, 13040026)) {
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:94: error: cannot find symbol
+                tg.testFunction("fnGoToPeopleInfoAndVerifyPayRule", new Object[] {});
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:97: error: cannot find symbol
+        if (tg.performAssert(var_Process_Employee_ID, ComparisonType.EQUAL_TO, 13040026)) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:98: error: cannot find symbol
+            tg.testFunction("fnEmpTimecardFromPeopleInfo", new Object[] {});
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:101: error: cannot find symbol
+        tg.testFunction("fnSelectPeriodOfTimeframeTimecardSchedule", new Object[] {});
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:102: error: cannot find symbol
+        tg.testFunction("fnDeleteExistingEntryInTimecard", new Object[] {});
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:103: error: cannot find symbol
+        if (tg.performAssert(var_Process_In_Punch, ComparisonType.EQUAL_TO, "06:00")) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:104: error: cannot find symbol
+            if (tg.performAssert(var_Process_Out_Punch, ComparisonType.EQUAL_TO, "12:00")) {
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:105: error: cannot find symbol
+                tg.testFunction("fnEmpTimecardHolidayAddNewRowAndEnterPunch", new Object[] {});
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:108: error: cannot find symbol
+        tg.testFunction("fnValidationScreenshot", new Object[] {});
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:109: error: cannot find symbol
+        if (tg.performAssert(var_Validation_Type, ComparisonType.EQUAL_TO, "Daily")) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:110: error: cannot find symbol
+            tg.testFunction("fnCaptureTotalsTab", new Object[] {});
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:112: error: cannot find symbol
+        tg.wait(1);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:114: error: cannot find symbol
+        if (tg.performAssert(var_Validation_Type, ComparisonType.EQUAL_TO, "Daily")) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:115: error: cannot find symbol
+            tg.testFunction("fnVerifyingPaycodeAmountWages", new Object[] {});
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:117: error: cannot find symbol
+        tg.testFunction("fnLogOut", new Object[] {});
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:121: error: cannot find symbol
+        tg.wait(1);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:122: error: cannot find symbol
+        tg.navigateToUrl("https://tmobileusainc-tst.npr.mykronos.com/");
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:123: error: cannot find symbol
+        tg.wait(5);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:124: error: package tg does not exist
+        tg.check.isVisible("ele_UsernameOrEmail_3a1d367c");
+          ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:125: error: package tg does not exist
+        tg.check.isVisible("ele_UsernameOrEmail_3a1d367c");
+          ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:126: error: package tg does not exist
+        tg.check.isVisible("ele_UsernameOrEmail_3a1d367c");
+          ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:127: error: package tg does not exist
+        tg.check.isVisible("ele_UsernameOrEmail_3a1d367c");
+          ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:128: error: cannot find symbol
+        tg.type("ele_UsernameOrEmail_3a1d367c", var_Precondition_Login_UserName);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:129: error: package tg does not exist
+        tg.check.isVisible("ele_Password_3a1d367c");
+          ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:130: error: cannot find symbol
+        tg.type("ele_Password_3a1d367c", var_Precondition_Login_PassWord);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:131: error: cannot find symbol
+        tg.wait(2);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:132: error: package tg does not exist
+        tg.check.isVisible("ele_SignIn_3a1d367c");
+          ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:133: error: cannot find symbol
+        tg.click("ele_SignIn_3a1d367c", 1);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:134: error: cannot find symbol
+        if (tg.performAssert("ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63", ComparisonType.IS_VISIBLE)) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:135: error: cannot find symbol
+            tg.wait(3);
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:136: error: package tg does not exist
+            tg.check.isVisible("ele_TroubleScanning_3a1f3eda");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:137: error: package tg does not exist
+            while (tg.verify.isInvisible("ele_TryAgain_3a138a68")) {
+                     ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:138: error: cannot find symbol
+                tg.wait(3);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:139: error: package tg does not exist
+                tg.check.isVisible("ele_TroubleScanning_3a1f3eda");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:140: error: cannot find symbol
+                tg.type("ele_SecretKey_3a0f7987", var_Precondition_Login_Secret_Key);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:141: error: cannot find symbol
+                tg.type("ele_EnterYourOneTimeCode_3a1f3ed6", "TOTPValue");
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:142: error: cannot find symbol
+                tg.click("ele_Continue_3a1f3ed6", 1);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:145: error: cannot find symbol
+        tg.wait(3);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:146: error: package tg does not exist
+        tg.check.isVisible("ele_MainMenuOption_3a03871b");
+          ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:147: error: cannot find symbol
+        tg.testFunction("fnValidationScreenshot");
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:151: error: cannot find symbol
+        tg.wait(1);
+        ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:155: error: cannot find symbol
+        if (tg.performAssert("ele_EditLicenses_3a1f1726", ComparisonType.IS_VISIBLE)) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:156: error: package tg does not exist
+            tg.check.isVisible("ele_EditLicenses_3a1f1726");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:157: error: package tg does not exist
+            tg.check.isVisible("ele_More_3a1f9c87");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:158: error: cannot find symbol
+            tg.click("ele_More_3a1f9c87", 1);
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:159: error: package tg does not exist
+            tg.check.isVisible("ele_PayRuleLabel_3a1f9c89");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:160: error: package tg does not exist
+            tg.check.isVisible("ele_PayRuleValue_3a1f9c89");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:161: error: cannot find symbol
+            tg.testFunction("fnValidationScreenshot");
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:163: error: cannot find symbol
+            tg.testFunction("fnSearchEmployeeIdWithLense");
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:164: error: package tg does not exist
+            tg.check.isVisible("ele_More_3a1f9c87");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:165: error: cannot find symbol
+            tg.click("ele_More_3a1f9c87", 1);
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:166: error: package tg does not exist
+            tg.check.isVisible("ele_PayRuleLabel_3a1f9c89");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:167: error: package tg does not exist
+            tg.check.isVisible("ele_PayRuleValue_3a1f9c89");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:168: error: cannot find symbol
+            tg.testFunction("fnValidationScreenshot");
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:173: error: cannot find symbol
+        if (tg.performAssert("ele_UsernameH2_3a185d77", ComparisonType.IS_VISIBLE)) {
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:174: error: package tg does not exist
+            tg.check.isVisible("ele_UsernameH2_3a185d77");
+              ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:175: error: cannot find symbol
+            if (tg.performAssert("ele_EmployeeRole_3a07b02d", ComparisonType.IS_VISIBLE)) {
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:176: error: cannot find symbol
+                tg.wait(4);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:177: error: package tg does not exist
+                tg.check.isVisible("ele_EmployeeRole_3a07b02d");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:178: error: package tg does not exist
+                tg.check.isVisible("ele_EmployeeRole_3a07b02d");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:179: error: cannot find symbol
+                tg.wait(2);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:180: error: cannot find symbol
+                tg.click("ele_EmployeeRole_3a07b02d", 1);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:181: error: cannot find symbol
+                if (tg.performAssert("ele_EmployeeRoleTable_3a07b17c", ComparisonType.IS_VISIBLE)) {
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:182: error: package tg does not exist
+                    tg.check.isVisible("ele_EmployeeRoleTable_3a07b17c");
+                      ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:183: error: package tg does not exist
+                    tg.check.isVisible("ele_EmployeeRoleTable_3a07b17c");
+                      ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:184: error: package tg does not exist
+                    tg.check.isVisible("ele_QuickFindButton_3a072c99");
+                      ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:185: error: cannot find symbol
+                    tg.type("ele_SearchByEmployeeNameOrID_3a072c99", var_Process_Employee_ID);
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:186: error: cannot find symbol
+                    tg.click("ele_SearchBtn_3a072c99", 1);
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:187: error: package tg does not exist
+                    tg.check.isVisible("ele_SearchResult_3a072c99");
+                      ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:188: error: cannot find symbol
+                    tg.click("ele_SelectEmpID_3a072c99", 1);
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:189: error: cannot find symbol
+                    tg.click("ele_Goto_3a072c99", 1);
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:190: error: cannot find symbol
+                    tg.wait(3);
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:191: error: cannot find symbol
+                    tg.click("ele_EmployeeRole_3a07b02d", 1);
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:193: error: cannot find symbol
+                tg.click("ele_EmployeeRole_3a07b02d", 1);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:195: error: cannot find symbol
+            if (tg.performAssert("ele_AccessProfiles_3a08bc88", ComparisonType.IS_VISIBLE)) {
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:196: error: package tg does not exist
+                tg.check.isVisible("ele_TimekeepingPlugin_3a076df4");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:197: error: package tg does not exist
+                tg.check.isVisible("ele_TimekeepingPlugin_3a076df4");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:198: error: package tg does not exist
+                tg.check.isVisible("ele_AccessProfiles_3a08bc88");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:199: error: cannot find symbol
+                tg.click("ele_AccessProfiles_3a08bc88", 1);
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:201: error: cannot find symbol
+            tg.click("ele_ClickGoTo_3a03b254", 1);
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:202: error: cannot find symbol
+            tg.click("ele_ClickTimecard_3a03b254", 1);
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:204: error: cannot find symbol
+            tg.testFunction("fnSearchEmployeeIdWithLense");
+            ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:205: error: cannot find symbol
+            if (tg.performAssert("ele_EmploymentStatus_3a07febe", ComparisonType.IS_VISIBLE)) {
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:206: error: package tg does not exist
+                tg.check.isVisible("ele_EmploymentStatus_3a07febe");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:207: error: package tg does not exist
+                tg.check.isVisible("ele_EmploymentStatus_3a07febe");
+                  ^
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:208: error: cannot find symbol
+                tg.testFunction("fnValidationScreenshot");
+                ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6ab5005458000_8191/appium-web/src/test/java/fnvalidationscreenshotcopy.java:209: error: cannot find symbol
+                if (tg.performAssert("ele_EmployeeRole_3a07b02d", ComparisonType.IS_VISIBLE)) {
+                    ^
+  symbol:   variable tg
+  location: class fnvalidationscreenshotcopy
+100 errors
+only showing the first 100 errors, of 261 total; use -Xmaxerrs if you would like to see more
