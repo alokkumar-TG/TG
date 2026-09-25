@@ -1,0 +1,24 @@
+public class constants {
+	public static String var_Precondition_Login_UserName = "OJoshi3";
+	public static String var_Precondition_Login_PassWord = "Kronos@134";
+	public static String var_Process_Date_Calculation_Day = "Mon";
+	public static int var_Process_Date_Calculation_Weekly_Biweekly = 0;
+	public static int var_Process_Date_Calculation_No_of_days_to_punch = 2;
+	public static String var_Process_Date_Calculation_PunchDate = "04/03/2026";
+	public static String var_Process_Payrule = "FTH-PT1-1731C-W-HOT840-PR-R-LTFA";
+	public static int var_Process_Employee_ID = 13317306;
+	public static String var_TimeFrame = "Select Range";
+	public static String var_Select_Range_Start_Date = "";
+	public static String var_Select_Range_End_Date = "";
+	public static String var_Day_Date = "";
+	public static String var_Process_In_Punch = "09:00";
+	public static String var_Process_Out_Punch = "21:30";
+	public static String var_Validation_Type = "Daily";
+	public static String var_Paycode = "";
+	public static String var_Amount = "";
+	public static String var_Wages = "NA";
+	public static String var_Tab_Name = "Totals";
+	public static String var_menuName = "People Information";
+	public static String var_Employee_id = "";
+	public static String var_Precondition_Login_Secret_Key = "";
+}
