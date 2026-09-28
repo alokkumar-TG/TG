@@ -15,10 +15,9 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-class ghjghj {
+class tgsurat {
 
-	public static void ghjghj() {
-		tg.wait(2);
+	public static void tgsurat() {
 		tg.wait(2);
 	}
 }
