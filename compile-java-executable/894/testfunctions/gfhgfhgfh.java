@@ -18,5 +18,6 @@ import org.testng.annotations.Test;
 class gfhgfhgfh {
 
 	public static void gfhgfhgfh() {
+		tg.wait(2);
 	}
 }
