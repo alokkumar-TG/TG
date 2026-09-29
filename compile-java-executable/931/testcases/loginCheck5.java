@@ -20,11 +20,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc009_verify_the_pay_code_combinations_if_holiday_premium_applies_with_shift_1_fth_pt1_1731c_w_h_ot1040_pr {
+public class logincheck5 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc009_verify_the_pay_code_combinations_if_holiday_premium_applies_with_shift_1_fth_pt1_1731c_w_h_ot1040_pr() {
+	public void logincheck5() {
 		tg.openBrowser();
+		tg.wait(1);
 		tg.close();
 	}
 }

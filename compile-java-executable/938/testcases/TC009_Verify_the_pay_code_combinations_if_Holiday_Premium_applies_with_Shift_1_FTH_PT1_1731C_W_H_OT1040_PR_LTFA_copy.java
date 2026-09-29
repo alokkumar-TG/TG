@@ -16,10 +16,10 @@ import static io.testgrid.baseClass.driver;
 
 
 @Listeners(TestListener.class)
-public class TC009_Verify_the_pay_code_combinations_if_Holiday_Premium_applies_with_Shift_1_FTH_PT1_1731C_W_H_OT840_PR_R_LTFA {
+public class tc009_verify_the_pay_code_combinations_if_holiday_premium_applies_with_shift_1_fth_pt1_1731c_w_h_ot1040_pr_ltfa_copy {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void TC009_Verify_the_pay_code_combinations_if_Holiday_Premium_applies_with_Shift_1_FTH_PT1_1731C_W_H_OT840_PR_R_LTFA() {
+	public void tc009_verify_the_pay_code_combinations_if_holiday_premium_applies_with_shift_1_fth_pt1_1731c_w_h_ot1040_pr_ltfa_copy() {
 		tg.openBrowser();
 			if (tg.performAssert(var_Precondition_Login_UserName, ComparisonType.EQUAL_TO, "OJoshi3")) {
 				if (tg.performAssert(var_Precondition_Login_PassWord, ComparisonType.EQUAL_TO, "Kronos@134")) {
@@ -35,12 +35,12 @@ public class TC009_Verify_the_pay_code_combinations_if_Holiday_Premium_applies_w
 					}
 				}
 			}
-			if (tg.performAssert(var_Process_Payrule, ComparisonType.EQUAL_TO, "FTH-PT1-1731C-W-HOT840-PR-R-LTFA")) {
-				if (tg.performAssert(var_Process_Employee_ID, ComparisonType.EQUAL_TO, "13317306")) {
+			if (tg.performAssert(var_Process_Payrule, ComparisonType.EQUAL_TO, "FTH-PT1-1731C-W-H-OT1040-PR-LTFA")) {
+				if (tg.performAssert(var_Process_Employee_ID, ComparisonType.EQUAL_TO, "13316750")) {
 			tg.testFunction("fnGoToPeopleInfoAndVerifyPayRule");
 				}
 			}
-			if (tg.performAssert(var_Process_Employee_ID, ComparisonType.EQUAL_TO, "13317306")) {
+			if (tg.performAssert(var_Process_Employee_ID, ComparisonType.EQUAL_TO, "13316750")) {
 							tg.testFunction("fnEmpTimecardFromPeopleInfo");
 			}
 			tg_String var_TimeFrame = "Select Range";
@@ -62,6 +62,5 @@ public class TC009_Verify_the_pay_code_combinations_if_Holiday_Premium_applies_w
 				tg.testFunction("fnVerifyingPaycodeAmountWages");
 				}
 			tg.testFunction("fnLogOut");
-		tg.wait("ele_Button_39e706aa", ComparisonType.IS_VISIBLE);
 	}
 }

@@ -66,6 +66,7 @@ public class tc007_verify_the_pay_code_combinations_if_holiday_premium_applies_w
 		tg.testFunction("fnVerifyingPaycodeAmountWages", new Object[]{});
 		}
 		tg.testFunction("fnLogOut", new Object[]{});
+		tg.wait(1);
 		tg.close();
 	}
 }

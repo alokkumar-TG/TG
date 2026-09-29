@@ -20,25 +20,13 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class sdsd {
+public class tc016 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void sdsd() {
+	public void tc016() {
 		tg.openBrowser();
-				tg.wait("ele_element508", ComparisonType.IS_VISIBLE);
-				tg.click("ele_element508", 1);
-				tg.wait("ele_rc9l6neapp741", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp741", 1);
-				tg.wait("ele_rc9l6neapp741", ComparisonType.IS_VISIBLE);
-				tg.type("ele_rc9l6neapp741", "gfhfghgf");
-				tg.wait("ele_rc9l6neapp095", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp095", 1);
-				tg.wait("ele_rc9l6neapp095", ComparisonType.IS_VISIBLE);
-				tg.type("ele_rc9l6neapp095", "dfgdfgdfg");
-				tg.wait("ele_login015", ComparisonType.IS_VISIBLE);
-				tg.click("ele_login015", 1);
-				tg.wait("ele_rcdl6neapp464", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rcdl6neapp464", 1);
+				tg.wait(2);
+		// [DISABLED] 		tg.testFunction("testlogin", new Object[]{});
 		tg.close();
 	}
 }

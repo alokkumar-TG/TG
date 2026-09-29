@@ -25,7 +25,14 @@ public class tcmtc02 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tcmtc02() {
 		tg.openBrowser();
-				tg.wait(5);
+		tg.wait(5);
+		tg.wait("ele_element508", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_emailaddre703", ComparisonType.IS_VISIBLE);
+		tg.click("ele_emailaddre797", 1);
+		tg.type("ele_emailaddre797", var_menuName);
+		tg.wait("ele_login015", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_element508", ComparisonType.IS_VISIBLE);
+		tg.wait("ele_element508", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }

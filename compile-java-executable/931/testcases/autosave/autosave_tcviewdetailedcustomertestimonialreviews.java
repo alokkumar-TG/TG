@@ -20,11 +20,15 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc009_verify_the_pay_code_combinations_if_holiday_premium_applies_with_shift_1_fth_pt1_1731c_w_h_ot1040_pr {
+public class tcviewdetailedcustomertestimonialreviews {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc009_verify_the_pay_code_combinations_if_holiday_premium_applies_with_shift_1_fth_pt1_1731c_w_h_ot1040_pr() {
+	public void tcviewdetailedcustomertestimonialreviews() {
 		tg.openBrowser();
+				tg.wait("ele_rc9l6neapp206", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp206", 1);
+				tg.wait("ele_rc9l6neapp206", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp206", "tc1");
 		tg.close();
 	}
 }
