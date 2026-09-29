@@ -25,7 +25,10 @@ public class tcviewdetailedcustomertestimonialreviews {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tcviewdetailedcustomertestimonialreviews() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait("ele_rc9l6neapp206", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp206", 1);
+				tg.wait("ele_rc9l6neapp206", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp206", "tc1");
 		tg.close();
 	}
 }
