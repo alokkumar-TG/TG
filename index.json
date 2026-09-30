@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "450",
-    "user_id": 1,
+    "user_id": 0,
     "abo_version": {
         "version_id": "450",
         "app_id": "213",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "213",
@@ -92,15 +92,7 @@
                     "created_at": "2026-09-02 21:32:32",
                     "qtest_skip_sync": "1",
                     "status": "4",
-                    "test_case_tags": [
-                        {
-                            "id": "5258",
-                            "version_module_id": "905",
-                            "name": "sss",
-                            "tc_id": "1327",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/450/905/testcases/dfdf.java",
                     "vault_paths": []
@@ -265,44 +257,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "3646",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "450",
-                    "version_module_id": "905",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                },
-                {
-                    "id": "3647",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "450",
-                    "version_module_id": "905",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "3652",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "450",
-                    "version_module_id": "905",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "3731",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "450",
-                    "version_module_id": "905",
-                    "description": "",
-                    "action_process": "delete_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -600,17 +555,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "3763",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "450",
-                    "version_module_id": "941",
-                    "description": "",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
