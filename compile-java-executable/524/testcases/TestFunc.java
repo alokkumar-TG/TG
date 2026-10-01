@@ -27,6 +27,7 @@ public class testfunc {
 		tg.openBrowser();
 		tg.wait(2);
 		tg.testFunction("fb", new Object[]{});
+		tg.testFunction("cehck", new Object[]{});
 		tg.close();
 	}
 }

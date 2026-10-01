@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "389",
-    "user_id": 100,
+    "user_id": 0,
     "abo_version": {
         "version_id": "389",
         "app_id": "227",
@@ -17,7 +17,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "227",
@@ -89,9 +89,9 @@
                     "is_ai_generated": "0",
                     "created_source": "recorder_wizard",
                     "created_source_ref": "ts_523",
-                    "is_draft": "107",
+                    "is_draft": "0",
                     "is_internal_launch": "0",
-                    "updated_at": "2026-09-30 19:06:49",
+                    "updated_at": "2026-10-01 11:10:42",
                     "created_at": "2026-09-30 18:00:49",
                     "qtest_skip_sync": "0",
                     "sub_user_id": null,
@@ -148,53 +148,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "2418",
-                    "user_id": "100",
-                    "app_id": "227",
-                    "version_id": "389",
-                    "version_module_id": "524",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "2419",
-                    "user_id": "100",
-                    "app_id": "227",
-                    "version_id": "389",
-                    "version_module_id": "524",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "2420",
-                    "user_id": "100",
-                    "app_id": "227",
-                    "version_id": "389",
-                    "version_module_id": "524",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "2421",
-                    "user_id": "100",
-                    "app_id": "227",
-                    "version_id": "389",
-                    "version_module_id": "524",
-                    "description": "",
-                    "action_process": "add_test_function"
-                },
-                {
-                    "id": "2422",
-                    "user_id": "100",
-                    "app_id": "227",
-                    "version_id": "389",
-                    "version_module_id": "524",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -443,7 +397,7 @@
                             "page_name": "",
                             "version_module_id": "524",
                             "element_name": "ele_Check",
-                            "element_display_name": "Testing ",
+                            "element_display_name": "Testing 455",
                             "element_image_url": "http://192.168.5.24/s/ele-imgs/524/26850.png",
                             "element_path_rid": "101TGWEBCOMMAIdTGWEBCOMMA0",
                             "autoheal_elements": "",
@@ -458,7 +412,7 @@
                             "web_context_element": "1",
                             "element_path_rid_ios": "",
                             "element_xcui_element": "undefined",
-                            "element_displayname": "",
+                            "element_displayname": "&quot;undefined&quot;",
                             "element_index": "undefined",
                             "element_parent_element": "undefined",
                             "element_path_rid_type": "7",
