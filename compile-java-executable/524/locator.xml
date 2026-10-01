@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_rc9l6neapp633">
+    <element type="xpath">//input[@id='_R_c9l6neappb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_c9l6neappb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_c9l6neappb6amH1_</element>
+    <element type="css">input#_R_c9l6neappb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/524/26844.png</element>
+  </locator>
+  <locator name="ele_rc9l6neapp566">
+    <element type="xpath">//input[@id='_R_c9l6neappb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_c9l6neappb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_c9l6neappb6amH1_</element>
+    <element type="css">input#_R_c9l6neappb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/524/26845.png</element>
+  </locator>
+  <locator name="ele_rcdl6neapp471">
+    <element type="xpath">//input[@id='_R_cdl6neappb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_cdl6neappb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_cdl6neappb6amH1_</element>
+    <element type="css">input#_R_cdl6neappb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/524/26846.png</element>
+  </locator>
+  <locator name="ele_rcdl6neapp199">
+    <element type="xpath">//input[@id='_R_cdl6neappb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_cdl6neappb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_cdl6neappb6amH1_</element>
+    <element type="css">input#_R_cdl6neappb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/524/26847.png</element>
+  </locator>
+  <locator name="ele_rcdl6neapp663">
+    <element type="xpath">//input[@id='_R_cdl6neappb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_cdl6neappb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_cdl6neappb6amH1_</element>
+    <element type="css">input#_R_cdl6neappb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/524/26848.png</element>
+  </locator>
+  <locator name="ele_login991">
+    <element type="css">span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ftTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[3]/div/div/div/div/div/span/span</element>
+    <element type="css">span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft</element>
+    <element type="css">form#login_form &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; span &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div/div/div/div/div/span/span</element>
+    <element type="class">x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA8</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/524/26849.png</element>
+  </locator>
+  <locator name="ele_Check">
+    <element type="id">101TGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/524/26850.png</element>
+  </locator>
+</locators>

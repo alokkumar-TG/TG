@@ -1,0 +1,640 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_rc9l6neapp633",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_c9l6neappb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "autocomplete": "username webauthn",
+                        "aria-invalid": "false",
+                        "id": "_R_c9l6neappb6amH1_",
+                        "type": "text",
+                        "name": "email",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_c9l6neappb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269,
+                    "suggest_name": "rc9l6neapp633"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp633"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_c9l6neappb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp633"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_c9l6neappb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp633"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_c9l6neappb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp633"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp633"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp633"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/524/26844.png"
+        },
+        {
+            "testcase_element": "ele_rc9l6neapp566",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_c9l6neappb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "autocomplete": "username webauthn",
+                        "aria-invalid": "false",
+                        "id": "_R_c9l6neappb6amH1_",
+                        "type": "text",
+                        "name": "email",
+                        "value": "manish"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_c9l6neappb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269,
+                    "suggest_name": "rc9l6neapp566"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp566"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_c9l6neappb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp566"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_c9l6neappb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp566"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_c9l6neappb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp566"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp566"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "rc9l6neapp566"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/524/26845.png"
+        },
+        {
+            "testcase_element": "ele_rcdl6neapp471",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_cdl6neappb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "aria-invalid": "false",
+                        "id": "_R_cdl6neappb6amH1_",
+                        "type": "password",
+                        "name": "pass",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_cdl6neappb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341,
+                    "suggest_name": "rcdl6neapp471"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp471"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_cdl6neappb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp471"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_cdl6neappb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp471"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_cdl6neappb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp471"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp471"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp471"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/524/26846.png"
+        },
+        {
+            "testcase_element": "ele_rcdl6neapp199",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_cdl6neappb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "aria-invalid": "false",
+                        "id": "_R_cdl6neappb6amH1_",
+                        "type": "password",
+                        "name": "pass",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_cdl6neappb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341,
+                    "suggest_name": "rcdl6neapp199"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp199"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_cdl6neappb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp199"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_cdl6neappb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp199"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_cdl6neappb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp199"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp199"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp199"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/524/26847.png"
+        },
+        {
+            "testcase_element": "ele_rcdl6neapp663",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft x1sc9c76 xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_cdl6neappb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "aria-invalid": "false",
+                        "id": "_R_cdl6neappb6amH1_",
+                        "type": "password",
+                        "name": "pass",
+                        "value": "Test"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_cdl6neappb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 762,
+                    "d_y": 341,
+                    "suggest_name": "rcdl6neapp663"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp663"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_cdl6neappb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp663"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_cdl6neappb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp663"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_cdl6neappb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp663"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp663"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 762,
+                    "d_y": 341.484375,
+                    "suggest_name": "rcdl6neapp663"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/524/26848.png"
+        },
+        {
+            "testcase_element": "ele_login991",
+            "tg_text": "Log in",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xlh3980 xvmahel x1sfkdl8 xurcqga x3vd66c xcd4a2j xtk6v10 x1yc453h xudqn12 x41vudc xg01cxk",
+                        "style": "--x---base-line-clamp-line-height: calc(var(--primary-label-line-height) * 1em); --x-lineHeight: calc(var(--primary-label-line-height) * 1em);"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ft"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ftTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 44,
+                    "d_x": 998,
+                    "d_y": 426,
+                    "suggest_name": "login991"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[3]/div/div/div/div/div/span/span",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 44,
+                    "d_x": 998.03125,
+                    "d_y": 426.984375,
+                    "suggest_name": "login991"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 44,
+                    "d_x": 998.03125,
+                    "d_y": 426.984375,
+                    "suggest_name": "login991"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#login_form > div > div > div > div:nth-of-type(3) > div > div > div > div > div > span > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 44,
+                    "d_x": 998.03125,
+                    "d_y": 426.984375,
+                    "suggest_name": "login991"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/div/div/div/div/div/span/span",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 44,
+                    "d_x": 998.03125,
+                    "d_y": 426.984375,
+                    "suggest_name": "login991"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA8",
+                    "locator_id": "6",
+                    "d_h": 19,
+                    "d_w": 44,
+                    "d_x": 998.03125,
+                    "d_y": 426.984375,
+                    "suggest_name": "login991"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.5.24/s/ele-imgs/524/26849.png"
+        },
+        {
+            "testcase_element": "ele_Check",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "101TGWEBCOMMA0",
+                    "locator_id": "7",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Check"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "id",
+            "image_url": "http://192.168.5.24/s/ele-imgs/524/26850.png"
+        }
+    ]
+}
