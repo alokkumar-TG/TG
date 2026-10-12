@@ -22,6 +22,7 @@ public class tc001_copy_copy {
 	public void tc001_copy_copy() {
 		tg.openDevice();
 		tg.wait(1);
+		tg.wait(2);
 		tg.close();
 	}
 }

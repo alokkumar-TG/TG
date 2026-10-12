@@ -1,4 +1,0 @@
-/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a9aaf322fca8_3860/appium-android/src/test/java/tcasdcopy.java:25: error: incompatible types: String cannot be converted to Double
-    var_sdsd = (String) tg.testFunction("TF0023", new Object[] { var_sdsd, var_sdsd, var_sdsd });
-               ^
-1 error
