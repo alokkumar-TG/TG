@@ -21,7 +21,7 @@ public class test_case_1788589916_copy {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void test_case_1788589916_copy() {
 		tg.openDevice();
-		tg.wait(5);
+				tg.wait(5);
 		tg.close();
 	}
 }

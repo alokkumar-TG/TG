@@ -21,6 +21,7 @@ public class tcasd_copy {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tcasd_copy() {
 		tg.openDevice();
+		tg.wait("ele_ActiveTextView1791371698693", ComparisonType.IS_INVISIBLE);
 		tg.close();
 	}
 }

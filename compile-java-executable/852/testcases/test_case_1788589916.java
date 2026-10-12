@@ -16,11 +16,12 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class gfhfgh {
+public class test_case_1788589916 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void gfhfgh() {
+	public void test_case_1788589916() {
 		tg.openDevice();
+		tg.wait(2);
 		tg.close();
 	}
 }

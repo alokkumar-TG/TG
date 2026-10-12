@@ -22,6 +22,42 @@ public class tc001_copy {
 	public void tc001_copy() {
 		tg.openDevice();
 		tg.wait(1);
+		tg.wait("ele_HomescreenScrollView1791371631928", ComparisonType.IS_VISIBLE);
+		tg.click("ele_HomescreenScrollView1791371631928", 1);
+		tg.wait("ele_TextView1791371639832", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TextView1791371639832", 1);
+		tg.wait("ele_contentFrameLayout1791371649651", ComparisonType.IS_VISIBLE);
+		tg.click("ele_contentFrameLayout1791371649651", 1);
+		tg.wait("ele_pnpmView1791371656785", ComparisonType.IS_VISIBLE);
+		tg.click("ele_pnpmView1791371656785", 1);
+		tg.wait("ele_bunView1791371661651", ComparisonType.IS_VISIBLE);
+		tg.click("ele_bunView1791371661651", 1);
+		tg.swipe(Direction.UP);
+		tg.swipe(Direction.UP);
+		tg.wait("ele_TracesagentscanreadTextView1791371678390", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TracesagentscanreadTextView1791371678390", 1);
+		tg.swipe(Direction.UP);
+		tg.wait("ele_FormsView1791371692431", ComparisonType.IS_VISIBLE);
+		tg.click("ele_FormsView1791371692431", 1);
+		tg.wait("ele_ActiveTextView1791371698693", ComparisonType.IS_VISIBLE);
+		tg.click("ele_ActiveTextView1791371698693", 1);
+		tg.wait("ele_OKButton1791371704047", ComparisonType.IS_VISIBLE);
+		tg.click("ele_OKButton1791371704047", 1);
+		tg.wait("ele_TextView1791371708596", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TextView1791371708596", 1);
+		tg.swipe(Direction.DOWN);
+		tg.swipe(Direction.UP);
+		tg.wait("ele_DragTextView1791371722481", ComparisonType.IS_VISIBLE);
+		tg.click("ele_DragTextView1791371722481", 1);
+		tg.wait("ele_TextView1791371727534", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TextView1791371727534", 1);
+		tg.wait("ele_TextView1791372054873", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TextView1791372054873", 1);
+		tg.wait("ele_TextView1791372173986", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TextView1791372173986", 1);
+		tg.wait("ele_TextView1791372177356", ComparisonType.IS_VISIBLE);
+		tg.click("ele_TextView1791372177356", 1);
+		tg.wait(2);
 		tg.close();
 	}
 }
