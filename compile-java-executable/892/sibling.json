@@ -1,0 +1,1452 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_viewmaleImageView1789558259803",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locator_type": 0,
+                    "locators_val": "homeworkout.homeworkouts.noequipment:id/view_male",
+                    "d_x": "8",
+                    "d_h": "754",
+                    "suggest_name": "viewmaleImageView1789558259803",
+                    "d_w": "352",
+                    "d_y": "407"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 1,
+                    "locators_val": "(//android.widget.ImageView[contains(@resource-id,'view_male')])[1]",
+                    "d_x": "8",
+                    "d_h": "754",
+                    "suggest_name": "viewmaleImageView1789558259803",
+                    "d_w": "352",
+                    "d_y": "407"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView",
+                    "d_x": "8",
+                    "d_h": "754",
+                    "suggest_name": "viewmaleImageView1789558259803",
+                    "d_w": "352",
+                    "d_y": "407"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "image_url": "192.168.88.204/s/ele-imgs/892/77359.png"
+        },
+        {
+            "testcase_element": "ele_viewpagerViewPager1789558430592",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//androidx.viewpager.widget.ViewPager[contains(@resource-id,'view_pager')])[1]",
+                    "locator_id": "3",
+                    "d_h": 1420,
+                    "d_w": 720,
+                    "d_x": 0,
+                    "d_y": 138,
+                    "suggest_name": "viewpagerViewPager1789558430592"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewpagerViewPager1789558430592",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager"
+                    ],
+                    "img": "",
+                    "d_h": "1420",
+                    "d_w": "720",
+                    "d_x": "0",
+                    "d_y": "138",
+                    "element_area": 2140,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewmaleImageView1789558521278",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[contains(@resource-id,'view_male')])[1]",
+                    "locator_id": "3",
+                    "d_h": 754,
+                    "d_w": 352,
+                    "d_x": 8,
+                    "d_y": 407,
+                    "suggest_name": "viewmaleImageView1789558521278"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewmaleImageView1789558521278",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_h": "754",
+                    "d_w": "352",
+                    "d_x": "8",
+                    "d_y": "407",
+                    "element_area": 1106,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewpagerViewPager1789559303356",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//androidx.viewpager.widget.ViewPager[contains(@resource-id,'view_pager')])[1]",
+                    "locator_id": "3",
+                    "d_h": 1420,
+                    "d_w": 720,
+                    "d_x": 0,
+                    "d_y": 138,
+                    "suggest_name": "viewpagerViewPager1789559303356"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewpagerViewPager1789559303356",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager"
+                    ],
+                    "img": "",
+                    "d_h": "1420",
+                    "d_w": "720",
+                    "d_x": "0",
+                    "d_y": "138",
+                    "element_area": 2140,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewmaleImageView1789718546248",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[contains(@resource-id,'view_male')])[1]",
+                    "locator_id": "3",
+                    "d_h": 754,
+                    "d_w": 352,
+                    "d_x": 8,
+                    "d_y": 407,
+                    "suggest_name": "viewmaleImageView1789718546248"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewmaleImageView1789718546248",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_h": "754",
+                    "d_w": "352",
+                    "d_x": "8",
+                    "d_y": "407",
+                    "element_area": 1106,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewmaleImageView1789720134928",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[contains(@resource-id,'view_male')])[1]",
+                    "locator_id": "3",
+                    "d_h": 754,
+                    "d_w": 352,
+                    "d_x": 8,
+                    "d_y": 407,
+                    "suggest_name": "viewmaleImageView1789720134928"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewmaleImageView1789720134928",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_h": "754",
+                    "d_w": "352",
+                    "d_x": "8",
+                    "d_y": "407",
+                    "element_area": 1106,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewmaleselectImageView1789720789117",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[contains(@resource-id,'view_male_select')])[1]",
+                    "locator_id": "3",
+                    "d_h": 295,
+                    "d_w": 338,
+                    "d_x": 191,
+                    "d_y": 545,
+                    "suggest_name": "viewmaleselectImageView1789720789117"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewmaleselectImageView1789720789117",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView[2]"
+                    ],
+                    "img": "",
+                    "d_h": "295",
+                    "d_w": "338",
+                    "d_x": "191",
+                    "d_y": "545",
+                    "element_area": 633,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_spacearmView1789720800429",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'space_arm')])[1]",
+                    "locator_id": "3",
+                    "d_h": 91,
+                    "d_w": 704,
+                    "d_x": 8,
+                    "d_y": 580,
+                    "suggest_name": "spacearmView1789720800429"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "spacearmView1789720800429",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.View[2]"
+                    ],
+                    "img": "",
+                    "d_h": "91",
+                    "d_w": "704",
+                    "d_x": "8",
+                    "d_y": "580",
+                    "element_area": 795,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.view.View[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_linebtnendView1789720806490",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'line_btn_end')])[1]",
+                    "locator_id": "3",
+                    "d_h": 754,
+                    "d_w": 1,
+                    "d_x": 342,
+                    "d_y": 407,
+                    "suggest_name": "linebtnendView1789720806490"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "linebtnendView1789720806490",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.View[6]"
+                    ],
+                    "img": "",
+                    "d_h": "754",
+                    "d_w": "1",
+                    "d_x": "342",
+                    "d_y": "407",
+                    "element_area": 755,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.View[6]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1789720811941",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1401,
+                    "suggest_name": "btnplaceholderView1789720811941"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1789720811941",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1401",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FullbodyTextView1789720816863",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_full_body')])[1]",
+                    "locator_id": "3",
+                    "d_h": 90,
+                    "d_w": 317,
+                    "d_x": 26,
+                    "d_y": 456,
+                    "suggest_name": "FullbodyTextView1789720816863"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "FullbodyTextView1789720816863",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "90",
+                    "d_w": "317",
+                    "d_x": "26",
+                    "d_y": "456",
+                    "element_area": 407,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewmaleImageView1790248767032",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[contains(@resource-id,'view_male')])[1]",
+                    "locator_id": "3",
+                    "d_h": 754,
+                    "d_w": 352,
+                    "d_x": 8,
+                    "d_y": 407,
+                    "suggest_name": "viewmaleImageView1790248767032"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewmaleImageView1790248767032",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_h": "754",
+                    "d_w": "352",
+                    "d_x": "8",
+                    "d_y": "407",
+                    "element_area": 1106,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790248769811",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1401,
+                    "suggest_name": "btnplaceholderView1790248769811"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790248769811",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1401",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FullbodyTextView1790248774087",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_full_body')])[1]",
+                    "locator_id": "3",
+                    "d_h": 90,
+                    "d_w": 317,
+                    "d_x": 26,
+                    "d_y": 456,
+                    "suggest_name": "FullbodyTextView1790248774087"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "FullbodyTextView1790248774087",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "90",
+                    "d_w": "317",
+                    "d_x": "26",
+                    "d_y": "456",
+                    "element_area": 407,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790248778168",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1401,
+                    "suggest_name": "btnplaceholderView1790248778168"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790248778168",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1401",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_LoseWeightTextView1790248783380",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_name')])[1]",
+                    "locator_id": "3",
+                    "d_h": 59,
+                    "d_w": 230,
+                    "d_x": 96,
+                    "d_y": 473,
+                    "suggest_name": "LoseWeightTextView1790248783380"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "LoseWeightTextView1790248783380",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "59",
+                    "d_w": "230",
+                    "d_x": "96",
+                    "d_y": "473",
+                    "element_area": 289,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790248795151",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1416,
+                    "suggest_name": "btnplaceholderView1790248795151"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790248795151",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1416",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ImprovehealthTextView1790248799129",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_name')])[3]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 237,
+                    "d_x": 169,
+                    "d_y": 785,
+                    "suggest_name": "ImprovehealthTextView1790248799129"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "ImprovehealthTextView1790248799129",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "237",
+                    "d_x": "169",
+                    "d_y": "785",
+                    "element_area": 286,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ReleasestressTextView1790248802104",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_name')])[2]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 224,
+                    "d_x": 169,
+                    "d_y": 616,
+                    "suggest_name": "ReleasestressTextView1790248802104"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "ReleasestressTextView1790248802104",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "224",
+                    "d_x": "169",
+                    "d_y": "616",
+                    "element_area": 273,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_BoostenergyTextView1790248806265",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_name')])[4]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 207,
+                    "d_x": 169,
+                    "d_y": 954,
+                    "suggest_name": "BoostenergyTextView1790248806265"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "BoostenergyTextView1790248806265",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "207",
+                    "d_x": "169",
+                    "d_y": "954",
+                    "element_area": 256,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FeelconfidentTextView1790248810704",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_name')])[1]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 222,
+                    "d_x": 169,
+                    "d_y": 447,
+                    "suggest_name": "FeelconfidentTextView1790248810704"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "FeelconfidentTextView1790248810704",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "222",
+                    "d_x": "169",
+                    "d_y": "447",
+                    "element_area": 271,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_LinearLayout1790265203519",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout",
+                    "locator_id": "3",
+                    "d_h": 1287,
+                    "d_w": 720,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "LinearLayout1790265203519"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewmaleImageView1790265238728",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.ImageView[contains(@resource-id,'view_male')])[1]",
+                    "locator_id": "3",
+                    "d_h": 754,
+                    "d_w": 352,
+                    "d_x": 8,
+                    "d_y": 407,
+                    "suggest_name": "viewmaleImageView1790265238728"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewmaleImageView1790265238728",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_h": "754",
+                    "d_w": "352",
+                    "d_x": "8",
+                    "d_y": "407",
+                    "element_area": 1106,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790265243195",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1401,
+                    "suggest_name": "btnplaceholderView1790265243195"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790265243195",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1401",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FullbodyTextView1790265247047",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_full_body')])[1]",
+                    "locator_id": "3",
+                    "d_h": 90,
+                    "d_w": 317,
+                    "d_x": 26,
+                    "d_y": 456,
+                    "suggest_name": "FullbodyTextView1790265247047"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "FullbodyTextView1790265247047",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "90",
+                    "d_w": "317",
+                    "d_x": "26",
+                    "d_y": "456",
+                    "element_area": 407,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FullbodyTextView1790265249576",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_full_body')])[1]",
+                    "locator_id": "3",
+                    "d_h": 90,
+                    "d_w": 317,
+                    "d_x": 26,
+                    "d_y": 456,
+                    "suggest_name": "FullbodyTextView1790265249576"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "FullbodyTextView1790265249576",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "90",
+                    "d_w": "317",
+                    "d_x": "26",
+                    "d_y": "456",
+                    "element_area": 407,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FullbodyTextView1790265253992",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_full_body')])[1]",
+                    "locator_id": "3",
+                    "d_h": 90,
+                    "d_w": 317,
+                    "d_x": 26,
+                    "d_y": 456,
+                    "suggest_name": "FullbodyTextView1790265253992"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "FullbodyTextView1790265253992",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "90",
+                    "d_w": "317",
+                    "d_x": "26",
+                    "d_y": "456",
+                    "element_area": 407,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790265257191",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1401,
+                    "suggest_name": "btnplaceholderView1790265257191"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790265257191",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1401",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewforegroundView1790265261541",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'view_fore_ground')])[2]",
+                    "locator_id": "3",
+                    "d_h": 202,
+                    "d_w": 622,
+                    "d_x": 49,
+                    "d_y": 631,
+                    "suggest_name": "viewforegroundView1790265261541"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewforegroundView1790265261541",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "202",
+                    "d_w": "622",
+                    "d_x": "49",
+                    "d_y": "631",
+                    "element_area": 824,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790265264952",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1416,
+                    "suggest_name": "btnplaceholderView1790265264952"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790265264952",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1416",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ReleasestressTextView1790265268217",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_name')])[2]",
+                    "locator_id": "3",
+                    "d_h": 49,
+                    "d_w": 224,
+                    "d_x": 169,
+                    "d_y": 616,
+                    "suggest_name": "ReleasestressTextView1790265268217"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "ReleasestressTextView1790265268217",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "49",
+                    "d_w": "224",
+                    "d_x": "169",
+                    "d_y": "616",
+                    "element_area": 273,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790265271533",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1416,
+                    "suggest_name": "btnplaceholderView1790265271533"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790265271533",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1416",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ViewGroup1790265275001",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[3]",
+                    "locator_id": "3",
+                    "d_h": 175,
+                    "d_w": 622,
+                    "d_x": 49,
+                    "d_y": 807,
+                    "suggest_name": "ViewGroup1790265275001"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790265278341",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1416,
+                    "suggest_name": "btnplaceholderView1790265278341"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790265278341",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1416",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewforegroundViewGroup1790265282129",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.ViewGroup[contains(@resource-id,'view_fore_ground')])[4]",
+                    "locator_id": "3",
+                    "d_h": 142,
+                    "d_w": 622,
+                    "d_x": 49,
+                    "d_y": 911,
+                    "suggest_name": "viewforegroundViewGroup1790265282129"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewforegroundViewGroup1790265282129",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup"
+                    ],
+                    "img": "",
+                    "d_h": "142",
+                    "d_w": "622",
+                    "d_x": "49",
+                    "d_y": "911",
+                    "element_area": 764,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_viewforegroundViewGroup1790265286031",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.ViewGroup[contains(@resource-id,'view_fore_ground')])[4]",
+                    "locator_id": "3",
+                    "d_h": 228,
+                    "d_w": 622,
+                    "d_x": 49,
+                    "d_y": 911,
+                    "suggest_name": "viewforegroundViewGroup1790265286031"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewforegroundViewGroup1790265286031",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup"
+                    ],
+                    "img": "",
+                    "d_h": "228",
+                    "d_w": "622",
+                    "d_x": "49",
+                    "d_y": "911",
+                    "element_area": 850,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.view.ViewGroup",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790265293155",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1416,
+                    "suggest_name": "btnplaceholderView1790265293155"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790265293155",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1416",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_btnplaceholderView1790265302018",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 590,
+                    "d_x": 65,
+                    "d_y": 1416,
+                    "suggest_name": "btnplaceholderView1790265302018"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "btnplaceholderView1790265302018",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View[4]"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "590",
+                    "d_x": "65",
+                    "d_y": "1416",
+                    "element_area": 695,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View[4]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_GETMYPLANTextView1790265306088",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_btn')])[1]",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 626,
+                    "d_x": 47,
+                    "d_y": 1416,
+                    "suggest_name": "GETMYPLANTextView1790265306088"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "GETMYPLANTextView1790265306088",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]"
+                    ],
+                    "img": "",
+                    "d_h": "105",
+                    "d_w": "626",
+                    "d_x": "47",
+                    "d_y": "1416",
+                    "element_area": 731,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_GotohomepageTextView1790265315010",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'tv_main_page')])[1]",
+                    "locator_id": "3",
+                    "d_h": 41,
+                    "d_w": 222,
+                    "d_x": 249,
+                    "d_y": 1459,
+                    "suggest_name": "GotohomepageTextView1790265315010"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "GotohomepageTextView1790265315010",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]"
+                    ],
+                    "img": "",
+                    "d_h": "41",
+                    "d_w": "222",
+                    "d_x": "249",
+                    "d_y": "1459",
+                    "element_area": 263,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}
