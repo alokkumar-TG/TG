@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_mainmenurefreshTextView1791884256306">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_mainmenusearchcityTextView1791884260588">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_search_city')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="image">192.168.88.204/s/ele-imgs/967/77427.png</element>
+  </locator>
+  <locator name="ele_searchclosebtnImageView1791884265282">
+    <element type="xpath">(//android.widget.ImageView[contains(@resource-id,'search_close_btn')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ImageView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.ImageView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/967/77428.png</element>
+  </locator>
+  <locator name="ele_NavigateupImageButton1791884269111">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/967/77429.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791884271955">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/967/77430.png</element>
+  </locator>
+  <locator name="ele_TextView1791884275828">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.weather_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/967/77431.png</element>
+  </locator>
+</locators>
