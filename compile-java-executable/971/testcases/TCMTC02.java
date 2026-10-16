@@ -18,6 +18,7 @@ import java.io.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
+
 @Listeners(TestListener.class);
 public class tcmtc02 {
 
@@ -25,6 +26,12 @@ public class tcmtc02 {
 	public void tcmtc02() {
 		tg.openBrowser();
 		tg.wait(1);
+		tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
+		tg.click("ele_rc9l6neapp729", 1);
+		tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
+		tg.type("ele_rc9l6neapp729", "sdsdsd");
+		tg.wait("ele_password930", ComparisonType.IS_VISIBLE);
+		tg.click("ele_password930", 1);
 		tg.close();
 	}
 }

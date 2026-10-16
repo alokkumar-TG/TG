@@ -22,13 +22,14 @@ import org.testng.annotations.Test;
 class tf01 {
 
 	public static void tf01() {
-				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp729", 1);
-				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-				tg.type("ele_rc9l6neapp729", "fdsdsfsdf");
-				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp729", 1);
-				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-				tg.type("ele_rc9l6neapp729", "fdfsfddsf");
+				tg.wait(2);
+				tg.wait("ele_rc9l6neapp150", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp150", 1);
+				tg.wait("ele_rc9l6neapp150", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp150", "gdfgdfg");
+				tg.wait("ele_rcdl6neapp667", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rcdl6neapp667", 1);
+				tg.wait("ele_rcdl6neapp667", ComparisonType.IS_VISIBLE);
+				tg.typeEncrypted("ele_rcdl6neapp667", "VLYz4QIWqcU0cRLTnL+FJg==:MTIzNDU2Nzg5MTAxMTEyMQ==");
 	}
 }

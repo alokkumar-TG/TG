@@ -19,16 +19,17 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class tgsurat {
+class fc01 {
 
-	public static void tgsurat() {
-		tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-		tg.click("ele_rc9l6neapp729", 1);
-		tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-		tg.type("ele_rc9l6neapp729", "sdsdsd");
-		tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-		tg.click("ele_rc9l6neapp729", 1);
-		tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
-		tg.type("ele_rc9l6neapp729", "sdsdsdsd");
+	public static void fc01() {
+				tg.wait(2);
+				tg.wait("ele_rc9l6neapp150", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp150", 1);
+				tg.wait("ele_rc9l6neapp150", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp150", "gdfgdfg");
+				tg.wait("ele_rcdl6neapp667", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rcdl6neapp667", 1);
+				tg.wait("ele_rcdl6neapp667", ComparisonType.IS_VISIBLE);
+				tg.typeEncrypted("ele_rcdl6neapp667", "VLYz4QIWqcU0cRLTnL+FJg==:MTIzNDU2Nzg5MTAxMTEyMQ==");
 	}
 }

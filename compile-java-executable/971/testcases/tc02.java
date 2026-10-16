@@ -25,7 +25,18 @@ public class tc02 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc02() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp729", 1);
+				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp729", "sdsdsd");
+				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp729", 1);
+				tg.wait("ele_rc9l6neapp729", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp729", "sdsdsdsd");
+				tg.wait("ele_rc9l6neapp864", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp864", 1);
+				tg.wait("ele_rc9l6neapp864", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp864", "sd");
 		tg.close();
 	}
 }
