@@ -1458,6 +1458,26 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "192.168.88.204/s/ele-imgs/971/78194.png"
+        },
+        {
+            "testcase_element": "ele_dsf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ddsfTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 420,
+                    "d_w": 1482,
+                    "d_x": 233,
+                    "d_y": 239,
+                    "suggest_name": "dsf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "192.168.88.204/s/ele-imgs/971/78195.png"
         }
     ]
 }
