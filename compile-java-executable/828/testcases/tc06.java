@@ -1,0 +1,85 @@
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import io.testgrid.enums.Alert;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.ios.IOSDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class tc06 {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void tc06() {
+		tg.openDevice();
+				tg.swipe(Direction.DOWN);
+				tg.swipe(Direction.UP);
+				tg.swipe(Direction.DOWN);
+				tg.wait("ele_mainmenurefreshTextView1791990268883", ComparisonType.IS_VISIBLE);
+				tg.click("ele_mainmenurefreshTextView1791990268883", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990281228", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990281228", 1);
+				tg.wait("ele_DailyForecastCheckedTextView1791990286608", ComparisonType.IS_VISIBLE);
+				tg.click("ele_DailyForecastCheckedTextView1791990286608", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990295418", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990295418", 1);
+				tg.wait("ele_GraphsCheckedTextView1791990301926", ComparisonType.IS_VISIBLE);
+				tg.click("ele_GraphsCheckedTextView1791990301926", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990309019", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990309019", 1);
+				tg.wait("ele_CurrentWeatherCheckedTextView1791990321831", ComparisonType.IS_VISIBLE);
+				tg.click("ele_CurrentWeatherCheckedTextView1791990321831", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990326339", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990326339", 1);
+				tg.wait("ele_CurrentWeatherCheckedTextView1791990344575", ComparisonType.IS_VISIBLE);
+				tg.click("ele_CurrentWeatherCheckedTextView1791990344575", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990351910", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990351910", 1);
+				tg.wait("ele_CurrentWeatherCheckedTextView1791990364941", ComparisonType.IS_VISIBLE);
+				tg.click("ele_CurrentWeatherCheckedTextView1791990364941", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990379992", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990379992", 1);
+				tg.wait("ele_GraphsCheckedTextView1791990391582", ComparisonType.IS_VISIBLE);
+				tg.click("ele_GraphsCheckedTextView1791990391582", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990399169", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990399169", 1);
+				tg.wait("ele_GraphsCheckedTextView1791990418144", ComparisonType.IS_VISIBLE);
+				tg.click("ele_GraphsCheckedTextView1791990418144", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990426962", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990426962", 1);
+				tg.wait("ele_GraphsCheckedTextView1791990434888", ComparisonType.IS_VISIBLE);
+				tg.click("ele_GraphsCheckedTextView1791990434888", 1);
+				tg.wait("ele_actionrefreshTextView1791990455239", ComparisonType.IS_VISIBLE);
+				tg.click("ele_actionrefreshTextView1791990455239", 1);
+				tg.wait("ele_actionrefreshTextView1791990461773", ComparisonType.IS_VISIBLE);
+				tg.click("ele_actionrefreshTextView1791990461773", 1);
+				tg.wait("ele_actionrefreshTextView1791990465566", ComparisonType.IS_VISIBLE);
+				tg.click("ele_actionrefreshTextView1791990465566", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990472187", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990472187", 1);
+				tg.wait("ele_TemperatureCTextView1791990478221", ComparisonType.IS_VISIBLE);
+				tg.click("ele_TemperatureCTextView1791990478221", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990490995", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990490995", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990861857", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990861857", 1);
+				tg.wait("ele_CurrentWeatherCheckedTextView1791990870063", ComparisonType.IS_VISIBLE);
+				tg.click("ele_CurrentWeatherCheckedTextView1791990870063", 1);
+				tg.wait("ele_mainmenurefreshTextView1791990884382", ComparisonType.IS_VISIBLE);
+				tg.click("ele_mainmenurefreshTextView1791990884382", 1);
+				tg.wait("ele_OpennavigationdrawerImageButton1791990861857", ComparisonType.IS_VISIBLE);
+				tg.click("ele_OpennavigationdrawerImageButton1791990861857", 1);
+				tg.wait("ele_CurrentWeatherCheckedTextView1791990870063", ComparisonType.IS_VISIBLE);
+				tg.click("ele_CurrentWeatherCheckedTextView1791990870063", 1);
+		tg.close();
+	}
+}

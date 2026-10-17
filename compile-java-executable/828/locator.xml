@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_viewmaleImageView1785959200600">
+    <element type="xpath">(//android.widget.ImageView[contains(@resource-id,'view_male')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.ImageView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71954.png</element>
+  </locator>
+  <locator name="ele_btnplaceholderView1785959205565">
+    <element type="xpath">(//android.view.View[contains(@resource-id,'btn_place_holder')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.View</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71955.png</element>
+  </locator>
+  <locator name="ele_ivimgImageView1785959217954">
+    <element type="xpath">(//android.widget.ImageView[contains(@resource-id,'iv_img')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71957.png</element>
+  </locator>
+  <locator name="ele_viewforegroundView1785959272169">
+    <element type="xpath">(//android.view.View[contains(@resource-id,'view_fore_ground')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup/android.view.View</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71958.png</element>
+  </locator>
+  <locator name="ele_pushupsTextView1785959287118">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'tv_detail')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.TextView[2]</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71959.png</element>
+  </locator>
+  <locator name="ele_viewforegroundViewGroup1785959295897">
+    <element type="xpath">(//android.view.ViewGroup[contains(@resource-id,'view_fore_ground')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.view.ViewGroup</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71960.png</element>
+  </locator>
+  <locator name="ele_GETMYPLANTextView1785959332723">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'tv_btn')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71961.png</element>
+  </locator>
+  <locator name="ele_GotohomepageTextView1785959352558">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'tv_main_page')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[2]</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71962.png</element>
+  </locator>
+  <locator name="ele_yourteamEditText1785959693265">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'text_ufb_business_name')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71963.png</element>
+  </locator>
+  <locator name="ele_NextButton1785959704774">
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'log_in_button')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71964.png</element>
+  </locator>
+  <locator name="ele_OKButton1785959709061">
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'button1')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v7.widget.LinearLayoutCompat/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v7.widget.LinearLayoutCompat/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/71965.png</element>
+  </locator>
+  <locator name="ele_TextView1789202896210">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.temperature')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/74244.png</element>
+  </locator>
+  <locator name="ele_Sunset659PMTextView1789202904015">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.sunset')])[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[6]/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout[6]/android.widget.TextView[2]</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/74245.png</element>
+  </locator>
+  <locator name="ele_mainmenusearchcityTextView1789202920707">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_search_city')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/74246.png</element>
+  </locator>
+  <locator name="ele_suratEditText1789202934810">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'search_src_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/74247.png</element>
+  </locator>
+  <locator name="ele_SratTextView1789202941734">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'city_name')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/74248.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1789202949078">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/74249.png</element>
+  </locator>
+  <locator name="ele_TextView1789202952606">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.weather_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/74250.png</element>
+  </locator>
+  <locator name="ele_Lastupdate709AMTextView1789124961963">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.last_update')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_mainmenusearchcityTextView1789124966599">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_search_city')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_NavigateupImageButton1789124971542">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+  </locator>
+  <locator name="ele_maingeneralinfoViewGroup1789133049245">
+    <element type="xpath">(//android.view.ViewGroup[contains(@resource-id,'main.general_info')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]</element>
+  </locator>
+  <locator name="ele_TextView1789143479484">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.temperature')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView[2]</element>
+  </locator>
+  <locator name="ele_TextView1789143484009">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.weather_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_maingeneralinfoViewGroup1789143488612">
+    <element type="xpath">(//android.view.ViewGroup[contains(@resource-id,'main.general_info')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]</element>
+  </locator>
+  <locator name="ele_LinearLayout1789143493614">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout</element>
+  </locator>
+  <locator name="ele_clearskyTextView1789143506122">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.description')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_mainmenurefreshTextView1791990268883">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990281228">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78146.png</element>
+  </locator>
+  <locator name="ele_DailyForecastCheckedTextView1791990286608">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[3]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[3]/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[3]/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78147.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990295418">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78148.png</element>
+  </locator>
+  <locator name="ele_GraphsCheckedTextView1791990301926">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78149.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990309019">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78150.png</element>
+  </locator>
+  <locator name="ele_CurrentWeatherCheckedTextView1791990321831">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78151.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990326339">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78152.png</element>
+  </locator>
+  <locator name="ele_CurrentWeatherCheckedTextView1791990344575">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78153.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990351910">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78154.png</element>
+  </locator>
+  <locator name="ele_CurrentWeatherCheckedTextView1791990364941">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78155.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990379992">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78156.png</element>
+  </locator>
+  <locator name="ele_GraphsCheckedTextView1791990391582">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78157.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990399169">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78158.png</element>
+  </locator>
+  <locator name="ele_GraphsCheckedTextView1791990418144">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78159.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990426962">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78160.png</element>
+  </locator>
+  <locator name="ele_GraphsCheckedTextView1791990434888">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar[2]/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78161.png</element>
+  </locator>
+  <locator name="ele_actionrefreshTextView1791990455239">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'action_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78162.png</element>
+  </locator>
+  <locator name="ele_actionrefreshTextView1791990461773">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'action_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78163.png</element>
+  </locator>
+  <locator name="ele_actionrefreshTextView1791990465566">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'action_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78164.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990472187">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78165.png</element>
+  </locator>
+  <locator name="ele_TemperatureCTextView1791990478221">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'graphs.temperature_label')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78166.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990490995">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.widget.LinearLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78167.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791990861857">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+  </locator>
+  <locator name="ele_CurrentWeatherCheckedTextView1791990870063">
+    <element type="xpath">(//android.widget.CheckedTextView[contains(@resource-id,'design_menu_item_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.ar/android.widget.CheckedTextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78169.png</element>
+  </locator>
+  <locator name="ele_mainmenurefreshTextView1791990884382">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main_menu_refresh')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.support.v7.widget.ar/android.widget.TextView</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78170.png</element>
+  </locator>
+  <locator name="ele_dxcfsdf">
+    <element type="web_id">dxcfsdfTGWEBCOMMAIdTGWEBCOMMA0</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78171.png</element>
+  </locator>
+  <locator name="ele_sdfdsf">
+    <element type="web_class">sdfsdfTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">192.168.88.204/s/ele-imgs/828/78196.png</element>
+  </locator>
+</locators>
