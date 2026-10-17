@@ -25,33 +25,21 @@ public class tc02 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc02() {
 		tg.openBrowser();
-		tg.wait(1);
+		tg.wait(2);
+		tg.wait("ele_rc9l6neapp420", ComparisonType.IS_VISIBLE);
+		tg.click("ele_rc9l6neapp420", 1);
+		tg.wait("ele_rc9l6neapp420", ComparisonType.IS_VISIBLE);
+		tg.type("ele_rc9l6neapp420", "dfgdfg");
+		tg.wait("ele_logintofac088", ComparisonType.IS_VISIBLE);
+		tg.click("ele_logintofac088", 1);
+		tg.wait("ele_rc9l6neapp491", ComparisonType.IS_VISIBLE);
+		tg.click("ele_rc9l6neapp491", 1);
+		tg.wait("ele_rc9l6neapp491", ComparisonType.IS_VISIBLE);
+		tg.type("ele_rc9l6neapp491", "gdfg");
 		START_CUSTOM_SCRIPT;
-		
-		try {
-		    System.out.println("Checking delete confirmation popup...");
-		
-		    if (tg.performAssert("ele_DeleteConfirmation", ComparisonType.IS_VISIBLE)) {
-		        tg.wait("ele_DeleteConfirmation", ComparisonType.IS_VISIBLE);
-		
-		        System.out.println("Delete confirmation popup is visible.");
-		
-		        if (tg.performAssert("ele_ConfirmDelete", ComparisonType.IS_VISIBLE)) {
-		            tg.click("ele_ConfirmDelete", 1);
-		            System.out.println("Delete confirmed successfully.");
-		        } else {
-		            System.out.println("Confirm delete button is not visible.");
-		        }
-		
-		    } else {
-		        System.out.println("Delete confirmation popup is not displayed.");
-		    }
-		
-		} catch (Exception e) {
-		    System.out.println("Error while handling delete confirmation popup: "
-		            + e.getMessage());
+		if (tg.performAssert("ele_DeleteConfirmation", ComparisonType.IS_VISIBLE)) {
+		    tg.click("ele_ConfirmDelete", 1);
 		}
-		
 		END_CUSTOM_SCRIPT;
 		tg.close();
 	}

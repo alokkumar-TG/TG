@@ -25,7 +25,10 @@ public class tc01 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc01() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait("ele_rc9l6neapp346", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp346", 1);
+				tg.wait("ele_rc9l6neapp346", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp346", "asasasas");
 		tg.close();
 	}
 }

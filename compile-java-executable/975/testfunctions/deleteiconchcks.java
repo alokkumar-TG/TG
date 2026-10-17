@@ -22,9 +22,9 @@ import org.testng.annotations.Test;
 class deleteiconchcks {
 
 	public static void deleteiconchcks() {
-				tg.wait("ele_rc9l6neapp833", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp833", 1);
-				tg.wait("ele_rc9l6neapp833", ComparisonType.IS_VISIBLE);
-				tg.type("ele_rc9l6neapp833", "ffgc");
+				tg.wait("ele_rc9l6neapp346", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp346", 1);
+				tg.wait("ele_rc9l6neapp346", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp346", "asdasdasdasd");
 	}
 }

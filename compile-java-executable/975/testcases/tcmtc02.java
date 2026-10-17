@@ -20,15 +20,24 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc01 {
+public class tcmtc02 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc01() {
+	public void tcmtc02() {
 		tg.openBrowser();
-				tg.wait("ele_rc9l6neapp346", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp346", 1);
-				tg.wait("ele_rc9l6neapp346", ComparisonType.IS_VISIBLE);
-				tg.type("ele_rc9l6neapp346", "asasasas");
+				tg.wait(1);
+				tg.wait("ele_rc9l6neapp496", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp496", 1);
+				tg.wait("ele_rc9l6neapp496", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp496", "cxvxcvxcv");
+				tg.wait("ele_rc9l6neapp980", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp980", 1);
+				tg.wait("ele_rc9l6neapp980", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp980", "xcvxcvxcv");
+				tg.wait("ele_rcdl6neapp035", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rcdl6neapp035", 1);
+				tg.wait("ele_rcdl6neapp035", ComparisonType.IS_VISIBLE);
+				tg.typeEncrypted("ele_rcdl6neapp035", "t5zVhxZ2+MWmYi4MZ7hCfw==:MTIzNDU2Nzg5MTAxMTEyMQ==");
 		tg.close();
 	}
 }
