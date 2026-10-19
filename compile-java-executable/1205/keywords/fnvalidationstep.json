@@ -1,0 +1,23 @@
+{
+    "url": "https://icpqat03getaccount.azurewebsites.net/account/query",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "financialAccountNumber": "var_Ban"
+    },
+    "p_static": {
+        "financialAccountNumber": "974077773"
+    },
+    "key_path": "",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n    \"financialAccountNumber\": \"618940681\"\r\n}",
+    "body_static": "{\r\n    \"financialAccountNumber\": \"618940681\"\r\n}"
+}

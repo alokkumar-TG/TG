@@ -1,0 +1,116 @@
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import static io.testgrid.enums.KeyboardKeys.*;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import org.openqa.selenium.*;
+import io.appium.java_client.AppiumBy;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.ios.IOSDriver;
+import static io.testgrid.baseClass.driver;
+
+
+@Listeners(TestListener.class)
+public class QAT_ETSM_UI_Cancel_5GANS_Subscriptions_and_Verify_Offer_status_as_Cancelled_and_Agreement_status_is_EXPIRED extends tc_QAT_f305658e {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void QAT_ETSM_UI_Cancel_5GANS_Subscriptions_and_Verify_Offer_status_as_Cancelled_and_Agreement_status_is_EXPIRED() {
+		tg.openBrowser();
+		tg_String var_fnGetBANFromValidationAPIETPresponse = "";
+		var_fnGetBANFromValidationAPIETPresponse = (String) tg.testFunction("fnGetBANFromValidationAPIETP_copy2", new Object[]{var_Regression_Ban_Api});
+		tg_String var_fnGenerateOAuthAccessTokenV1response = "";
+		var_fnGenerateOAuthAccessTokenV1response = (String) tg.testFunction("fnGenerateOAuthAccessTokenV1_copy3", new Object[]{var_Regression_Get_Product});
+		tg_String var_fnGetProductresponse = "";
+		var_fnGetProductresponse = (String) tg.testFunction("fnGetProduct_copy2", new Object[]{var_Regression_Get_Product, var_Product_Id});
+		var_Created_By = "SDET_Automation";
+		tg_String var_fnBSSNewActivationRequestAndResponseresponse = "";
+		var_fnBSSNewActivationRequestAndResponseresponse = (String) tg.testFunction("fnBSSNewActivationRequestAndResponse_copy2", new Object[]{var_Regression_Get_Product, var_Created_By});
+		tg.wait(10);
+		// [DISABLED] tg.testFunction("fnKillApps_copy");
+		// [DISABLED] tg_String var_fnLoginTMobileUSAStagingSignInresponse = "";
+		// [DISABLED] var_fnLoginTMobileUSAStagingSignInresponse = (String) tg.testFunction("fnLoginTMobileUSAStagingSignIn_copy2", new Object[]{var_Url, var_Regression_Username, var_Regression_Password});
+		// [DISABLED] tg_String var_fnSearchOpenCreatedOrderresponse = "";
+		// [DISABLED] var_fnSearchOpenCreatedOrderresponse = (String) tg.testFunction("fnSearchOpenCreatedOrder_copy2", new Object[]{var_Search_Order, var_Status});
+			// [DISABLED] tg.click("ele_UpdateOrder_39ff4780", 1);
+			// [DISABLED] tg.wait(5);
+			// [DISABLED] tg.swipe("ele_Activated_39ff4784", Direction.UP);
+			// [DISABLED] tg.click("ele_Activated_39ff4784", 1);
+			// [DISABLED] tg.click("ele_Submit_39ff4784", 1);
+			tg_String var_fnQueryOrderFetchingDataresponse = "";
+			var_fnQueryOrderFetchingDataresponse = (String) tg.testFunction("fnQueryOrderFetchingData_copy2", new Object[]{var_Regression_Get_Product});
+			tg.wait(20);
+			var_fnGenerateOAuthAccessTokenV1response = (String) tg.testFunction("fnGenerateOAuthAccessTokenV1_copy3", new Object[]{var_Regression_Get_Product});
+			var_Transaction_Type = "Add a Line";
+			var_Action_Type_Code = "ACTIVATE";
+			tg_String var_fnBSSUpdateresponse = "";
+			var_fnBSSUpdateresponse = (String) tg.testFunction("fnBSSUpdate_copy2", new Object[]{var_Regression_Get_Product, var_Action_Type_Code, var_Transaction_Type});
+			tg.wait(15);
+			var_Status_Code = "OrderCompleted";
+			var_Sub_Status_Code = "OrderCompleted";
+			var_Customer_Id = "AccountId";
+			tg_String var_fnOrderQueryresponse = "";
+			var_fnOrderQueryresponse = (String) tg.testFunction("fnOrderQuery_copy2", new Object[]{var_Order_Id, var_Regression_Get_Product, var_Status_Code, var_Sub_Status_Code, var_Customer_Id, var_Customer_Details_Ban, var_Regression_Env, var_Bill_Pass_Addon, var_Billpassthrough, var_Billpassvalue, var_Offerstatus});
+			tg_String var_fnQueryOrderAPIresponse = "";
+			var_fnQueryOrderAPIresponse = (String) tg.testFunction("fnQueryOrderAPI_copy2", new Object[]{var_Regression_Get_Product});
+		// [DISABLED] tg.wait(20);
+		// [DISABLED] tg.check.isVisible("ele_DoneOrderSuccessfullySubmittedForActivation_39ff4845");
+		// [DISABLED] tg.testFunction("fnKillApps_copy");
+		// [DISABLED] var_fnGenerateOAuthAccessTokenV1response = (String) tg.testFunction("fnGenerateOAuthAccessTokenV1_copy3", new Object[]{var_Regression_Get_Product});
+			// [DISABLED] tg_String var_Qat_Etsm_Ui_Cancel_5gans_Subscriptions_And_Verify_Offer_Status_As_Cancelled_And_Agreement_Status_Is_Expired_Response = "";
+			// [DISABLED] var_Qat_Etsm_Ui_Cancel_5gans_Subscriptions_And_Verify_Offer_Status_As_Cancelled_And_Agreement_Status_Is_Expired_Response = tg.readFromAPI("qat_etsm_ui_cancel_5gans_subscriptions_and_verify_offer_status_as_cancelled_and_agreement_status_is_expired.json").getString();
+			// [DISABLED] START_CUSTOM_SCRIPT;
+			// [DISABLED] 	JSONObject responseJson = new JSONObject(var_Qat_Etsm_Ui_Cancel_5gans_Subscriptions_And_Verify_Offer_Status_As_Cancelled_And_Agreement_Status_Is_Expired_Response);
+			// [DISABLED] 	var_Account_Name = responseJson.getString("accountName");
+			// [DISABLED] 	var_Account_Id = responseJson.getString("accountId");
+			// [DISABLED] 	var_Taxpayer_Id = responseJson.getString("taxpayerId");
+			// [DISABLED] 	var_Product_Id = responseJson.getString("productId");
+			// [DISABLED] 	var_Product_Version = responseJson.getString("productVersion");
+			// [DISABLED] 	var_Product_Offer_Order_Id = responseJson.getString("productOfferOrderId");
+			// [DISABLED] 	var_Product_Name = responseJson.getString("productName");
+			// [DISABLED] 	var_Product_Description = responseJson.getString("productDescription");
+			// [DISABLED] 	var_External_Id = responseJson.getString("externalId");
+			// [DISABLED] 	var_Subscription_Id = responseJson.getString("subscriptionId");
+			// [DISABLED] 	var_Version = responseJson.getString("version");
+			// [DISABLED] 	var_Offer_Name = responseJson.getString("offerName");
+			// [DISABLED] 	var_Offer_Id = responseJson.getString("offerId");
+			// [DISABLED] 	var_Order_Id = responseJson.getString("orderId");
+			// [DISABLED] 	var_Quantity = responseJson.getString("quantity");
+			// [DISABLED] 	var_Modified_Date = responseJson.getString("modifiedDate");
+			// [DISABLED] 	var_Name = responseJson.getString("name");
+			// [DISABLED] 	var_Value = responseJson.getString("value");
+			// [DISABLED] 	var_Recurring_Price = responseJson.getString("recurringPrice");
+			// [DISABLED] 	var_One_Time_Price = responseJson.getString("oneTimePrice");
+			// [DISABLED] 	var_Recurring_Frequency = responseJson.getString("recurringFrequency");
+			// [DISABLED] 	var_Cost_Price = responseJson.getString("costPrice");
+			// [DISABLED] 	var_Id = responseJson.getString("id");
+			// [DISABLED] END_CUSTOM_SCRIPT;
+		tg.wait(5);
+			tg_String var_Qat_Etsm_Ui_Cancel_5gans_Subscriptions_And_Verify_Offer_Status_As_Cancelled_And_Agreement_Status_Is_Expired_2_Response = "";
+			var_Qat_Etsm_Ui_Cancel_5gans_Subscriptions_And_Verify_Offer_Status_As_Cancelled_And_Agreement_Status_Is_Expired_2_Response = tg.readFromAPI("qat_etsm_ui_cancel_5gans_subscriptions_and_verify_offer_status_as_cancelled_and_agreement_status_is_expired_2.json").getString();
+			START_CUSTOM_SCRIPT;
+				JSONObject responseJson = new JSONObject(var_Qat_Etsm_Ui_Cancel_5gans_Subscriptions_And_Verify_Offer_Status_As_Cancelled_And_Agreement_Status_Is_Expired_2_Response);
+				var_Order_Id = responseJson.getString("orderId");
+			END_CUSTOM_SCRIPT;
+		tg_String var_fnLoginTMobileUSAStagingSignInresponse = "";
+		var_fnLoginTMobileUSAStagingSignInresponse = (String) tg.testFunction("fnLoginTMobileUSAStagingSignIn_copy2", new Object[]{var_Url, var_Regression_Username, var_Regression_Password});
+			tg.click("ele_OrderID_39ff3dc7", 1);
+			tg.pressKey(ARROWDOWN, 1);
+			tg.pressKey(ARROWDOWN, 1);
+			tg.pressKey(ENTER, 1);
+			tg.performDoubleClick("ele_SearchOrder_39ff3dcd");
+			tg.type("ele_SearchOrder_39ff3dcd", "BAN");
+			tg.pressKey(ENTER, 1);
+			tg.wait(5);
+			tg.swipe("ele_TABLE_39ff3dd7", Direction.UP);
+			// [DISABLED] // Tosca: <Row> | {NULL} | (ActionMode 517)
+			// [DISABLED] // Tosca: <Cell> | Account ID | (ActionMode 165)
+			// [DISABLED] // Tosca: <Cell> | {Click} | (ActionMode 37)
+			tg.wait(15);
+		tg.wait(5);
+	}
+}

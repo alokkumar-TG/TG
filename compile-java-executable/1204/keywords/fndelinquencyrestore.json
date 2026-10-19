@@ -1,0 +1,25 @@
+{
+    "url": "https://deepio-internal-npe.t-mobile.com/qlab03/deep/v1/events/AccountRestored",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "accountNumber": "var_Customer_Details_Ban",
+        "billingAccountId": "var_Customer_Details_Ban"
+    },
+    "p_static": {
+        "accountNumber": "974077773",
+        "billingAccountId": "974077773"
+    },
+    "key_path": "",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n    \"eventId\": \"e26a43f2-192c-4a4b-927e-796f3fb485f4\",\r\n    \"eventType\": \"AccountRestored\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618932860\"\r\n    },\r\n    \"payload\": {\r\n        \"accountRestored\": {\r\n            \"reasonDescription\": \"Non-Pay Sus\",\r\n            \"banStatus\": \"O\",\r\n            \"banStatusDescription\": \"Open\",\r\n            \"accountSubType\": \"O\",\r\n            \"corporateNodeID\": \"46272226\",\r\n            \"accountType\": \"B\",\r\n            \"suspensionStartDate\": 1675353600000,\r\n            \"restorationDate\": 1677513600000,\r\n            \"billingAccountId\": 618932860,\r\n            \"accountClassifications\": [\r\n                \"IOTB2B_BAN\"\r\n            ],\r\n            \"reasonCode\": \"SNQ1\"\r\n        }\r\n    }\r\n}",
+    "body_static": "{\r\n    \"eventId\": \"e26a43f2-192c-4a4b-927e-796f3fb485f4\",\r\n    \"eventType\": \"AccountRestored\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618932860\"\r\n    },\r\n    \"payload\": {\r\n        \"accountRestored\": {\r\n            \"reasonDescription\": \"Non-Pay Sus\",\r\n            \"banStatus\": \"O\",\r\n            \"banStatusDescription\": \"Open\",\r\n            \"accountSubType\": \"O\",\r\n            \"corporateNodeID\": \"46272226\",\r\n            \"accountType\": \"B\",\r\n            \"suspensionStartDate\": 1675353600000,\r\n            \"restorationDate\": 1677513600000,\r\n            \"billingAccountId\": 618932860,\r\n            \"accountClassifications\": [\r\n                \"IOTB2B_BAN\"\r\n            ],\r\n            \"reasonCode\": \"SNQ1\"\r\n        }\r\n    }\r\n}"
+}

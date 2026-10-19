@@ -1,0 +1,23 @@
+{
+    "url": "https://etcheckout.qat03.t-mobile.com/api/iotUpdateOrder/updateStatus",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "Basic Z2FkZGFtLnNpZGRhcnRoYUB0LW1vYmlsZS5jb206ZTEzMWNmNmUtYmJkMy00MTllLWE2ZWItMWRhN2Y3N2JkZmU1"
+    },
+    "h_static": {
+        "Authorization": "Basic token"
+    },
+    "params": {
+        "orderId": "var_Order_Id"
+    },
+    "p_static": {
+        "orderId": ""
+    },
+    "key_path": "orderId",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n  \"reasonCode\": \"NLWT\",\r\n  \"orderId\": \"65113c4935d0030dfd8fe639\",\r\n  \"reasonDescription\": \"\"\r\n}",
+    "body_static": "{\r\n  \"reasonCode\": \"NLWT\",\r\n  \"orderId\": \"65113c4935d0030dfd8fe639\",\r\n  \"reasonDescription\": \"\"\r\n}"
+}

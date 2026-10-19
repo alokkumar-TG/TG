@@ -1,0 +1,25 @@
+{
+    "url": "https://deepio-internal-npe.t-mobile.com/qlab03/deep/v1/events/AccountSuspended",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "accountNumber": "var_Customer_Details_Ban",
+        "billingAccountId": "var_Customer_Details_Ban"
+    },
+    "p_static": {
+        "accountNumber": "974077773",
+        "billingAccountId": "974077773"
+    },
+    "key_path": "",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n    \"eventId\": \"e7bf2ac4-f6a1-4644-a03f-06cceddbca19\",\r\n    \"eventType\": \"AccountSuspended\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"eventVersion\": \"1.0\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618940363\"\r\n    },\r\n    \"headerReference\": {\r\n        \"activityId\": \"10268271868\",\r\n        \"applicationId\": \"DigitalBilling\"\r\n    },\r\n    \"payload\": {\r\n        \"accountSuspended\": {\r\n            \"reasonDescription\": \"Non-Payment\",\r\n            \"banStatus\": \"S\",\r\n            \"accountSubType\": \"C\",\r\n            \"accountType\": \"B\",\r\n            \"billingAccountId\": 618940363,\r\n            \"suspensionEndDate\": 1677916800000,\r\n            \"banStatusDescription\": \"Suspended\",\r\n            \"nonPaySusInd\": \"Y\",\r\n            \"suspensionStartDate\": 1677916800000,\r\n            \"accountClassifications\": [\r\n                \"IOTB2B_BAN\"\r\n            ],\r\n            \"reasonCode\": \"SNQ1\",\r\n            \"voluntarySuspendIndicator\": \"N\"\r\n        }\r\n    }\r\n}",
+    "body_static": "{\r\n    \"eventId\": \"e7bf2ac4-f6a1-4644-a03f-06cceddbca19\",\r\n    \"eventType\": \"AccountSuspended\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"eventVersion\": \"1.0\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618940363\"\r\n    },\r\n    \"headerReference\": {\r\n        \"activityId\": \"10268271868\",\r\n        \"applicationId\": \"DigitalBilling\"\r\n    },\r\n    \"payload\": {\r\n        \"accountSuspended\": {\r\n            \"reasonDescription\": \"Non-Payment\",\r\n            \"banStatus\": \"S\",\r\n            \"accountSubType\": \"C\",\r\n            \"accountType\": \"B\",\r\n            \"billingAccountId\": 618940363,\r\n            \"suspensionEndDate\": 1677916800000,\r\n            \"banStatusDescription\": \"Suspended\",\r\n            \"nonPaySusInd\": \"Y\",\r\n            \"suspensionStartDate\": 1677916800000,\r\n            \"accountClassifications\": [\r\n                \"IOTB2B_BAN\"\r\n            ],\r\n            \"reasonCode\": \"SNQ1\",\r\n            \"voluntarySuspendIndicator\": \"N\"\r\n        }\r\n    }\r\n}"
+}

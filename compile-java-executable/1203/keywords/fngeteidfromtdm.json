@@ -1,0 +1,21 @@
+{
+    "url": "https://tdp-reservation-on-demand-service.px-prd9101.tke.t-mobile.com/bypass/retrieve/eid?count=1",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "X-Auth-Originator": "var_Access_Tocken"
+    },
+    "p_static": {
+        "X-Auth-Originator": ""
+    },
+    "key_path": "EID",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30
+}

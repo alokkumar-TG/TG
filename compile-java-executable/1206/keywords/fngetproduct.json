@@ -1,0 +1,23 @@
+{
+    "url": "https://icpqat03getproductconfig.azurewebsites.net/api/v2/iot-products",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "item": "var_Product_Id"
+    },
+    "p_static": {
+        "item": ""
+    },
+    "key_path": "productId",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n\r\n    \"productId\": [\r\n\r\n        \"In-b3fe1b59-1a53-49a7-826f-f87594a005b4\"\r\n\r\n    ],\r\n\r\n    \"returnAll\" : true\r\n\r\n}",
+    "body_static": "{\r\n\r\n    \"productId\": [\r\n\r\n        \"In-b3fe1b59-1a53-49a7-826f-f87594a005b4\"\r\n\r\n    ],\r\n\r\n    \"returnAll\" : true\r\n\r\n}"
+}

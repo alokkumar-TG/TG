@@ -1,0 +1,4 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a79b3b978092_9749/appium-web/src/test/java/fngetproductdialpadcopy.java:191: error: variable var_Product_Id is already defined in method fngetproductdialpad(String,String)
+        String var_Product_Id = "";
+               ^
+1 error

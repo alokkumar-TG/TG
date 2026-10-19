@@ -1,0 +1,17 @@
+{
+    "url": "https://tep-query-api-prd.px-prd5102.tke.t-mobile.com/api/datareader/progression/SamsonJasperBN/v1/samson/qlab03",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTcxODQ2OTkyMH0.jzufQF85-jS9fMW8-2DTaNRiZCX-ilstit3QGLLXNdSMRMKa_dZoeLwn8YrxcGwZEbXoUxtWakueUu1am0WM6w"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {},
+    "p_static": {},
+    "key_path": "BAN",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30
+}
