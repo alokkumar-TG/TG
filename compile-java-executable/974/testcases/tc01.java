@@ -21,7 +21,14 @@ public class tc01 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc01() {
 		tg.openDevice();
-		tg.wait(1);
+				tg.wait("ele_yourteamEditText1792000119946", ComparisonType.IS_VISIBLE);
+				tg.click("ele_yourteamEditText1792000119946", 1);
+				tg.wait("ele_NextButton1792000134404", ComparisonType.IS_VISIBLE);
+				tg.click("ele_NextButton1792000134404", 1);
+				tg.wait("ele_yourteamEditText1792000119946", ComparisonType.IS_VISIBLE);
+				tg.click("ele_yourteamEditText1792000119946", 1);
+				tg.wait("ele_NextButton1792000134404", ComparisonType.IS_VISIBLE);
+				tg.click("ele_NextButton1792000134404", 1);
 		tg.close();
 	}
 }

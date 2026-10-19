@@ -1,0 +1,78 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_yourteamEditText1792000119946",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.EditText[contains(@resource-id,'text_ufb_business_name')])[1]",
+                    "locator_id": "3",
+                    "d_h": 75,
+                    "d_w": 225,
+                    "d_x": 176,
+                    "d_y": 1181,
+                    "suggest_name": "yourteamEditText1792000119946"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "yourteamEditText1792000119946",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_h": "75",
+                    "d_w": "225",
+                    "d_x": "176",
+                    "d_y": "1181",
+                    "element_area": 300,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "192.168.88.204/s/ele-imgs/974/80763.png"
+        },
+        {
+            "testcase_element": "ele_NextButton1792000134404",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.Button[contains(@resource-id,'log_in_button')])[1]",
+                    "locator_id": "3",
+                    "d_h": 90,
+                    "d_w": 570,
+                    "d_x": 75,
+                    "d_y": 555,
+                    "suggest_name": "NextButton1792000134404"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "NextButton1792000134404",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button"
+                    ],
+                    "img": "",
+                    "d_h": "90",
+                    "d_w": "570",
+                    "d_x": "75",
+                    "d_y": "555",
+                    "element_area": 660,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "192.168.88.204/s/ele-imgs/974/80764.png"
+        }
+    ]
+}

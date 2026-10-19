@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_yourteamEditText1792000119946">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'text_ufb_business_name')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.EditText</element>
+    <element type="image">192.168.88.204/s/ele-imgs/974/80763.png</element>
+  </locator>
+  <locator name="ele_NextButton1792000134404">
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'log_in_button')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button</element>
+    <element type="image">192.168.88.204/s/ele-imgs/974/80764.png</element>
+  </locator>
+</locators>
