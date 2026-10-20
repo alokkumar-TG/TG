@@ -1,0 +1,25 @@
+{
+    "url": "https://icpqat03simupload.azurewebsites.net/api/simupload",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "imsi": "var_Imsi",
+        "iccid": "var_Iccid"
+    },
+    "p_static": {
+        "imsi": "",
+        "iccid": ""
+    },
+    "key_path": "",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "[\r\n    {\r\n        \"imsi\": 310260243976855,\r\n        \"iccid\": 8901260243739768556\r\n    }\r\n]",
+    "body_static": "[\r\n    {\r\n        \"imsi\": 310260243976855,\r\n        \"iccid\": 8901260243739768556\r\n    }\r\n]"
+}

@@ -1,0 +1,59 @@
+{
+    "url": "https://icpqatorder-validate.azurewebsites.net/validate",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "customerId": "var_Account_Id",
+        "createdBy": "SDET_Automation",
+        "financialAccountNumber": "var_Financial_Account_Number",
+        "taxPayerId": "var_Taxpayer_Id",
+        "accountName": "var_Account_Name",
+        "productId": "var_Product_Id",
+        "productVersion": "var_Product_Version",
+        "productName": "var_Product_Description",
+        "recurringPrice": "var_Recurring_Price",
+        "oneTimePrice": "var_One_Time_Price",
+        "level": "var_Level",
+        "recurringFrequency": "var_Recurring_Frequency",
+        "offerId": "var_Offer_Id",
+        "offerName": "var_Offer_Name",
+        "name": "var_Name",
+        "value": "var_Value",
+        "partnerInformation": "var_Value",
+        "dueMonthlyAmount": "var_Recurring_Price",
+        "totalDueMonthlyAmount": "var_Recurring_Price"
+    },
+    "p_static": {
+        "customerId": "",
+        "createdBy": "SDET_Automation",
+        "financialAccountNumber": "974077773",
+        "taxPayerId": "",
+        "accountName": "",
+        "productId": "",
+        "productVersion": "",
+        "productName": "",
+        "recurringPrice": "",
+        "oneTimePrice": "",
+        "level": "",
+        "recurringFrequency": "",
+        "offerId": "",
+        "offerName": "",
+        "name": "",
+        "value": "",
+        "partnerInformation": "",
+        "dueMonthlyAmount": "",
+        "totalDueMonthlyAmount": ""
+    },
+    "key_path": "orderId",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n  \"channel\": \"IOTORDERPORTAL\",\r\n  \"salesChannelId\": \"98\",\r\n  \"dealerCode\": \"0000002\",\r\n  \"financialAccountNumber\": \"973985284\",\r\n  \"billingAddress\": {\r\n    \"addressLine1\": \"1101 SUPERMALL WAY STE 1317\",\r\n    \"addressLine2\": \"TS7NM\",\r\n    \"cityName\": \"AUBURN\",\r\n    \"stateName\": \"WA\",\r\n    \"countryCode\": \"US\",\r\n    \"postalCode\": \"98001\"\r\n  },\r\n  \"shippingMethod\": \"\",\r\n  \"primaryContact\": {\r\n    \"firstName\": \"SDET\",\r\n    \"familyNames\": \"Test\",\r\n    \"fullName\": \"SDET Test\",\r\n    \"emailAddress\": \"sdet@t-mobile.com\",\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": \"MOBILE\",\r\n        \"phoneNumber\": \"7013272068\",\r\n        \"emailAddress\": \"pavan@ravi83647.com\",\r\n        \"emailType\": \"ADMIN\"\r\n      }\r\n    ]\r\n  },\r\n  \"billingContact\": {\r\n    \"firstName\": null,\r\n    \"familyNames\": null,\r\n    \"fullName\": null,\r\n    \"emailAddress\": null,\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": null,\r\n        \"phoneNumber\": null,\r\n        \"emailAddress\": null,\r\n        \"emailType\": null\r\n      }\r\n    ],\r\n    \"positionTitle\": null\r\n  },\r\n  \"taxPayerId\": \"618865255\",\r\n  \"language\": \"EN\",\r\n  \"orderLineItem\": [\r\n    {\r\n      \"quantity\": 1,\r\n      \"product\": [\r\n        {\r\n          \"parentProductId\": null,\r\n          \"productId\": \"My-c25825c8-402c-443d-9476-0605402a95bb\",\r\n          \"productVersion\": 3,\r\n          \"productName\": \"Microsoft: Microsoft Intune\",\r\n          \"productType\": \"SUBSCRIPTION\",\r\n          \"productOfferPrice\": {\r\n            \"recurringPrice\": 9.6,\r\n            \"oneTimePrice\": 0\r\n          },\r\n          \"chargeUnit\": \"USD\",\r\n          \"level\": \"ACCOUNT\",\r\n          \"recurringFrequency\": \"MONTHLY\",\r\n          \"offer\": {\r\n            \"offerId\": \"1302050612\",\r\n            \"offerType\": \"SUBSCRIPTION\",\r\n            \"offerSubtype\": \"SOFTGOOD\",\r\n            \"offerName\": \"Microsoft: Microsoft Intune\",\r\n            \"status\": {\r\n              \"statusCode\": \"Pending Fulfillment\",\r\n              \"modifiedDate\": \"6/22/2023, 1:30:12 PM\"\r\n            },\r\n            \"specifications\": [\r\n              {\r\n                \"name\": \"partnerInformation\",\r\n                \"value\": \"Microsoft 365\"\r\n              }\r\n            ]\r\n          },\r\n          \"proration\": \"NONE\"\r\n        }\r\n      ],\r\n      \"partner\": {\r\n        \"externalId\": \"3453768545664\",\r\n        \"partnerInformation\": \"Microsoft 365\",\r\n        \"partnerSubscriptionId\": null\r\n      },\r\n      \"dueNowAmount\": 0,\r\n      \"taxAmount\": 0,\r\n      \"depositAmount\": 0,\r\n      \"deferToBillAmount\": 0,\r\n      \"dueMonthlyAmount\": 9.6,\r\n      \"ppuAddress\": {\r\n        \"addressLine1\": \"1101 SUPERMALL WAY STE 1317\",\r\n        \"addressLine2\": \"TS7NM\",\r\n        \"cityName\": \"AUBURN\",\r\n        \"stateName\": \"WA\",\r\n        \"countryCode\": \"US\",\r\n        \"postalCode\": \"98001\"\r\n      },\r\n      \"orderLineId\": \"49790351-5132-48e3-9f37-3882e22649be\"\r\n    }\r\n  ],\r\n  \"dealerEmailAddress\": \"pavan@t-mobile.com\",\r\n  \"totalDueMonthlyAmount\": 9.6,\r\n  \"totalDueNowAmount\": 0,\r\n  \"totalTaxAmount\": 0,\r\n  \"billingContactSameAsPrimary\": true,\r\n  \"shippingAddrSameAsBilling\": true,\r\n  \"ppuAddrSameAsShipping\": false,\r\n  \"totalAmount\": 0,\r\n  \"iotOrderStatus\": {\r\n    \"statusCode\": \"\",\r\n    \"subStatusCode\": \"\",\r\n    \"reasonCodes\": \"\",\r\n    \"modifiedBy\": \"\"\r\n  },\r\n  \"orderStatusHistory\": [\r\n    {\r\n      \"iotOrderStatus\": \"\",\r\n      \"iotOrderStatusDate\": \"\",\r\n      \"modifiedBy\": \"\"\r\n    }\r\n  ],\r\n  \"orderCreatedDate\": \"\",\r\n  \"createdBy\": \"PKumar70\",\r\n  \"accountName\": \"mopbssV1fcB\",\r\n  \"accountType\": null,\r\n  \"ppuAddress\": {\r\n    \"addressLine1\": null,\r\n    \"addressLine2\": null,\r\n    \"cityName\": null,\r\n    \"stateName\": null,\r\n    \"countryCode\": null,\r\n    \"postalCode\": null,\r\n    \"postalCodeExtension\": null\r\n  },\r\n  \"subTotal\": 0,\r\n  \"orderFees\": [],\r\n  \"dealerName\": \"Customer Activations\",\r\n  \"advantageProgramCustomer\": false,\r\n  \"accountMSISDN\": \"\",\r\n  \"otherDealerCodes\": [],\r\n  \"payment\": {\r\n    \"autoPayEnabledIndicator\": \"N\"\r\n  },\r\n  \"customerId\": \"684483371\",\r\n  \"dealerPhoneNumber\": null,\r\n  \"businessSegment\": \"BUSINESSSOFTWARESOLUTIONS\",\r\n  \"totalDeferToBillAmount\": 0,\r\n  \"totalDepositAmount\": 0,\r\n  \"actionTypeCode\": \"SUBMIT\",\r\n  \"transactionType\": \"New Subscription\",\r\n  \"opportunityType\": \"Direct\"\r\n}",
+    "body_static": "{\r\n  \"channel\": \"IOTORDERPORTAL\",\r\n  \"salesChannelId\": \"98\",\r\n  \"dealerCode\": \"0000002\",\r\n  \"financialAccountNumber\": \"973985284\",\r\n  \"billingAddress\": {\r\n    \"addressLine1\": \"1101 SUPERMALL WAY STE 1317\",\r\n    \"addressLine2\": \"TS7NM\",\r\n    \"cityName\": \"AUBURN\",\r\n    \"stateName\": \"WA\",\r\n    \"countryCode\": \"US\",\r\n    \"postalCode\": \"98001\"\r\n  },\r\n  \"shippingMethod\": \"\",\r\n  \"primaryContact\": {\r\n    \"firstName\": \"SDET\",\r\n    \"familyNames\": \"Test\",\r\n    \"fullName\": \"SDET Test\",\r\n    \"emailAddress\": \"sdet@t-mobile.com\",\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": \"MOBILE\",\r\n        \"phoneNumber\": \"7013272068\",\r\n        \"emailAddress\": \"pavan@ravi83647.com\",\r\n        \"emailType\": \"ADMIN\"\r\n      }\r\n    ]\r\n  },\r\n  \"billingContact\": {\r\n    \"firstName\": null,\r\n    \"familyNames\": null,\r\n    \"fullName\": null,\r\n    \"emailAddress\": null,\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": null,\r\n        \"phoneNumber\": null,\r\n        \"emailAddress\": null,\r\n        \"emailType\": null\r\n      }\r\n    ],\r\n    \"positionTitle\": null\r\n  },\r\n  \"taxPayerId\": \"618865255\",\r\n  \"language\": \"EN\",\r\n  \"orderLineItem\": [\r\n    {\r\n      \"quantity\": 1,\r\n      \"product\": [\r\n        {\r\n          \"parentProductId\": null,\r\n          \"productId\": \"My-c25825c8-402c-443d-9476-0605402a95bb\",\r\n          \"productVersion\": 3,\r\n          \"productName\": \"Microsoft: Microsoft Intune\",\r\n          \"productType\": \"SUBSCRIPTION\",\r\n          \"productOfferPrice\": {\r\n            \"recurringPrice\": 9.6,\r\n            \"oneTimePrice\": 0\r\n          },\r\n          \"chargeUnit\": \"USD\",\r\n          \"level\": \"ACCOUNT\",\r\n          \"recurringFrequency\": \"MONTHLY\",\r\n          \"offer\": {\r\n            \"offerId\": \"1302050612\",\r\n            \"offerType\": \"SUBSCRIPTION\",\r\n            \"offerSubtype\": \"SOFTGOOD\",\r\n            \"offerName\": \"Microsoft: Microsoft Intune\",\r\n            \"status\": {\r\n              \"statusCode\": \"Pending Fulfillment\",\r\n              \"modifiedDate\": \"6/22/2023, 1:30:12 PM\"\r\n            },\r\n            \"specifications\": [\r\n              {\r\n                \"name\": \"partnerInformation\",\r\n                \"value\": \"Microsoft 365\"\r\n              }\r\n            ]\r\n          },\r\n          \"proration\": \"NONE\"\r\n        }\r\n      ],\r\n      \"partner\": {\r\n        \"externalId\": \"3453768545664\",\r\n        \"partnerInformation\": \"Microsoft 365\",\r\n        \"partnerSubscriptionId\": null\r\n      },\r\n      \"dueNowAmount\": 0,\r\n      \"taxAmount\": 0,\r\n      \"depositAmount\": 0,\r\n      \"deferToBillAmount\": 0,\r\n      \"dueMonthlyAmount\": 9.6,\r\n      \"ppuAddress\": {\r\n        \"addressLine1\": \"1101 SUPERMALL WAY STE 1317\",\r\n        \"addressLine2\": \"TS7NM\",\r\n        \"cityName\": \"AUBURN\",\r\n        \"stateName\": \"WA\",\r\n        \"countryCode\": \"US\",\r\n        \"postalCode\": \"98001\"\r\n      },\r\n      \"orderLineId\": \"49790351-5132-48e3-9f37-3882e22649be\"\r\n    }\r\n  ],\r\n  \"dealerEmailAddress\": \"pavan@t-mobile.com\",\r\n  \"totalDueMonthlyAmount\": 9.6,\r\n  \"totalDueNowAmount\": 0,\r\n  \"totalTaxAmount\": 0,\r\n  \"billingContactSameAsPrimary\": true,\r\n  \"shippingAddrSameAsBilling\": true,\r\n  \"ppuAddrSameAsShipping\": false,\r\n  \"totalAmount\": 0,\r\n  \"iotOrderStatus\": {\r\n    \"statusCode\": \"\",\r\n    \"subStatusCode\": \"\",\r\n    \"reasonCodes\": \"\",\r\n    \"modifiedBy\": \"\"\r\n  },\r\n  \"orderStatusHistory\": [\r\n    {\r\n      \"iotOrderStatus\": \"\",\r\n      \"iotOrderStatusDate\": \"\",\r\n      \"modifiedBy\": \"\"\r\n    }\r\n  ],\r\n  \"orderCreatedDate\": \"\",\r\n  \"createdBy\": \"PKumar70\",\r\n  \"accountName\": \"mopbssV1fcB\",\r\n  \"accountType\": null,\r\n  \"ppuAddress\": {\r\n    \"addressLine1\": null,\r\n    \"addressLine2\": null,\r\n    \"cityName\": null,\r\n    \"stateName\": null,\r\n    \"countryCode\": null,\r\n    \"postalCode\": null,\r\n    \"postalCodeExtension\": null\r\n  },\r\n  \"subTotal\": 0,\r\n  \"orderFees\": [],\r\n  \"dealerName\": \"Customer Activations\",\r\n  \"advantageProgramCustomer\": false,\r\n  \"accountMSISDN\": \"\",\r\n  \"otherDealerCodes\": [],\r\n  \"payment\": {\r\n    \"autoPayEnabledIndicator\": \"N\"\r\n  },\r\n  \"customerId\": \"684483371\",\r\n  \"dealerPhoneNumber\": null,\r\n  \"businessSegment\": \"BUSINESSSOFTWARESOLUTIONS\",\r\n  \"totalDeferToBillAmount\": 0,\r\n  \"totalDepositAmount\": 0,\r\n  \"actionTypeCode\": \"SUBMIT\",\r\n  \"transactionType\": \"New Subscription\",\r\n  \"opportunityType\": \"Direct\"\r\n}"
+}

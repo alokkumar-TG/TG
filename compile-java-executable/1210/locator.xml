@@ -1,0 +1,2197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_AdoptAndSign_3a0aca5c">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Adopt and Sign')] or contains(normalize-space(.), 'Adopt and Sign')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Adopt and Sign')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Adopt and Sign')] or contains(normalize-space(.), 'Adopt and Sign')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Adopt and Sign')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Adopt and Sign')]</element>
+  </locator>
+  <locator name="ele_Continue_3a0aca58">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Continue')] or contains(normalize-space(.), 'Continue')]</element>
+    <element type="id">action-bar-btn-continue</element>
+    <element type="xpath">//*[@id='action-bar-btn-continue']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Continue')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Continue')] or contains(normalize-space(.), 'Continue')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Continue')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Continue')]</element>
+  </locator>
+  <locator name="ele_Finish_3a0aca5f">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Finish')] or contains(normalize-space(.), 'Finish')]</element>
+    <element type="id">action-bar-btn-guided-forms-next</element>
+    <element type="xpath">//*[@id='action-bar-btn-guided-forms-next']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Finish')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Finish')] or contains(normalize-space(.), 'Finish')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Finish')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Finish')]</element>
+  </locator>
+  <locator name="ele_IHaveReviewedAndAgreeToTheTMobileElectronicRecordsAndSignatureDisclosuresAndFinancialPrivacyPolicyRequired_3a0aca58">
+    <element type="xpath">//*[@id='disclosureAccepted']</element>
+    <element type="id">disclosureAccepted</element>
+  </locator>
+  <locator name="ele_SignRequiredSignHere_3a0aca58">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Sign  Required - Sign Here')] or contains(normalize-space(.), 'Sign  Required - Sign Here')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Sign  Required - Sign Here')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Sign  Required - Sign Here')] or contains(normalize-space(.), 'Sign  Required - Sign Here')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Sign  Required - Sign Here')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Sign  Required - Sign Here')]</element>
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Sign Required - Sign Here')] or contains(normalize-space(.), 'Sign Required - Sign Here')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Sign Required - Sign Here')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Sign Required - Sign Here')] or contains(normalize-space(.), 'Sign Required - Sign Here')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Sign Required - Sign Here')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Sign Required - Sign Here')]</element>
+  </locator>
+  <locator name="ele_Arguments_39f09b0d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Arguments')]</element>
+  </locator>
+  <locator name="ele_Path_39f09b0d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Path')]</element>
+  </locator>
+  <locator name="ele_WaitForExit_39f09b0d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'WaitForExit')]</element>
+  </locator>
+  <locator name="ele_Authenticate_3a0aca39">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Authenticate')] or contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Authenticate')] or contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authenticate')]</element>
+  </locator>
+  <locator name="ele_EmailAddress_3a0aca39">
+    <element type="xpath">//*[@id='email']</element>
+    <element type="id">email</element>
+  </locator>
+  <locator name="ele_Authorization_3a028477">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c664e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c7b74">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c7576">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c7633">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c7656">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0be56f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c0f20">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0bc22a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0be5ac">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0da6cf">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0da6b6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c6684">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0beb79">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0bf5a3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0bf3de">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0bfac1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c3300">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0aca19">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a028477">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c664e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c7b74">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c7576">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c7633">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c7656">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0be56f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c0f20">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0bc22b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0be5ac">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0da6cf">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0da6b6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c6684">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0beb79">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0bf5a3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0bf3df">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0bfac1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c3300">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0aca19">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_AccountId_3a0be56f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountId')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0bc233">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0daaf4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0beb79">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0bf5a4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0bf3df">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0aca19">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountNumber_3a0c664f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountNumber')]</element>
+  </locator>
+  <locator name="ele_AccountNumber_3a0c7577">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountNumber')]</element>
+  </locator>
+  <locator name="ele_AccountNumber_3a0c7633">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountNumber')]</element>
+  </locator>
+  <locator name="ele_AccountNumber_3a0c7656">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountNumber')]</element>
+  </locator>
+  <locator name="ele_ActionTypeCode_3a0dab07">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'actionTypeCode')]</element>
+  </locator>
+  <locator name="ele_ActivityId_3a0da6b6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'activityId')]</element>
+  </locator>
+  <locator name="ele_BillingAccountId_3a0c664f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'billingAccountId')]</element>
+  </locator>
+  <locator name="ele_BillingAccountId_3a0c7577">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'billingAccountId')]</element>
+  </locator>
+  <locator name="ele_CardName_3a0bf3e1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'cardName')]</element>
+  </locator>
+  <locator name="ele_CardNumber_3a0bf3e1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'cardNumber')]</element>
+  </locator>
+  <locator name="ele_CardValidTo_3a0bf3e1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'cardValidTo')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0bc233">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0beb79">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0bf5a4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0bf3df">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0c3302">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0aca1b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_CustomerId_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'customerId')]</element>
+  </locator>
+  <locator name="ele_CustomerId_3a0da6bc">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'customerId')]</element>
+  </locator>
+  <locator name="ele_CustomerId_3a0bf5a4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'customerId')]</element>
+  </locator>
+  <locator name="ele_DealerCode_3a0bc22c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dealerCode')]</element>
+  </locator>
+  <locator name="ele_DeferToBillAmount_3a0bc27a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'deferToBillAmount')]</element>
+  </locator>
+  <locator name="ele_DeferToBillAmount_3a0da6b9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'deferToBillAmount')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0bc233">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0da6b9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0beb7c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0bf5a7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_EmailAddress_3a0bc234">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'emailAddress')]</element>
+  </locator>
+  <locator name="ele_EmailAddress_3a0befda">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'emailAddress')]</element>
+  </locator>
+  <locator name="ele_EmailAddress_3a0bf5a5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'emailAddress')]</element>
+  </locator>
+  <locator name="ele_EmailAddress_3a0bf3df">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'emailAddress')]</element>
+  </locator>
+  <locator name="ele_EmailAddress1_3a0befe8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'emailAddress_1')]</element>
+  </locator>
+  <locator name="ele_EmailType_3a0bc235">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'emailType')]</element>
+  </locator>
+  <locator name="ele_ExternalId_3a10b041">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'externalId')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0c7b74">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0c7633">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0c7656">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0bc22b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0da6b7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0c6684">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0beb79">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0bf5a3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0bf3df">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0aca19">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_Item_3a0c0f20">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_Item_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_Item_3a0bfac1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_Level_3a0bc230">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_Level_3a0da6ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_LinkUUID_3a0daac4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'linkUUID')]</element>
+  </locator>
+  <locator name="ele_MaterialGroup_3a0c33ec">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'materialGroup')]</element>
+  </locator>
+  <locator name="ele_ModifiedDate_3a0bc230">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'modifiedDate')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0bc230">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0be5b4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0da6ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0bc230">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0da6ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0bc266">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0be5b0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0da6ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a028476">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0da6cf">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0da6bc">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderLineId_3a0da6b9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderLineId')]</element>
+  </locator>
+  <locator name="ele_Partner_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'partner')]</element>
+  </locator>
+  <locator name="ele_PartnerInformation_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'partnerInformation')]</element>
+  </locator>
+  <locator name="ele_PartnerInformation1_3a0bc232">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'partnerInformation_1')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0bc22e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0be5b0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0da6b9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0beb7a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0bf5a5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0bc22e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0be5b0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0da6b9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0beb7a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0bf5a6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0bc22e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0be5b0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0da6b9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0beb7a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0bf5a5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_Quantity_3a0da6b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'quantity')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0beb7a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0bf5a6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0beb7a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0bf5a6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0bc230">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0be5b0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0da6ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0beb7a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0bf5a6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0bc22e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0be5b0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0da6ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0beb7a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0bf5a6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_Sku_3a0c3300">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'sku')]</element>
+  </locator>
+  <locator name="ele_SkuId_3a0c3300">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'skuId')]</element>
+  </locator>
+  <locator name="ele_SkuOfferName_3a0c3301">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'skuOfferName')]</element>
+  </locator>
+  <locator name="ele_SkuProductId_3a0c3301">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'skuProductId')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0bc22c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0be5af">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0beb79">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0bf5a4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0bf3df">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0aca1a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_TotalDeferToBillAmount_3a0da6bc">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDeferToBillAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0bc233">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0da6bc">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0beb7c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0bf5a7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueNowAmount_3a203c0c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueNowAmount')]</element>
+  </locator>
+  <locator name="ele_TransactionType_3a0da6b7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'transactionType')]</element>
+  </locator>
+  <locator name="ele_TransactionType1_3a0daacb">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'transactionType_1')]</element>
+  </locator>
+  <locator name="ele_Close_3a0aca67">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Close')] or contains(normalize-space(.), 'Close')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Close')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Close')] or contains(normalize-space(.), 'Close')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Close')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Close')]</element>
+  </locator>
+  <locator name="ele_CreatedByNTID_3a1e4930">
+    <element type="xpath">//mat-select[.//span[contains(normalize-space(.), '{REGEX["Account ID"|"Created by (NTID)*"|"Order ID"|"Order Status"|"SIM Number (ICCID)*"|"Dealer Code"|"BAN"|"Channel Name"]}')] or contains(normalize-space(.), '{REGEX["Account ID"|"Created by (NTID)*"|"Order ID"|"Order Status"|"SIM Number (ICCID)*"|"Dealer Code"|"BAN"|"Channel Name"]}')]</element>
+    <element type="class">mat-mdc-select ng-valid ng-touched ng-dirty</element>
+    <element type="css">.mat-mdc-select ng-valid ng-touched ng-dirty</element>
+    <element type="xpath">//mat-select[contains(normalize-space(.), '{REGEX["Account ID"|"Created by (NTID)*"|"Order ID"|"Order Status"|"SIM Number (ICCID)*"|"Dealer Code"|"BAN"|"Channel Name"]}')]</element>
+    <element type="xpath">//mat-select[.//span[contains(normalize-space(.), 'Created by (NTID)')] or contains(normalize-space(.), 'Created by (NTID)')]</element>
+    <element type="xpath">//mat-select[contains(normalize-space(.), 'Created by (NTID)')]</element>
+  </locator>
+  <locator name="ele_Duration_39f2df25">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Duration')]</element>
+  </locator>
+  <locator name="ele_LABEL_3a1e6326">
+    <element type="class">checkbox-container*</element>
+    <element type="css">.checkbox-container*</element>
+  </locator>
+  <locator name="ele_StatusCode_3a076f88">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_IdToken_3a076f88">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'id_token')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a028478">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c6650">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c7b74">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c7577">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c7633">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c7657">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0be570">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c0f23">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bc241">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0da6cf">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0da6bd">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c6684">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0beb7c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bf5a7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bf3e1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bfac1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c3306">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0aca1b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_AccountId_3a0be570">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountId')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0be570">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0daaf1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_ActivityId_3a0da6d0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'activityId')]</element>
+  </locator>
+  <locator name="ele_AutoPayEnabledIndicator_3a0bf3e2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'autoPayEnabledIndicator')]</element>
+  </locator>
+  <locator name="ele_CustomerId_3a0da6d1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'customerId')]</element>
+  </locator>
+  <locator name="ele_EffectiveDate_3a0de327">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'effectiveDate')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0be5ad">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0da6d0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_Level_3a0c0f24">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_Level_3a0daaf1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_LinkUUID_3a0da6d0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'linkUUID')]</element>
+  </locator>
+  <locator name="ele_Message_3a0c6650">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'message')]</element>
+  </locator>
+  <locator name="ele_Message_3a0c7577">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'message')]</element>
+  </locator>
+  <locator name="ele_Message_3a0c7634">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'message')]</element>
+  </locator>
+  <locator name="ele_Message_3a0c7657">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'message')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0be5b3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0be5b4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0be573">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0c0f24">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0bc241">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0be5b8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0beb7d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0bf5a7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0bf3e1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0c3306">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_OrderLineId_3a0da6d1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderLineId')]</element>
+  </locator>
+  <locator name="ele_ProductDescription_3a0be572">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productDescription')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0be571">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0c0f23">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0be571">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0c0f23">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_QuoteId_3a0aca1b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'quoteId')]</element>
+  </locator>
+  <locator name="ele_QuoteStatusCode_3a0aca1b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'quoteStatusCode')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0c0f25">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0c0f24">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_ReasonCode_3a0c7b75">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCode')]</element>
+  </locator>
+  <locator name="ele_ReasonCode1_3a0c7b76">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCode_1')]</element>
+  </locator>
+  <locator name="ele_ReasonCodes_3a0da4b5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCodes')]</element>
+  </locator>
+  <locator name="ele_ReasonCodes_3a0da602">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCodes')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0be573">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0c0f24">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0be573">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0c0f23">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_ShortDescription_3a0c0f23">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'shortDescription')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c7b75">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0be5ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0beb7d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bf5a8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bf3e2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode1_3a0c7b76">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode_1')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0bc242">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0be5ba">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0beb7d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0bf5a8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0bf3e2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0c3306">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0aca1b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_TaxpayerId_3a0be570">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxpayerId')]</element>
+  </locator>
+  <locator name="ele_Submit_3a0aca61">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Submit')]</element>
+  </locator>
+  <locator name="ele_UploadAFile_3a026968">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Upload a File')] or contains(normalize-space(.), 'Upload a File')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Upload a File')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Upload a File')] or contains(normalize-space(.), 'Upload a File')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Upload a File')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Upload a File')]</element>
+  </locator>
+  <locator name="ele_ViewServiceAgreement_3a0aca48">
+    <element type="class">service-agreement</element>
+    <element type="css">.service-agreement</element>
+  </locator>
+  <locator name="ele_Yes_3a0aca62">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Yes')] or contains(normalize-space(.), 'Yes')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Yes')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Yes')] or contains(normalize-space(.), 'Yes')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Yes')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Yes')]</element>
+  </locator>
+  <locator name="ele_Buffername_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '&lt;Buffername&gt;')]</element>
+  </locator>
+  <locator name="ele_TABLE_39ff3dd7">
+    <element type="xpath">//table[.//span[contains(normalize-space(.), '*Business Segment  Order ID Account IDBAN*')] or contains(normalize-space(.), '*Business Segment  Order ID Account IDBAN*')]</element>
+    <element type="xpath">//table[contains(normalize-space(.), '*Business Segment  Order ID Account IDBAN*')]</element>
+  </locator>
+  <locator name="ele_Url_39e342b2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Url')]</element>
+  </locator>
+  <locator name="ele_UseActiveTab_39ef3b0d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'UseActiveTab')]</element>
+  </locator>
+  <locator name="ele_Duration_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Duration')]</element>
+  </locator>
+  <locator name="ele_Buffername_39e342b2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '&lt;Buffername&gt;')]</element>
+  </locator>
+  <locator name="ele_Caption_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Caption')]</element>
+  </locator>
+  <locator name="ele_Keys_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Keys')]</element>
+  </locator>
+  <locator name="ele_ProvideYourNTIDADIDOrGCMetroID_39fc8c5b">
+    <element type="xpath">//*[@id='idp-discovery-username']</element>
+    <element type="id">idp-discovery-username</element>
+  </locator>
+  <locator name="ele_Next_39fc8c5b">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="id">idp-discovery-submit</element>
+    <element type="xpath">//*[@id='idp-discovery-submit']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Next')]</element>
+  </locator>
+  <locator name="ele_ProvideYourPassword_39fd4a3f">
+    <element type="xpath">//input[@name='password']</element>
+    <element type="id">input75</element>
+    <element type="xpath">//*[@id='input75']</element>
+    <element type="xpath">//textarea[@name='password']</element>
+    <element type="xpath">//*[@name='password']</element>
+    <element type="class">password-with-toggle</element>
+    <element type="css">.password-with-toggle</element>
+  </locator>
+  <locator name="ele_Verify_39fc8c5c">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Verify')] or contains(normalize-space(.), 'Verify')]</element>
+    <element type="class">button button-primary</element>
+    <element type="css">.button button-primary</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Verify')] or contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Verify')]</element>
+  </locator>
+  <locator name="ele_SearchOrder_39ff3dcd">
+    <element type="xpath">//*[@id='search-input']</element>
+    <element type="id">search-input</element>
+  </locator>
+  <locator name="ele_ChevronLeft_3a023f28">
+    <element type="class">back-button</element>
+    <element type="css">.back-button</element>
+  </locator>
+  <locator name="ele_Authorization_3a0bf525">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0bf525">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_CustomerId_3a0bf527">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'customerId')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0bf527">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0bf528">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0bf529">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0bf529">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0bf529">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0bf529">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_Level_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_Name_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Value_3a0bf52a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_PartnerInformation_3a0bf52b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'partnerInformation')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0bf52b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0bf52b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bf52b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0bf52b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0bf52b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0de2b6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0de2b6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0de2b6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0de2b6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_OrderStatusHistory_3a0de2b7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderStatusHistory')]</element>
+  </locator>
+  <locator name="ele_Item_3a0de2b7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_IotOrderStatus_3a0de2b7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iotOrderStatus')]</element>
+  </locator>
+  <locator name="ele_IotOrderSubStatus_3a0de2b7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iotOrderSubStatus')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0dc406">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0dc406">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0dc406">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0dc407">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_OrderStatusHistory_3a0dc407">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderStatusHistory')]</element>
+  </locator>
+  <locator name="ele_Item_3a0dc407">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_IotOrderStatus_3a0dc407">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iotOrderStatus')]</element>
+  </locator>
+  <locator name="ele_IotOrderSubStatus_3a0dc407">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iotOrderSubStatus')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c1ee0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c1ee1">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0c1ee2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0c1ee2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0c1ee7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0c1ee7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0c1ee8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0c1ee8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0c1ee8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0c1ee8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_Level_3a0c1ee9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0c1ee9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0c1ee9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0c1ee9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_Name_3a0c1ee9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Value_3a0c1ee9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_DueMonthlyAmount_3a0c1eea">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'dueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_TotalDueMonthlyAmount_3a0c1eea">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'totalDueMonthlyAmount')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c1eeb">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0c1eec">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c1eec">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0c1eec">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c323b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c323b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Item_3a0c323b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c323b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0c323c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ShortDescription_3a0c323c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'shortDescription')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0c323c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0c323d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0c323d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_Level_3a0c323d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_ProductId1_3a0c3240">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId_1')]</element>
+  </locator>
+  <locator name="ele_ShortDescription1_3a0c3240">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'shortDescription_1')]</element>
+  </locator>
+  <locator name="ele_ProductVersion1_3a0c3240">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion_1')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice1_3a0c3240">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice_1')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice1_3a0c3241">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice_1')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0c3241">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_Level1_3a0c3241">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level_1')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0c3242">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0c3242">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_ProductId2_3a0c3245">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId_2')]</element>
+  </locator>
+  <locator name="ele_ShortDescription2_3a0c3248">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'shortDescription_2')]</element>
+  </locator>
+  <locator name="ele_ProductVersion2_3a0c324a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion_2')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice2_3a0c324a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice_2')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice2_3a0c324b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice_2')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency1_3a0c324b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency_1')]</element>
+  </locator>
+  <locator name="ele_Level2_3a0c324b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level_2')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0c324c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0c3274">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_ProductSubType_3a0c3310">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productSubType')]</element>
+  </locator>
+  <locator name="ele_IdToken_3a0c3207">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'id_token')]</element>
+  </locator>
+  <locator name="ele_UpdateOrder_39ff4780">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Update Order')] or contains(normalize-space(.), 'Update Order')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Update Order')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Update Order')] or contains(normalize-space(.), 'Update Order')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Update Order')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Update Order')]</element>
+  </locator>
+  <locator name="ele_TextBox_39ff4784">
+    <element type="xpath">//*[@id='domain']</element>
+    <element type="id">domain</element>
+  </locator>
+  <locator name="ele_Submit_39ff4784">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]</element>
+    <element type="class">primary</element>
+    <element type="css">.primary</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Submit')]</element>
+  </locator>
+  <locator name="ele_Activated_39ff4784">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Activated')] or contains(normalize-space(.), 'Activated')]</element>
+    <element type="class">form-label</element>
+    <element type="css">.form-label</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Activated')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Activated')] or contains(normalize-space(.), 'Activated')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Activated')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Activated')]</element>
+  </locator>
+  <locator name="ele_ConnectionName_39f8e989">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Connection name')]</element>
+  </locator>
+  <locator name="ele_ConnectionString_39f8e989">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Connection string')]</element>
+  </locator>
+  <locator name="ele_Driver_39f8e989">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Driver')]</element>
+  </locator>
+  <locator name="ele_SQLStatement_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'SQL Statement')]</element>
+  </locator>
+  <locator name="ele_ConnectionName_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Connection name')]</element>
+  </locator>
+  <locator name="ele_ConnectionString_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Connection string')]</element>
+  </locator>
+  <locator name="ele_Driver_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Driver')]</element>
+  </locator>
+  <locator name="ele_SQLStatement_39f8e989">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'SQL Statement')]</element>
+  </locator>
+  <locator name="ele_Endpoint_39ffb99a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_StatusCode_39fdd055">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_AccessToken_39fdd58d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'access_token')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a03cb92">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a03cb93">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Imsi_3a03cb92">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'imsi')]</element>
+  </locator>
+  <locator name="ele_Iccid_3a03cb92">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iccid')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a03cb93">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_Imsi_3a03cb93">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'imsi')]</element>
+  </locator>
+  <locator name="ele_Iccid_3a03cb93">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iccid')]</element>
+  </locator>
+  <locator name="ele_Status_3a03cb93">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'status')]</element>
+  </locator>
+  <locator name="ele_Text_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Text')]</element>
+  </locator>
+  <locator name="ele_Overwrite_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Overwrite')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0c426b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0c426b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0c426c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_TaxPayerId_3a0c426c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxPayerId')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0c426c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0c426c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_Quantity_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'quantity')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_Level_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_ProductId1_3a0c426d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId_1')]</element>
+  </locator>
+  <locator name="ele_ProductVersion1_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion_1')]</element>
+  </locator>
+  <locator name="ele_ProductName1_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName_1')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice1_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice_1')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice1_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice_1')]</element>
+  </locator>
+  <locator name="ele_Level1_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level_1')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0c426e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_ProductId2_3a0c4270">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId_2')]</element>
+  </locator>
+  <locator name="ele_ProductVersion2_3a0c4270">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion_2')]</element>
+  </locator>
+  <locator name="ele_ProductName2_3a0c4271">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName_2')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice2_3a0c4271">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice_2')]</element>
+  </locator>
+  <locator name="ele_Level2_3a0c4271">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level_2')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency1_3a0c4271">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency_1')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0c4272">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0c4272">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c4273">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0c4273">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0c4274">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_Duration_39f6dc0f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Duration')]</element>
+  </locator>
+  <locator name="ele_OrderID_39ff3dc7">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Order ID')] or contains(normalize-space(.), 'Order ID')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Order ID')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Order ID')] or contains(normalize-space(.), 'Order ID')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Order ID')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Order ID')]</element>
+  </locator>
+  <locator name="ele_SVCQATIOTAutoTestTMobileCom_3a0ec4d9">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), '*SVC_QAT_IOTAutoTest@T-Mobile.com*')] or contains(normalize-space(.), '*SVC_QAT_IOTAutoTest@T-Mobile.com*')]</element>
+    <element type="class">table</element>
+    <element type="css">.table</element>
+    <element type="xpath">//button[contains(normalize-space(.), '*SVC_QAT_IOTAutoTest@T-Mobile.com*')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), '*SVC_QAT_IOTAutoTest@T-Mobile.com*')] or contains(normalize-space(.), '*SVC_QAT_IOTAutoTest@T-Mobile.com*')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), '*SVC_QAT_IOTAutoTest@T-Mobile.com*')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '*SVC_QAT_IOTAutoTest@T-Mobile.com*')]</element>
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'SVC_QAT_IOTAutoTest@T-Mobile.com')] or contains(normalize-space(.), 'SVC_QAT_IOTAutoTest@T-Mobile.com')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'SVC_QAT_IOTAutoTest@T-Mobile.com')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'SVC_QAT_IOTAutoTest@T-Mobile.com')] or contains(normalize-space(.), 'SVC_QAT_IOTAutoTest@T-Mobile.com')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'SVC_QAT_IOTAutoTest@T-Mobile.com')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'SVC_QAT_IOTAutoTest@T-Mobile.com')]</element>
+  </locator>
+  <locator name="ele_Duration_3a089f20">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Duration')]</element>
+  </locator>
+  <locator name="ele_Password1_3a0ec22b">
+    <element type="xpath">//input[@name='passwd']</element>
+    <element type="xpath">//textarea[@name='passwd']</element>
+    <element type="xpath">//*[@name='passwd']</element>
+    <element type="class">form-control input ext-input text-box ext-text-box</element>
+    <element type="css">.form-control input ext-input text-box ext-text-box</element>
+  </locator>
+  <locator name="ele_Password_3a0ec226">
+    <element type="xpath">//input[@name='passwd']</element>
+    <element type="xpath">//textarea[@name='passwd']</element>
+    <element type="xpath">//*[@name='passwd']</element>
+    <element type="class">form-control input ext-input text-box ext-text-box</element>
+    <element type="css">.form-control input ext-input text-box ext-text-box</element>
+  </locator>
+  <locator name="ele_SignIn_3a0ec226">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Sign in')] or contains(normalize-space(.), 'Sign in')]</element>
+    <element type="class">win-button button_primary button ext-button primary ext-primary</element>
+    <element type="css">.win-button button_primary button ext-button primary ext-primary</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Sign in')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Sign in')] or contains(normalize-space(.), 'Sign in')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Sign in')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Sign in')]</element>
+  </locator>
+  <locator name="ele_UseAnotherAccount_3a0ec222">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Use another account')] or contains(normalize-space(.), 'Use another account')]</element>
+    <element type="class">table</element>
+    <element type="css">.table</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Use another account')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Use another account')] or contains(normalize-space(.), 'Use another account')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Use another account')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Use another account')]</element>
+  </locator>
+  <locator name="ele_SomeoneExampleCom_3a0ec224">
+    <element type="xpath">//input[@name='loginfmt']</element>
+    <element type="xpath">//textarea[@name='loginfmt']</element>
+    <element type="xpath">//*[@name='loginfmt']</element>
+    <element type="class">form-control ltr_override input ext-input text-box ext-text-box</element>
+    <element type="css">.form-control ltr_override input ext-input text-box ext-text-box</element>
+  </locator>
+  <locator name="ele_Next_3a0ec224">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="class">win-button button_primary button ext-button primary ext-primary</element>
+    <element type="css">.win-button button_primary button ext-button primary ext-primary</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Next')]</element>
+  </locator>
+  <locator name="ele_SendMeTheCode_3a0caf1c">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Send me the code')] or contains(normalize-space(.), 'Send me the code')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Send me the code')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Send me the code')] or contains(normalize-space(.), 'Send me the code')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Send me the code')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Send me the code')]</element>
+  </locator>
+  <locator name="ele_UseAnotherAccount_3a0caea3">
+    <element type="xpath">//*[@id='otherTileText']</element>
+    <element type="id">otherTileText</element>
+  </locator>
+  <locator name="ele_Next_3a0caeb0">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Next')]</element>
+  </locator>
+  <locator name="ele_Search_3a0caeb4">
+    <element type="xpath">//*[@id='topSearchInput']</element>
+    <element type="id">topSearchInput</element>
+  </locator>
+  <locator name="ele_MarkAsRead_3a0caf3c">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Mark as read')] or contains(normalize-space(.), 'Mark as read')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Mark as read')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Mark as read')] or contains(normalize-space(.), 'Mark as read')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Mark as read')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Mark as read')]</element>
+  </locator>
+  <locator name="ele_VerificationCode_3a0caf14">
+    <element type="xpath">//*[@id='x_verification-code']</element>
+    <element type="id">x_verification-code</element>
+  </locator>
+  <locator name="ele_VerificationCode_3a0caf4c">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Verification code')] or contains(normalize-space(.), 'Verification code')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Verification code')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Verification code')] or contains(normalize-space(.), 'Verification code')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Verification code')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Verification code')]</element>
+  </locator>
+  <locator name="ele_Verify_3a0caf4c">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Verify')] or contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Verify')] or contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Verify')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0ced07">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0ced07">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0ced07">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0ced07">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_AccountId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountId')]</element>
+  </locator>
+  <locator name="ele_TaxpayerId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxpayerId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductOfferOrderId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productOfferOrderId')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductDescription_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productDescription')]</element>
+  </locator>
+  <locator name="ele_ExternalId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'externalId')]</element>
+  </locator>
+  <locator name="ele_SubscriptionId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subscriptionId')]</element>
+  </locator>
+  <locator name="ele_Version_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'version')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_Quantity_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'quantity')]</element>
+  </locator>
+  <locator name="ele_ModifiedDate_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'modifiedDate')]</element>
+  </locator>
+  <locator name="ele_Name_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Value_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_CostPrice_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'costPrice')]</element>
+  </locator>
+  <locator name="ele_Id_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'id')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0cf0d2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0cf0d2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_AccountId_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountId')]</element>
+  </locator>
+  <locator name="ele_TaxpayerId_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'taxpayerId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductDescription_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productDescription')]</element>
+  </locator>
+  <locator name="ele_ExternalId_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'externalId')]</element>
+  </locator>
+  <locator name="ele_Version_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'version')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_Quantity_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'quantity')]</element>
+  </locator>
+  <locator name="ele_Name_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Value_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_CostPrice_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'costPrice')]</element>
+  </locator>
+  <locator name="ele_Id_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'id')]</element>
+  </locator>
+  <locator name="ele_StartDate_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'startDate')]</element>
+  </locator>
+  <locator name="ele_EndDate_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'endDate')]</element>
+  </locator>
+  <locator name="ele_EndOfTermAction_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'endOfTermAction')]</element>
+  </locator>
+  <locator name="ele_Status_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'status')]</element>
+  </locator>
+  <locator name="ele_LastUpdated_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'lastUpdated')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0cf0da">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_Item_3a0cf0da">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0cf790">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0cf790">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_Url_3a0cd2e4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Url')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0bc28d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0bc28d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Item_3a0bc28d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ShortDescription_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'shortDescription')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_Level_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0da019">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0da01a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_CustomerId_3a0da01b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'customerId')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a0da01b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a0da01b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_CreatedBy_3a0da01b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'createdBy')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0da01c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0da01c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_ReasonCode_3a0da01c">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCode')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a078c7e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Resource_3a078c7e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Resource')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a078c7e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_Item_3a078c7e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'item')]</element>
+  </locator>
+  <locator name="ele_BAN_3a078c7e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'BAN')]</element>
+  </locator>
+  <locator name="ele_TAXID_3a078c7e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'TAX_ID')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0dcf53">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0dcf9f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0dcfa0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0dcf54">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0dcf54">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0dcfca">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_Duration_39ee4136">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Duration')]</element>
+  </locator>
+  <locator name="ele_EmailAddress_3a0dcf8d">
+    <element type="xpath">//*[@id='email']</element>
+    <element type="id">email</element>
+  </locator>
+  <locator name="ele_Authenticate_3a0dcf8d">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Authenticate')] or contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Authenticate')] or contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Authenticate')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authenticate')]</element>
+  </locator>
+  <locator name="ele_Reject_3a0dcf8f">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Reject')] or contains(normalize-space(.), 'Reject')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Reject')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Reject')] or contains(normalize-space(.), 'Reject')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Reject')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Reject')]</element>
+  </locator>
+  <locator name="ele_Reason_3a0dcf91">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Reason')] or contains(normalize-space(.), 'Reason')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Reason')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Reason')] or contains(normalize-space(.), 'Reason')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Reason')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Reason')]</element>
+  </locator>
+  <locator name="ele_RejectOrder_3a0dcf91">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Reject Order')] or contains(normalize-space(.), 'Reject Order')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Reject Order')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Reject Order')] or contains(normalize-space(.), 'Reject Order')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Reject Order')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Reject Order')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0ddd3f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0ddd3f">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0ddd40">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0ddd40">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_ReasonCodes_3a0ddd40">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCodes')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a0dddd5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a0dddd6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_OrderId_3a0dddd6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderId')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0dddd6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_OrderStatusCode_3a0dddd6">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'orderStatusCode')]</element>
+  </locator>
+  <locator name="ele_FileName_3a0200f0">
+    <element type="xpath">//input[@name='File name:']</element>
+    <element type="xpath">//textarea[@name='File name:']</element>
+    <element type="xpath">//*[@name='File name:']</element>
+  </locator>
+  <locator name="ele_Duration_39ee5cf2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Duration')]</element>
+  </locator>
+  <locator name="ele_AddressId_3a0ced32">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'addressId')]</element>
+  </locator>
+  <locator name="ele_AddressId_3a0cf0d8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'addressId')]</element>
+  </locator>
+  <locator name="ele_ActivateSIMs_3a026968">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Activate')] or contains(normalize-space(.), 'Activate')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Activate')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Activate')] or contains(normalize-space(.), 'Activate')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Activate')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Activate')]</element>
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Activate SIMs')] or contains(normalize-space(.), 'Activate SIMs')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Activate SIMs')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Activate SIMs')] or contains(normalize-space(.), 'Activate SIMs')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Activate SIMs')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Activate SIMs')]</element>
+  </locator>
+  <locator name="ele_WindowIndex_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Window Index')]</element>
+  </locator>
+  <locator name="ele_Url_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Url')]</element>
+  </locator>
+  <locator name="ele_Keys_39f0b788">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Keys')]</element>
+  </locator>
+  <locator name="ele_TMobileUSAStagingLogoLogo_3a0942ed">
+    <element type="xpath">//img[.//span[contains(normalize-space(.), 'T-Mobile USA - Staging logo logo')] or contains(normalize-space(.), 'T-Mobile USA - Staging logo logo')]</element>
+    <element type="xpath">//img[contains(normalize-space(.), 'T-Mobile USA - Staging logo logo')]</element>
+  </locator>
+  <locator name="ele_SignInUsingTestAccountCredentials_3a092965">
+    <element type="xpath">//*[@id='okta-signin-username']</element>
+    <element type="id">okta-signin-username</element>
+  </locator>
+  <locator name="ele_Next_3a092965">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="id">okta-signin-submit</element>
+    <element type="xpath">//*[@id='okta-signin-submit']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Next')] or contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Next')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Next')]</element>
+  </locator>
+  <locator name="ele_Verify_3a092967">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Verify')] or contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Verify')] or contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Verify')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Verify')]</element>
+  </locator>
+  <locator name="ele_SvcPrdPrdiotautoteTMobileCom_3a0f2316">
+    <element type="xpath">//*[@id='displayName']</element>
+    <element type="id">displayName</element>
+    <element type="class">identity</element>
+    <element type="css">.identity</element>
+  </locator>
+  <locator name="ele_Button_3a0f2316">
+    <element type="xpath">//*[@id='idBtn_Back']</element>
+    <element type="id">idBtn_Back</element>
+    <element type="class">backButton</element>
+    <element type="css">.backButton</element>
+  </locator>
+  <locator name="ele_Argument_39f09b0d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Argument')]</element>
+  </locator>
+  <locator name="ele_TimeoutForExit_39f09b0d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'TimeoutForExit')]</element>
+  </locator>
+  <locator name="ele_AccountName_3a028478">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'accountName')]</element>
+  </locator>
+  <locator name="ele_CustomerId_3a028478">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'customerId')]</element>
+  </locator>
+  <locator name="ele_FinancialAccountNumber_3a028478">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'financialAccountNumber')]</element>
+  </locator>
+  <locator name="ele_IotOrderStatus_3a0dab5d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iotOrderStatus')]</element>
+  </locator>
+  <locator name="ele_IotOrderSubStatus_3a0dab5d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'iotOrderSubStatus')]</element>
+  </locator>
+  <locator name="ele_Level_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'level')]</element>
+  </locator>
+  <locator name="ele_LinkUUID_3a028478">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'linkUUID')]</element>
+  </locator>
+  <locator name="ele_MaterialGroup_3a0bfac2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'materialGroup')]</element>
+  </locator>
+  <locator name="ele_Name_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0bc2e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0be5b4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0c0f25">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0bc240">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0be5b5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0da6bb">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0beb7b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0bf5a7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_Name_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_OfferId_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerId')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0bfac2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_OfferName_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'offerName')]</element>
+  </locator>
+  <locator name="ele_On_3a1e6326">
+    <element type="class">ng-untouched ng-pristine</element>
+    <element type="css">.ng-untouched ng-pristine</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_OneTimePrice_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'oneTimePrice')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0bfac2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productId')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a028478">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductName_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productName')]</element>
+  </locator>
+  <locator name="ele_ProductVersion_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'productVersion')]</element>
+  </locator>
+  <locator name="ele_RatePlanId_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanId')]</element>
+  </locator>
+  <locator name="ele_RatePlanName_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ratePlanName')]</element>
+  </locator>
+  <locator name="ele_ReasonCode_3a0c6686">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCode')]</element>
+  </locator>
+  <locator name="ele_ReasonCode_3a0c6685">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCode')]</element>
+  </locator>
+  <locator name="ele_ReasonCodes_3a0da6be">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'reasonCodes')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringFrequency_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringFrequency')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_RecurringPrice_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'recurringPrice')]</element>
+  </locator>
+  <locator name="ele_ShortDescription_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'shortDescription')]</element>
+  </locator>
+  <locator name="ele_ShortDescription_3a0bfac2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'shortDescription')]</element>
+  </locator>
+  <locator name="ele_Sku_3a0bfac2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'sku')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a189c29">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0da6be">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c6686">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a0c6685">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'statusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a028478">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_SubStatusCode_3a0da6be">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'subStatusCode')]</element>
+  </locator>
+  <locator name="ele_Value_3a0bc28e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0bc2e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0be5b4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0c0f25">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0bc240">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0be5b5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0da6bb">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0beea3">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0beb7b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0bf5a7">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0bf3e0">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_Value_3a0ea111">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'value')]</element>
+  </locator>
+  <locator name="ele_6152d71312b0163624ec4ef4_39ff3de0">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_6447b27456935b7a89a7654d_3a0aca48">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Cell_39f68e81">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Cell_39ff3dd7">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_DIV_3a0aca67">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_DIV_3a0caf0e">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Directory_39f68e81">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_DoneOrderSuccessfullySubmittedForActivation_39ff4845">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_DoneOrderSuccessfullySubmittedForCancellation_3a0a8827">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_EnterPassword_3a092967">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_File_39f68e81">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Name_3a028478">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_NoLongerWant_3a0dcf91">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_On_3a1ef32a">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_OneTimeVerificationCode_3a0caf40">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_ResultTable_39f68e81">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Row_39f68e81">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Row_39ff3dd7">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_SomeoneExampleCom_3a0caeb0">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Value_3a028478">
+    <element type="xpath"/>
+  </locator>
+</locators>

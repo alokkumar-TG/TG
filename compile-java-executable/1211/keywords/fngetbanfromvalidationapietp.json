@@ -1,0 +1,17 @@
+{
+    "url": "https://tep-query-api-prd.px-prd5102.tke.t-mobile.com/api/datareader/progression/SamsonJasperBN/v1/samson/qlab03",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {},
+    "p_static": {},
+    "key_path": "",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30
+}

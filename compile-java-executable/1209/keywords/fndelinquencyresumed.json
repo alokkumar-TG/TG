@@ -1,0 +1,25 @@
+{
+    "url": "https://deepio-internal-npe.t-mobile.com/qlab03/deep/v1/events/AccountResumed",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "accountNumber": "var_Customer_Details_Ban",
+        "financialAccountNumber": "var_Customer_Details_Ban"
+    },
+    "p_static": {
+        "accountNumber": "974077773",
+        "financialAccountNumber": "974077773"
+    },
+    "key_path": "",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n    \"eventId\": \"3e50f7d4-e2dc-45da-a7b5-2550686a557e\",\r\n    \"eventType\": \"AccountResumed\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"eventVersion\": \"1.0\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618935132\"\r\n    },\r\n    \"headerReference\": {\r\n        \"activityId\": \"10247748647\",\r\n        \"applicationId\": \"DigitalBilling\"\r\n    },\r\n    \"payload\": {\r\n        \"banStatusReasonDescription\": \"Customer Request\",\r\n        \"financialAccountNumber\": \"618935132\",\r\n        \"banStatus\": \"O\",\r\n        \"banStatusDescription\": \"Open\",\r\n        \"accountSubType\": \"C\",\r\n        \"accountType\": \"B\",\r\n        \"accountClassifications\": [\r\n            \"IOTB2B_BAN\"\r\n        ],\r\n        \"reasonCode\": \"CR\",\r\n        \"banStatusChangeDate\": \"2023-02-27T00:00:00Z\"\r\n    }\r\n}",
+    "body_static": "{\r\n    \"eventId\": \"3e50f7d4-e2dc-45da-a7b5-2550686a557e\",\r\n    \"eventType\": \"AccountResumed\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"eventVersion\": \"1.0\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618935132\"\r\n    },\r\n    \"headerReference\": {\r\n        \"activityId\": \"10247748647\",\r\n        \"applicationId\": \"DigitalBilling\"\r\n    },\r\n    \"payload\": {\r\n        \"banStatusReasonDescription\": \"Customer Request\",\r\n        \"financialAccountNumber\": \"618935132\",\r\n        \"banStatus\": \"O\",\r\n        \"banStatusDescription\": \"Open\",\r\n        \"accountSubType\": \"C\",\r\n        \"accountType\": \"B\",\r\n        \"accountClassifications\": [\r\n            \"IOTB2B_BAN\"\r\n        ],\r\n        \"reasonCode\": \"CR\",\r\n        \"banStatusChangeDate\": \"2023-02-27T00:00:00Z\"\r\n    }\r\n}"
+}

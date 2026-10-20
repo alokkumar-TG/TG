@@ -1,0 +1,19 @@
+{
+    "url": "https://icpqat03orderportal-proxy.azurewebsites.net/650b9b5935d0030dfd8fe5ce/sendemail",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {},
+    "p_static": {},
+    "key_path": "reasonCodes",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n  \"overrideOrder\": false,\r\n  \"actionTypeCode\": \"IOTORDERCREATED\",\r\n  \"primaryContact\": {\r\n    \"emailAddress\": \"shubham.belsare1@t-mobile.com\"\r\n  }\r\n}",
+    "body_static": "{\r\n  \"overrideOrder\": false,\r\n  \"actionTypeCode\": \"IOTORDERCREATED\",\r\n  \"primaryContact\": {\r\n    \"emailAddress\": \"shubham.belsare1@t-mobile.com\"\r\n  }\r\n}"
+}

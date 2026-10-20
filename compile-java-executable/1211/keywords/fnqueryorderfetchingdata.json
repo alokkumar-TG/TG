@@ -1,0 +1,23 @@
+{
+    "url": "https://icpqat03iot-manageorder-api.azurewebsites.net/manageorder/query/order",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "orderId": "var_Order_Id"
+    },
+    "p_static": {
+        "orderId": ""
+    },
+    "key_path": "activityId",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n  \"orderId\":\"650333b93b02017340b6effc\"\r\n}",
+    "body_static": "{\r\n  \"orderId\":\"650333b93b02017340b6effc\"\r\n}"
+}

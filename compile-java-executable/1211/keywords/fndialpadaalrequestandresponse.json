@@ -1,0 +1,55 @@
+{
+    "url": "https://icpqat03order-validate.azurewebsites.net/validate",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "financialAccountNumber": "var_Financial_Account_Number",
+        "taxPayerId": "var_Taxpayer_Id",
+        "accountName": "var_Account_Name",
+        "createdBy": "var_Created_By",
+        "customerId": "var_Account_Id",
+        "emailAddress": "DP@lltcd.com",
+        "productId": "var_Product_Id",
+        "productVersion": "var_Product_Version",
+        "productName": "var_Product_Name",
+        "recurringFrequency": "var_Recurring_Frequency",
+        "recurringPrice": "var_Recurring_Price",
+        "ratePlanId": "var_Rate_Plan_Id",
+        "ratePlanName": "var_Rate_Plan_Name",
+        "name": "var_Name",
+        "value": "var_Value",
+        "dueMonthlyAmount": "var_Recurring_Price",
+        "totalDueMonthlyAmount": "var_Recurring_Price"
+    },
+    "p_static": {
+        "financialAccountNumber": "974077773",
+        "taxPayerId": "",
+        "accountName": "",
+        "createdBy": "SDET_Automation",
+        "customerId": "",
+        "emailAddress": "DP@lltcd.com",
+        "productId": "",
+        "productVersion": "",
+        "productName": "",
+        "recurringFrequency": "",
+        "recurringPrice": "",
+        "ratePlanId": "",
+        "ratePlanName": "",
+        "name": "",
+        "value": "",
+        "dueMonthlyAmount": "",
+        "totalDueMonthlyAmount": ""
+    },
+    "key_path": "orderId",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n  \"channel\": \"IOTORDERPORTAL\",\r\n  \"salesChannelId\": \"98\",\r\n  \"dealerCode\": \"0000002\",\r\n  \"financialAccountNumber\": \"973984128\",\r\n  \"billingAddress\": {\r\n    \"addressLine1\": \"1101 SUPERMALL WAY STE 1317\",\r\n    \"addressLine2\": \"8AZIO\",\r\n    \"cityName\": \"AUBURN\",\r\n    \"stateName\": \"WA\",\r\n    \"countryCode\": \"US\",\r\n    \"postalCode\": \"98001\"\r\n  },\r\n  \"shippingMethod\": \"\",\r\n  \"primaryContact\": {\r\n    \"firstName\": null,\r\n    \"familyNames\": null,\r\n    \"fullName\": null,\r\n    \"emailAddress\": null,\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": null,\r\n        \"phoneNumber\": null,\r\n        \"emailAddress\": \"DP@lltcd.com\",\r\n        \"emailType\": \"ADMIN\"\r\n      }\r\n    ],\r\n    \"positionTitle\": null\r\n  },\r\n  \"billingContact\": {\r\n    \"firstName\": \"SDET\",\r\n    \"familyNames\": \"Test\",\r\n    \"fullName\": \"SDET Test\",\r\n    \"emailAddress\": \"DP@lltcd.com\",\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": \"MOBILE\",\r\n        \"phoneNumber\": \"7013858138\",\r\n        \"emailAddress\": null,\r\n        \"emailType\": null\r\n      }\r\n    ],\r\n    \"positionTitle\": null\r\n  },\r\n  \"taxPayerId\": \"234789123\",\r\n  \"language\": \"EN\",\r\n  \"orderLineItem\": [\r\n    {\r\n      \"quantity\": 1,\r\n      \"office\": {\r\n        \"officeId\": \"6071408588357632\",\r\n        \"officeName\": \"lltcd\"\r\n      },\r\n      \"product\": [\r\n        {\r\n          \"productType\": \"RATEPLAN\",\r\n          \"productId\": \"Sw-1e42d53d-ae39-4229-926c-6dd85115679d\",\r\n          \"productVersion\": 4,\r\n          \"productName\": \"Standard Talk - New\",\r\n          \"recurringFrequency\": \"MONTHLY\",\r\n          \"productOfferPrice\": {\r\n            \"recurringPrice\": 15\r\n          },\r\n          \"ratePlan\": {\r\n            \"ratePlanId\": \"402488893\",\r\n            \"ratePlanName\": \"Standard Talk - New\",\r\n            \"specifications\": [\r\n              {\r\n                \"name\": \"partnerInformation\",\r\n                \"value\": \"Dialpad\"\r\n              },\r\n              {\r\n                \"name\": \"extOfferId\",\r\n                \"value\": \"talk_line_delta\"\r\n              }\r\n            ]\r\n          }\r\n        }\r\n      ],\r\n      \"dueNowAmount\": 0,\r\n      \"taxAmount\": 0,\r\n      \"depositAmount\": 0,\r\n      \"deferToBillAmount\": 0,\r\n      \"dueMonthlyAmount\": 15\r\n    }\r\n  ],\r\n  \"dealerEmailAddress\": \"pavan@t-mobile.com\",\r\n  \"totalDueMonthlyAmount\": 15,\r\n  \"totalDueNowAmount\": 0,\r\n  \"totalTaxAmount\": 0,\r\n  \"billingContactSameAsPrimary\": true,\r\n  \"shippingAddrSameAsBilling\": true,\r\n  \"ppuAddrSameAsShipping\": false,\r\n  \"totalAmount\": 0,\r\n  \"iotOrderStatus\": {\r\n    \"statusCode\": \"\",\r\n    \"subStatusCode\": \"\",\r\n    \"reasonCodes\": \"\",\r\n    \"modifiedBy\": \"\"\r\n  },\r\n  \"orderStatusHistory\": [\r\n    {\r\n      \"iotOrderStatus\": \"\",\r\n      \"iotOrderStatusDate\": \"\",\r\n      \"modifiedBy\": \"\"\r\n    }\r\n  ],\r\n  \"orderCreatedDate\": \"\",\r\n  \"createdBy\": \"PKumar70\",\r\n  \"accountName\": \"lltcd\",\r\n  \"accountType\": \"STANDARD\",\r\n  \"ppuAddress\": {\r\n    \"addressLine1\": null,\r\n    \"addressLine2\": null,\r\n    \"cityName\": null,\r\n    \"stateName\": null,\r\n    \"countryCode\": null,\r\n    \"postalCode\": null,\r\n    \"postalCodeExtension\": null\r\n  },\r\n  \"subTotal\": 0,\r\n  \"orderFees\": [],\r\n  \"dealerName\": \"\",\r\n  \"advantageProgramCustomer\": false,\r\n  \"accountMSISDN\": \"\",\r\n  \"otherDealerCodes\": [],\r\n  \"payment\": {\r\n    \"autoPayEnabledIndicator\": \"N\"\r\n  },\r\n  \"transactionType\": \"Add a Line\",\r\n  \"businessSegment\": \"DIALPAD\",\r\n  \"customerId\": \"1536410003\",\r\n  \"totalDeferToBillAmount\": 0,\r\n  \"totalDepositAmount\": 0,\r\n  \"dealerPhoneNumber\": null,\r\n  \"actionTypeCode\": \"SUBMIT\",\r\n  \"opportunityType\": \"Direct\"\r\n}",
+    "body_static": "{\r\n  \"channel\": \"IOTORDERPORTAL\",\r\n  \"salesChannelId\": \"98\",\r\n  \"dealerCode\": \"0000002\",\r\n  \"financialAccountNumber\": \"973984128\",\r\n  \"billingAddress\": {\r\n    \"addressLine1\": \"1101 SUPERMALL WAY STE 1317\",\r\n    \"addressLine2\": \"8AZIO\",\r\n    \"cityName\": \"AUBURN\",\r\n    \"stateName\": \"WA\",\r\n    \"countryCode\": \"US\",\r\n    \"postalCode\": \"98001\"\r\n  },\r\n  \"shippingMethod\": \"\",\r\n  \"primaryContact\": {\r\n    \"firstName\": null,\r\n    \"familyNames\": null,\r\n    \"fullName\": null,\r\n    \"emailAddress\": null,\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": null,\r\n        \"phoneNumber\": null,\r\n        \"emailAddress\": \"DP@lltcd.com\",\r\n        \"emailType\": \"ADMIN\"\r\n      }\r\n    ],\r\n    \"positionTitle\": null\r\n  },\r\n  \"billingContact\": {\r\n    \"firstName\": \"SDET\",\r\n    \"familyNames\": \"Test\",\r\n    \"fullName\": \"SDET Test\",\r\n    \"emailAddress\": \"DP@lltcd.com\",\r\n    \"contactInfo\": [\r\n      {\r\n        \"phoneType\": \"MOBILE\",\r\n        \"phoneNumber\": \"7013858138\",\r\n        \"emailAddress\": null,\r\n        \"emailType\": null\r\n      }\r\n    ],\r\n    \"positionTitle\": null\r\n  },\r\n  \"taxPayerId\": \"234789123\",\r\n  \"language\": \"EN\",\r\n  \"orderLineItem\": [\r\n    {\r\n      \"quantity\": 1,\r\n      \"office\": {\r\n        \"officeId\": \"6071408588357632\",\r\n        \"officeName\": \"lltcd\"\r\n      },\r\n      \"product\": [\r\n        {\r\n          \"productType\": \"RATEPLAN\",\r\n          \"productId\": \"Sw-1e42d53d-ae39-4229-926c-6dd85115679d\",\r\n          \"productVersion\": 4,\r\n          \"productName\": \"Standard Talk - New\",\r\n          \"recurringFrequency\": \"MONTHLY\",\r\n          \"productOfferPrice\": {\r\n            \"recurringPrice\": 15\r\n          },\r\n          \"ratePlan\": {\r\n            \"ratePlanId\": \"402488893\",\r\n            \"ratePlanName\": \"Standard Talk - New\",\r\n            \"specifications\": [\r\n              {\r\n                \"name\": \"partnerInformation\",\r\n                \"value\": \"Dialpad\"\r\n              },\r\n              {\r\n                \"name\": \"extOfferId\",\r\n                \"value\": \"talk_line_delta\"\r\n              }\r\n            ]\r\n          }\r\n        }\r\n      ],\r\n      \"dueNowAmount\": 0,\r\n      \"taxAmount\": 0,\r\n      \"depositAmount\": 0,\r\n      \"deferToBillAmount\": 0,\r\n      \"dueMonthlyAmount\": 15\r\n    }\r\n  ],\r\n  \"dealerEmailAddress\": \"pavan@t-mobile.com\",\r\n  \"totalDueMonthlyAmount\": 15,\r\n  \"totalDueNowAmount\": 0,\r\n  \"totalTaxAmount\": 0,\r\n  \"billingContactSameAsPrimary\": true,\r\n  \"shippingAddrSameAsBilling\": true,\r\n  \"ppuAddrSameAsShipping\": false,\r\n  \"totalAmount\": 0,\r\n  \"iotOrderStatus\": {\r\n    \"statusCode\": \"\",\r\n    \"subStatusCode\": \"\",\r\n    \"reasonCodes\": \"\",\r\n    \"modifiedBy\": \"\"\r\n  },\r\n  \"orderStatusHistory\": [\r\n    {\r\n      \"iotOrderStatus\": \"\",\r\n      \"iotOrderStatusDate\": \"\",\r\n      \"modifiedBy\": \"\"\r\n    }\r\n  ],\r\n  \"orderCreatedDate\": \"\",\r\n  \"createdBy\": \"PKumar70\",\r\n  \"accountName\": \"lltcd\",\r\n  \"accountType\": \"STANDARD\",\r\n  \"ppuAddress\": {\r\n    \"addressLine1\": null,\r\n    \"addressLine2\": null,\r\n    \"cityName\": null,\r\n    \"stateName\": null,\r\n    \"countryCode\": null,\r\n    \"postalCode\": null,\r\n    \"postalCodeExtension\": null\r\n  },\r\n  \"subTotal\": 0,\r\n  \"orderFees\": [],\r\n  \"dealerName\": \"\",\r\n  \"advantageProgramCustomer\": false,\r\n  \"accountMSISDN\": \"\",\r\n  \"otherDealerCodes\": [],\r\n  \"payment\": {\r\n    \"autoPayEnabledIndicator\": \"N\"\r\n  },\r\n  \"transactionType\": \"Add a Line\",\r\n  \"businessSegment\": \"DIALPAD\",\r\n  \"customerId\": \"1536410003\",\r\n  \"totalDeferToBillAmount\": 0,\r\n  \"totalDepositAmount\": 0,\r\n  \"dealerPhoneNumber\": null,\r\n  \"actionTypeCode\": \"SUBMIT\",\r\n  \"opportunityType\": \"Direct\"\r\n}"
+}

@@ -1,0 +1,86 @@
+import java.sql.Connection;;
+import java.sql.DriverManager;;
+import java.sql.ResultSet;;
+import java.sql.SQLException;;
+import java.sql.Statement;;
+import io.testgrid.listeners.TestListener;
+import io.testgrid.listeners.RetryFailedTestCases;
+import io.testgrid.tg;
+import org.testng.annotations.*;
+import app.getxray.xray.testng.annotations.XrayTest;
+import io.testgrid.enums.ComparisonType;
+import org.json.JSONObject;
+import io.testgrid.enums.Direction;
+import io.testgrid.enums.Size;
+import io.testgrid.enums.Buttons;
+import static io.testgrid.baseClass.driver;
+import org.openqa.selenium.*;
+import static io.testgrid.enums.KeyboardKeys.*;
+import org.openqa.selenium.support.ui.Select;
+import java.net.*;
+import java.util.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
+
+@Listeners(TestListener.class);
+public class qat_qat_create_mop_dialpad_add_a_license_order {
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void qat_qat_create_mop_dialpad_add_a_license_order() {
+		tg.openBrowser();
+		tg_String var_fnGenerateOAuthAccessTokenV1response = "";
+		var_fnGenerateOAuthAccessTokenV1response = (String) tg.testFunction("fnGenerateOAuthAccessTokenV1_copy3", new Object[]{var_Regression_Get_Product});
+		tg_String var_fnGetAccountDetailsDialpadresponse = "";
+		var_fnGetAccountDetailsDialpadresponse = (String) tg.testFunction("fnGetAccountDetailsDialpad_copy2", new Object[]{var_Regression_Get_Product, var_Account_Id});
+		tg_String var_fnGetProductDialpadresponse = "";
+		var_fnGetProductDialpadresponse = (String) tg.testFunction("fnGetProductDialpad_copy2", new Object[]{var_Regression_Get_Product, var_Product_Id});
+		START_CUSTOM_SCRIPT;
+		var_Created_By = "SDET_Automation";
+		END_CUSTOM_SCRIPT;
+		tg_String var_fnDialpadAALRequestAndResponseresponse = "";
+		var_fnDialpadAALRequestAndResponseresponse = (String) tg.testFunction("fnDialpadAALRequestAndResponse_copy2", new Object[]{var_Regression_Get_Product, var_Created_By});
+		tg.wait(15);
+		tg_String var_Qat_Qat_Create_Mop_Dialpad_Add_A_License_Order_Response = "";
+				var_Qat_Qat_Create_Mop_Dialpad_Add_A_License_Order_Response = tg.readFromAPI("qat_qat_create_mop_dialpad_add_a_license_order.json").getString();
+		tg.swipe("ele_OrderStatusHistory_3a0de2b7", Direction.UP);
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.swipe("ele_Item_3a0de2b7", Direction.UP);
+		tg.check.isVisible("ele_IotOrderStatus_3a0de2b7");
+		tg.check.isVisible("ele_IotOrderSubStatus_3a0de2b7");
+		tg.close();
+	}
+}

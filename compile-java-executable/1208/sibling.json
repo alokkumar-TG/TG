@@ -1,0 +1,1384 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_AliasNameItem_39f68e81",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Alias name (item)')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "AliasNameItem_39f68e81"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Authorization_3a187ed8",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Authorization_3a187ed8"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_XAuthOriginator_3a187ed8",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'X-Auth-Originator')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "XAuthOriginator_3a187ed8"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Authorization_3a171013",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Authorization_3a171013"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Resource_3a17375b",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Resource')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Resource_3a17375b"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_BAN_3a171013",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'BAN')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "BAN_3a171013"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_StatusCode_3a171013",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "StatusCode_3a171013"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EID_3a187ed9",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'EID')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "EID_3a187ed9"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_StatusCode_3a187b53",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "StatusCode_3a187b53"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Buffername_39f68e81",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), '<Buffername>')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Buffername_39f68e81"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Endpoint_39ffb99a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Endpoint_39ffb99a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_StatusCode_39fdd055",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "StatusCode_39fdd055"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_AccessToken_39fdd58d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'access_token')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "AccessToken_39fdd58d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TestDataTask_39f68e81",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Test data task')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "TestDataTask_39f68e81"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ExistingOrNewTDSType_39f68e81",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Existing or new TDS type')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ExistingOrNewTDSType_39f68e81"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Position_3a0df533",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Position')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Position_3a0df533"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Query_3a0df533",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Query')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Query_3a0df533"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ExistingAliasNameItem_39f68e81",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Existing alias name (item)')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ExistingAliasNameItem_39f68e81"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Path_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Path')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Path_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Arguments_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Arguments')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Arguments_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Argument_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Argument')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Argument_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_WaitForExit_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'WaitForExit')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "WaitForExit_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TimeoutForExit_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'TimeoutForExit')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "TimeoutForExit_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Buffername_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), '<Buffername>')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Buffername_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Directory_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Directory')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Directory_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_File_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'File')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "File_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Text_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Text')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Text_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Encoding_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Encoding')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Encoding_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Overwrite_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Overwrite')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Overwrite_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Authorization_3a181299",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Authorization_3a181299"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_XAuthorization_3a181299",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'X-Authorization')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "XAuthorization_3a181299"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_XAuthOriginator_3a181299",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'x-auth-originator')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "XAuthOriginator_3a181299"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Endpoint_3a181299",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Endpoint_3a181299"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Eid_3a18129a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'eid')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Eid_3a18129a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SamsonBAN_3a18129a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'samsonBAN')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "SamsonBAN_3a18129a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Name_3a18129a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'name')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Name_3a18129a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ProductId_3a1b3e46",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'ProductId')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ProductId_3a1b3e46"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Status_3a1b3e48",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Status')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Status_3a1b3e48"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Id_3a18129a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'id')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Id_3a18129a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_StatusCode_3a18129b",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "StatusCode_3a18129b"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_State_3a18157b",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'state')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "State_3a18157b"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_XAuthOriginator_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'x-auth-originator')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "XAuthOriginator_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_XAuthorization_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'X-Authorization')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "XAuthorization_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Authorization_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Authorization_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Endpoint_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Endpoint_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Id_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'id')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Id_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Eid_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'eid')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Eid_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SamsonBAN_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'samsonBAN')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "SamsonBAN_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Name_3a18156d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'name')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Name_3a18156d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_StatusCode_3a18156e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "StatusCode_3a18156e"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_State_3a18156e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'state')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "State_3a18156e"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Status_3a18156e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'status')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Status_3a18156e"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Path_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Path')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Path_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Directory_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Directory')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Directory_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Arguments_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Arguments')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Arguments_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Argument_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Argument')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Argument_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_WaitForExit_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'WaitForExit')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "WaitForExit_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TimeoutForExit_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'TimeoutForExit')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "TimeoutForExit_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_File_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'File')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "File_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Text_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Text')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Text_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Overwrite_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Overwrite')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Overwrite_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_StandardOutputFile_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'StandardOutputFile')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "StandardOutputFile_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ExitCode_3a1260f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'ExitCode')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ExitCode_3a1260f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ProductId_3a1b3e63",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'ProductId')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ProductId_3a1b3e63"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Status_3a1b3e64",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Status')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Status_3a1b3e64"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EnterTDSAttributeAndAValue_39f68e81",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), '<Enter_TDS_attribute_and_a_value>')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "EnterTDSAttributeAndAValue_39f68e81"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ExitCode_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ExitCode_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Expression_3a119796",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Expression_3a119796"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_StandardOutputFile_3a170ab2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_StandardOutputFile_3a170ab2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}

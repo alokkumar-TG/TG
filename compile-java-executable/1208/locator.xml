@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_AliasNameItem_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Alias name (item)')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a187ed8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_XAuthOriginator_3a187ed8">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'X-Auth-Originator')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a171013">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Resource_3a17375b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Resource')]</element>
+  </locator>
+  <locator name="ele_BAN_3a171013">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'BAN')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a171013">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_EID_3a187ed9">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'EID')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a187b53">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_Buffername_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '&lt;Buffername&gt;')]</element>
+  </locator>
+  <locator name="ele_Endpoint_39ffb99a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_StatusCode_39fdd055">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_AccessToken_39fdd58d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'access_token')]</element>
+  </locator>
+  <locator name="ele_TestDataTask_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Test data task')]</element>
+  </locator>
+  <locator name="ele_ExistingOrNewTDSType_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Existing or new TDS type')]</element>
+  </locator>
+  <locator name="ele_Position_3a0df533">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Position')]</element>
+  </locator>
+  <locator name="ele_Query_3a0df533">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Query')]</element>
+  </locator>
+  <locator name="ele_ExistingAliasNameItem_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Existing alias name (item)')]</element>
+  </locator>
+  <locator name="ele_Path_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Path')]</element>
+  </locator>
+  <locator name="ele_Arguments_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Arguments')]</element>
+  </locator>
+  <locator name="ele_Argument_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Argument')]</element>
+  </locator>
+  <locator name="ele_WaitForExit_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'WaitForExit')]</element>
+  </locator>
+  <locator name="ele_TimeoutForExit_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'TimeoutForExit')]</element>
+  </locator>
+  <locator name="ele_Buffername_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '&lt;Buffername&gt;')]</element>
+  </locator>
+  <locator name="ele_Directory_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Directory')]</element>
+  </locator>
+  <locator name="ele_File_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'File')]</element>
+  </locator>
+  <locator name="ele_Text_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Text')]</element>
+  </locator>
+  <locator name="ele_Encoding_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Encoding')]</element>
+  </locator>
+  <locator name="ele_Overwrite_3a170ab2">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Overwrite')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a181299">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_XAuthorization_3a181299">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'X-Authorization')]</element>
+  </locator>
+  <locator name="ele_XAuthOriginator_3a181299">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'x-auth-originator')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a181299">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Eid_3a18129a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'eid')]</element>
+  </locator>
+  <locator name="ele_SamsonBAN_3a18129a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'samsonBAN')]</element>
+  </locator>
+  <locator name="ele_Name_3a18129a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a1b3e46">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ProductId')]</element>
+  </locator>
+  <locator name="ele_Status_3a1b3e48">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Status')]</element>
+  </locator>
+  <locator name="ele_Id_3a18129a">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'id')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a18129b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_State_3a18157b">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'state')]</element>
+  </locator>
+  <locator name="ele_XAuthOriginator_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'x-auth-originator')]</element>
+  </locator>
+  <locator name="ele_XAuthorization_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'X-Authorization')]</element>
+  </locator>
+  <locator name="ele_Authorization_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Authorization')]</element>
+  </locator>
+  <locator name="ele_Endpoint_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Endpoint')]</element>
+  </locator>
+  <locator name="ele_Id_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'id')]</element>
+  </locator>
+  <locator name="ele_Eid_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'eid')]</element>
+  </locator>
+  <locator name="ele_SamsonBAN_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'samsonBAN')]</element>
+  </locator>
+  <locator name="ele_Name_3a18156d">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'name')]</element>
+  </locator>
+  <locator name="ele_StatusCode_3a18156e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StatusCode')]</element>
+  </locator>
+  <locator name="ele_State_3a18156e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'state')]</element>
+  </locator>
+  <locator name="ele_Status_3a18156e">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'status')]</element>
+  </locator>
+  <locator name="ele_Path_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Path')]</element>
+  </locator>
+  <locator name="ele_Directory_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Directory')]</element>
+  </locator>
+  <locator name="ele_Arguments_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Arguments')]</element>
+  </locator>
+  <locator name="ele_Argument_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Argument')]</element>
+  </locator>
+  <locator name="ele_WaitForExit_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'WaitForExit')]</element>
+  </locator>
+  <locator name="ele_TimeoutForExit_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'TimeoutForExit')]</element>
+  </locator>
+  <locator name="ele_File_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'File')]</element>
+  </locator>
+  <locator name="ele_Text_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Text')]</element>
+  </locator>
+  <locator name="ele_Overwrite_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Overwrite')]</element>
+  </locator>
+  <locator name="ele_StandardOutputFile_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'StandardOutputFile')]</element>
+  </locator>
+  <locator name="ele_ExitCode_3a1260f5">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ExitCode')]</element>
+  </locator>
+  <locator name="ele_ProductId_3a1b3e63">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'ProductId')]</element>
+  </locator>
+  <locator name="ele_Status_3a1b3e64">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Status')]</element>
+  </locator>
+  <locator name="ele_EnterTDSAttributeAndAValue_39f68e81">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '&lt;Enter_TDS_attribute_and_a_value&gt;')]</element>
+  </locator>
+  <locator name="ele_ExitCode_3a170ab2">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_Expression_3a119796">
+    <element type="xpath"/>
+  </locator>
+  <locator name="ele_StandardOutputFile_3a170ab2">
+    <element type="xpath"/>
+  </locator>
+</locators>

@@ -1,0 +1,25 @@
+{
+    "url": "https://deepio-internal-npe.t-mobile.com/qlab03/deep/v1/events/AccountCancelled",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": {
+        "Authorization": "var_Access_Tocken"
+    },
+    "h_static": {
+        "Authorization": "Bearer token"
+    },
+    "params": {
+        "accountNumber": "var_Customer_Details_Ban",
+        "financialAccountNumber": "var_Customer_Details_Ban"
+    },
+    "p_static": {
+        "accountNumber": "974077773",
+        "financialAccountNumber": "974077773"
+    },
+    "key_path": "",
+    "resp_type": "json",
+    "key_type": "string",
+    "timeout": 30,
+    "body": "{\r\n    \"eventId\": \"e4e00594-22ab-4ada-9f7c-d44ef3ae4eb4\",\r\n    \"eventType\": \"AccountCancelled\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"eventVersion\": \"1.0\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618935742\"\r\n    },\r\n    \"headerReference\": {\r\n        \"activityId\": \"10277128441\",\r\n        \"applicationId\": \"DigitalBilling\"\r\n    },\r\n    \"payload\": {\r\n        \"accountType\": \"B\",\r\n        \"accountSubType\": \"O\",\r\n        \"activityReasonCode\": \"CAN\",\r\n        \"financialAccountNumber\": \"618935742\",\r\n        \"banStatusChangeDate\": \"2023-03-06T00:00:00Z\",\r\n        \"banStatus\": \"N\",\r\n        \"banStatusDescription\": \"Cancelled\",\r\n        \"banStatusReasonDescription\": \"Sales or Reseller Req.\",\r\n        \"corporateNodeID\": \"45132981\",\r\n        \"accountClassifications\": [\r\n            \"IOTB2B_BAN\"\r\n        ]\r\n    }\r\n}",
+    "body_static": "{\r\n    \"eventId\": \"e4e00594-22ab-4ada-9f7c-d44ef3ae4eb4\",\r\n    \"eventType\": \"AccountCancelled\",\r\n    \"eventTime\": \"2023-03-03T22:43:53Z\",\r\n    \"eventProducerId\": \"DigitalBilling\",\r\n    \"eventVersion\": \"1.0\",\r\n    \"specifications\": [],\r\n    \"auditInfo\": {\r\n        \"accountNumber\": \"618935742\"\r\n    },\r\n    \"headerReference\": {\r\n        \"activityId\": \"10277128441\",\r\n        \"applicationId\": \"DigitalBilling\"\r\n    },\r\n    \"payload\": {\r\n        \"accountType\": \"B\",\r\n        \"accountSubType\": \"O\",\r\n        \"activityReasonCode\": \"CAN\",\r\n        \"financialAccountNumber\": \"618935742\",\r\n        \"banStatusChangeDate\": \"2023-03-06T00:00:00Z\",\r\n        \"banStatus\": \"N\",\r\n        \"banStatusDescription\": \"Cancelled\",\r\n        \"banStatusReasonDescription\": \"Sales or Reseller Req.\",\r\n        \"corporateNodeID\": \"45132981\",\r\n        \"accountClassifications\": [\r\n            \"IOTB2B_BAN\"\r\n        ]\r\n    }\r\n}"
+}
