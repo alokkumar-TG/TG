@@ -1,8 +1,8 @@
-import java.sql.Connection;
+import java.sql.SQLException;
 import java.util.Scanner;
+import java.sql.Connection;
 import java.sql.DriverManager;;
 import java.sql.ResultSet;;
-import java.sql.SQLException;;
 import java.sql.Statement;;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
@@ -65,6 +65,28 @@ public class dfsf {
 				tg.click("ele_day430", 1);
 				tg.wait("ele_div477", ComparisonType.IS_VISIBLE);
 				tg.click("ele_div477", 1);
+				tg.wait("ele_emailaddre400", ComparisonType.IS_VISIBLE);
+				tg.click("ele_emailaddre400", 1);
+				tg.wait("ele_rc9l6neapp285", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp285", 1);
+				tg.wait("ele_rc9l6neapp285", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp285", "ghjghjghjghj");
+				tg.wait("ele_rcdl6neapp621", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rcdl6neapp621", 1);
+				tg.wait("ele_rcdl6neapp621", ComparisonType.IS_VISIBLE);
+				tg.typeEncrypted("ele_rcdl6neapp621", "kb3NGIChmDaLERcBrnasQg==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+				tg.wait("ele_login713", ComparisonType.IS_VISIBLE);
+				tg.click("ele_login713", 1);
+				tg.wait("ele_forgottenp002", ComparisonType.IS_VISIBLE);
+				tg.click("ele_forgottenp002", 1);
+				tg.wait("ele_svg002424c518", ComparisonType.IS_VISIBLE);
+				tg.click("ele_svg002424c518", 1);
+				tg.wait("ele_forgottenp774", ComparisonType.IS_VISIBLE);
+				tg.click("ele_forgottenp774", 1);
+				tg.wait("ele_backbutton992", ComparisonType.IS_VISIBLE);
+				tg.click("ele_backbutton992", 1);
+				tg.wait("ele_createnewa115", ComparisonType.IS_VISIBLE);
+				tg.click("ele_createnewa115", 1);
 		tg.close();
 	}
 }
