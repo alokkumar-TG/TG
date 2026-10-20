@@ -25,7 +25,13 @@ public class scanner {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void scanner() {
 		tg.openBrowser();
-		tg.wait(2);
+				tg.wait(2);
+				tg.wait("ele_logintofac637", ComparisonType.IS_VISIBLE);
+				tg.click("ele_logintofac637", 1);
+				tg.wait("ele_rcdl6neapp096", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rcdl6neapp096", 1);
+				tg.wait("ele_rcdl6neapp096", ComparisonType.IS_VISIBLE);
+				tg.typeEncrypted("ele_rcdl6neapp096", "mIP+Ax0S8qye7d+18xV7PQ==:MTIzNDU2Nzg5MTAxMTEyMQ==");
 		tg.close();
 	}
 }
