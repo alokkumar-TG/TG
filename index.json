@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "485",
-    "user_id": 1,
+    "user_id": 0,
     "abo_version": {
         "version_id": "485",
         "app_id": "213",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "213",
@@ -93,15 +93,7 @@
                     "created_at": "2026-08-10 11:08:15",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5412",
-                            "version_module_id": "1208",
-                            "name": "3a1878c0-5eec-248a-1f37-443ab89bcbff",
-                            "tc_id": "4338",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1208/testcases/iotcc_tc029_iot_connectivity_stp_new_activation_order_api_v2_esim_ordering_iotcc_tc029_iot_cc_new_activation_esim_qat.java",
                     "vault_paths": []
@@ -127,15 +119,7 @@
                     "created_at": "2026-08-10 11:08:15",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5413",
-                            "version_module_id": "1208",
-                            "name": "3a210ee4-a57e-7e00-62a7-bda0dc34f2e0",
-                            "tc_id": "4339",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1208/testcases/iotcc_tc029_iot_connectivity_stp_new_activation_order_api_v2_esim_ordering_iotcc_tc029_iot_cc_new_activation_esim_qat03_9c68afe0.java",
                     "vault_paths": []
@@ -161,15 +145,7 @@
                     "created_at": "2026-08-10 11:08:15",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5414",
-                            "version_module_id": "1208",
-                            "name": "3a1878c0-5eec-7e3b-19bd-73c1ad25ed99",
-                            "tc_id": "4340",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1208/testcases/iotcc_tc029_iot_connectivity_stp_new_activation_order_api_v2_esim_ordering_iotcc_tc029_iot_cc_new_activation_esim_qat03.java",
                     "vault_paths": []
@@ -195,15 +171,7 @@
                     "created_at": "2026-08-10 11:08:15",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5415",
-                            "version_module_id": "1208",
-                            "name": "3a210ee4-a579-78a7-e7bd-2a13dd00186a",
-                            "tc_id": "4341",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1208/testcases/iotcc_tc029_iot_connectivity_stp_new_activation_order_api_v2_esim_ordering_iotcc_tc029_iot_cc_new_activation_esim_qat_eb7acd7b.java",
                     "vault_paths": []
@@ -215,7 +183,7 @@
                     "tc_description": "",
                     "tc_website_url": "https://www.facebook.com/",
                     "it_json": "",
-                    "cm_step_list": null,
+                    "cm_step_list": "",
                     "is_compiled": "1",
                     "xray_type_of_issue_id": null,
                     "xray_type_of_issue_key": null,
@@ -224,8 +192,8 @@
                     "is_ai_generated": "0",
                     "created_source": "recorder_wizard",
                     "created_source_ref": null,
-                    "is_draft": "1",
-                    "updated_at": "2026-10-20 20:24:35",
+                    "is_draft": "0",
+                    "updated_at": "2026-10-20 14:58:19",
                     "created_at": "2026-10-20 20:24:35",
                     "qtest_skip_sync": "0",
                     "status": "2",
@@ -439,35 +407,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4187",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1208",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4239",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1208",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "4240",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1208",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -845,7 +785,518 @@
                     "git_restore_page_id": "0",
                     "created": "2026-10-20 20:24:57",
                     "updated": "2026-10-20 20:24:57",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "89051",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_rc9l6neapp018",
+                            "element_display_name": "rc9l6neapp018",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89051.png",
+                            "element_path_rid": "//input[@id='_R_c9l6neappb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_c9l6neappb6amH1_']\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":264.484375,\"suggest_name\":\"rc9l6neapp018\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div/div/div/div/input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":264.484375,\"suggest_name\":\"rc9l6neapp018\"},{\"locators\":\"id\",\"locators_val\":\"_R_c9l6neappb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":264.484375,\"suggest_name\":\"rc9l6neapp018\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_c9l6neappb6amH1_\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":264.484375,\"suggest_name\":\"rc9l6neapp018\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":264.484375,\"suggest_name\":\"rc9l6neapp018\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":264.484375,\"suggest_name\":\"rc9l6neapp018\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":264.484375,\"suggest_name\":\"rc9l6neapp018\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "762",
+                            "d_y": "264.484375",
+                            "d_w": "516",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89051.png"
+                        },
+                        {
+                            "maps_id": "89052",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_rcdl6neapp706",
+                            "element_display_name": "rcdl6neapp706",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89052.png",
+                            "element_path_rid": "//input[@id='_R_cdl6neappb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_cdl6neappb6amH1_']\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp706\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp706\"},{\"locators\":\"id\",\"locators_val\":\"_R_cdl6neappb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp706\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_cdl6neappb6amH1_\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp706\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp706\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp706\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp706\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "762",
+                            "d_y": "336.484375",
+                            "d_w": "516",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89052.png"
+                        },
+                        {
+                            "maps_id": "89053",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_rcdl6neapp420",
+                            "element_display_name": "rcdl6neapp420",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89053.png",
+                            "element_path_rid": "//input[@id='_R_cdl6neappb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_cdl6neappb6amH1_']\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp420\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp420\"},{\"locators\":\"id\",\"locators_val\":\"_R_cdl6neappb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp420\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_cdl6neappb6amH1_\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp420\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp420\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp420\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp420\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "762",
+                            "d_y": "336.484375",
+                            "d_w": "476",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89053.png"
+                        },
+                        {
+                            "maps_id": "89054",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_rcdl6neapp712",
+                            "element_display_name": "rcdl6neapp712",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89054.png",
+                            "element_path_rid": "//input[@id='_R_cdl6neappb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_cdl6neappb6amH1_']\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp712\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp712\"},{\"locators\":\"id\",\"locators_val\":\"_R_cdl6neappb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp712\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_cdl6neappb6amH1_\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp712\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp712\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp712\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2\",\"d_h\":38,\"d_w\":476,\"d_x\":762,\"d_y\":336.484375,\"suggest_name\":\"rcdl6neapp712\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "762",
+                            "d_y": "336.484375",
+                            "d_w": "476",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89054.png"
+                        },
+                        {
+                            "maps_id": "89055",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_rc9l6neapp743",
+                            "element_display_name": "rc9l6neapp743",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89055.png",
+                            "element_path_rid": "//input[@id='_R_c9l6neappb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_c9l6neappb6amH1_']\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":245.984375,\"suggest_name\":\"rc9l6neapp743\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div/div/div/div/input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":245.984375,\"suggest_name\":\"rc9l6neapp743\"},{\"locators\":\"id\",\"locators_val\":\"_R_c9l6neappb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":245.984375,\"suggest_name\":\"rc9l6neapp743\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_c9l6neappb6amH1_\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":245.984375,\"suggest_name\":\"rc9l6neapp743\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":245.984375,\"suggest_name\":\"rc9l6neapp743\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":245.984375,\"suggest_name\":\"rc9l6neapp743\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":245.984375,\"suggest_name\":\"rc9l6neapp743\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "762",
+                            "d_y": "245.984375",
+                            "d_w": "516",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89055.png"
+                        },
+                        {
+                            "maps_id": "89056",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_login524",
+                            "element_display_name": "login524",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89056.png",
+                            "element_path_rid": "//body/div[@id='mount_0_0_pb']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/form[@id='login_form']/div/div/div/div/div/div[@aria-label='Log in']/div[@role='none']/div[1]",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//body/div[@id='mount_0_0_pb']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/form[@id='login_form']/div/div/div/div/div/div[@aria-label='Log in']/div[@role='none']/div[1]\",\"d_h\":9,\"d_w\":512,\"d_x\":764,\"d_y\":445.484375,\"suggest_name\":\"login524\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div[3]/div/div/div/div\",\"d_h\":9,\"d_w\":512,\"d_x\":764,\"d_y\":445.484375,\"suggest_name\":\"login524\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.html-div.xdj266r.xat24cr.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x6s0dn4.x78zum5.xl56j7k.x1e0frkt.xf0ucvx.xx2axb6\",\"d_h\":9,\"d_w\":512,\"d_x\":764,\"d_y\":445.484375,\"suggest_name\":\"login524\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form/div/div/div/div[3]/div/div/div/div\",\"d_h\":9,\"d_w\":512,\"d_x\":764,\"d_y\":445.484375,\"suggest_name\":\"login524\"},{\"locators\":\"Tag\",\"locators_val\":\"div\",\"d_h\":9,\"d_w\":512,\"d_x\":764,\"d_y\":445.484375,\"suggest_name\":\"login524\"},{\"locators\":\"class\",\"locators_val\":\"html-div xdj266r xat24cr xexx8yu xyri2b x18d9i69 x1c1uobl x6s0dn4 x78zum5 xl56j7k x1e0frkt xf0ucvx xx2axb6TGWEBCOMMA1\",\"d_h\":9,\"d_w\":512,\"d_x\":764,\"d_y\":445.484375,\"suggest_name\":\"login524\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "764",
+                            "d_y": "445.484375",
+                            "d_w": "512",
+                            "d_h": "9",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89056.png"
+                        },
+                        {
+                            "maps_id": "89057",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_forgottenp063",
+                            "element_display_name": "forgottenp063",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89057.png",
+                            "element_path_rid": "//span[contains(text(),'Forgotten password?')]",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//span[contains(text(),'Forgotten password?')]\",\"d_h\":19,\"d_w\":154,\"d_x\":943.1875,\"d_y\":496.484375,\"suggest_name\":\"forgottenp063\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div[4]/div/a/div/div/div/span/span\",\"d_h\":19,\"d_w\":154,\"d_x\":943.1875,\"d_y\":496.484375,\"suggest_name\":\"forgottenp063\"},{\"locators\":\"CSS selector\",\"locators_val\":\"span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1sfkdl8.xurcqga.x3vd66c.xcd4a2j.xzsf02u.x1yc453h.xudqn12.x41vudc > span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft\",\"d_h\":19,\"d_w\":154,\"d_x\":943.1875,\"d_y\":496.484375,\"suggest_name\":\"forgottenp063\"},{\"locators\":\"Xpath\",\"locators_val\":\"//a/div/div/div/span/span\",\"d_h\":19,\"d_w\":154,\"d_x\":943.1875,\"d_y\":496.484375,\"suggest_name\":\"forgottenp063\"},{\"locators\":\"Tag\",\"locators_val\":\"span\",\"d_h\":19,\"d_w\":154,\"d_x\":943.1875,\"d_y\":496.484375,\"suggest_name\":\"forgottenp063\"},{\"locators\":\"class\",\"locators_val\":\"x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA12\",\"d_h\":19,\"d_w\":154,\"d_x\":943.1875,\"d_y\":496.484375,\"suggest_name\":\"forgottenp063\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "943.1875",
+                            "d_y": "496.484375",
+                            "d_w": "154",
+                            "d_h": "19",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89057.png"
+                        },
+                        {
+                            "maps_id": "89058",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_backbutton038",
+                            "element_display_name": "backbutton038",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89058.png",
+                            "element_path_rid": "//div[@aria-label='Back']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//div[@aria-label='Back']\",\"d_h\":40,\"d_w\":40,\"d_x\":357.5,\"d_y\":12,\"suggest_name\":\"backbutton038\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_Sc']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div\",\"d_h\":40,\"d_w\":40,\"d_x\":357.5,\"d_y\":12,\"suggest_name\":\"backbutton038\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1c9tyrk.xeusxvb.x1pahc9y.x1ertn4p.x3nfvp2.x3oybdh.x19kf12q.x1y1aw1k.xwib8y2.xmzvs34.xf159sx\",\"d_h\":40,\"d_w\":40,\"d_x\":357.5,\"d_y\":12,\"suggest_name\":\"backbutton038\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div\",\"d_h\":40,\"d_w\":40,\"d_x\":357.5,\"d_y\":12,\"suggest_name\":\"backbutton038\"},{\"locators\":\"Tag\",\"locators_val\":\"div\",\"d_h\":40,\"d_w\":40,\"d_x\":357.5,\"d_y\":12,\"suggest_name\":\"backbutton038\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl x1qjc9v5 xjbqb8w xjqpnuy xc5r6h4 xqeqjp1 x1phubyo x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x87ps6o x1lku1pv x1a2a7pz x1c9tyrk xeusxvb x1pahc9y x1ertn4p x3nfvp2 x3oybdh x19kf12q x1y1aw1k xwib8y2 xmzvs34 xf159sxTGWEBCOMMA1\",\"d_h\":40,\"d_w\":40,\"d_x\":357.5,\"d_y\":12,\"suggest_name\":\"backbutton038\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "357.5",
+                            "d_y": "12",
+                            "d_w": "40",
+                            "d_h": "40",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89058.png"
+                        },
+                        {
+                            "maps_id": "89059",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_createnewa975",
+                            "element_display_name": "createnewa975",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89059.png",
+                            "element_path_rid": "//span[contains(text(),'Create new account')]",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//span[contains(text(),'Create new account')]\",\"d_h\":19,\"d_w\":144,\"d_x\":948.109375,\"d_y\":573.984375,\"suggest_name\":\"createnewa975\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div[5]/div/a/div/div/div/span/span\",\"d_h\":19,\"d_w\":144,\"d_x\":948.109375,\"d_y\":573.984375,\"suggest_name\":\"createnewa975\"},{\"locators\":\"CSS selector\",\"locators_val\":\"span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1sfkdl8.xurcqga.x3vd66c.xcd4a2j.x1fey0fg.x1yc453h.xudqn12.x41vudc > span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft\",\"d_h\":19,\"d_w\":144,\"d_x\":948.109375,\"d_y\":573.984375,\"suggest_name\":\"createnewa975\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[5]/div/a/div/div/div/span/span\",\"d_h\":19,\"d_w\":144,\"d_x\":948.109375,\"d_y\":573.984375,\"suggest_name\":\"createnewa975\"},{\"locators\":\"Tag\",\"locators_val\":\"span\",\"d_h\":19,\"d_w\":144,\"d_x\":948.109375,\"d_y\":573.984375,\"suggest_name\":\"createnewa975\"},{\"locators\":\"class\",\"locators_val\":\"x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA11\",\"d_h\":19,\"d_w\":144,\"d_x\":948.109375,\"d_y\":573.984375,\"suggest_name\":\"createnewa975\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "948.109375",
+                            "d_y": "573.984375",
+                            "d_w": "144",
+                            "d_h": "19",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89059.png"
+                        },
+                        {
+                            "maps_id": "89060",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_r1cl2p4jik564",
+                            "element_display_name": "r1cl2p4jik564",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89060.png",
+                            "element_path_rid": "//input[@id='_R_1cl2p4jikacppb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_1cl2p4jikacppb6amH1_']\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik564\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/label/div/div/div[2]/div/div/div/div/div/input\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik564\"},{\"locators\":\"id\",\"locators_val\":\"_R_1cl2p4jikacppb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik564\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_1cl2p4jikacppb6amH1_\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik564\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik564\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik564\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik564\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "407.5",
+                            "d_y": "238.984375",
+                            "d_w": "204",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89060.png"
+                        },
+                        {
+                            "maps_id": "89061",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_r1cl2p4jik249",
+                            "element_display_name": "r1cl2p4jik249",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89061.png",
+                            "element_path_rid": "//input[@id='_R_1cl2p4jikacppb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_1cl2p4jikacppb6amH1_']\",\"d_h\":38,\"d_w\":244,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik249\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/label/div/div/div[2]/div/div/div/div/div/input\",\"d_h\":38,\"d_w\":244,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik249\"},{\"locators\":\"id\",\"locators_val\":\"_R_1cl2p4jikacppb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":244,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik249\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_1cl2p4jikacppb6amH1_\",\"d_h\":38,\"d_w\":244,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik249\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"d_h\":38,\"d_w\":244,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik249\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":244,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik249\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2\",\"d_h\":38,\"d_w\":244,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik249\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "407.5",
+                            "d_y": "238.984375",
+                            "d_w": "244",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89061.png"
+                        },
+                        {
+                            "maps_id": "89062",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_r1cl2p4jik566",
+                            "element_display_name": "r1cl2p4jik566",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89062.png",
+                            "element_path_rid": "//input[@id='_R_1cl2p4jikacppb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_1cl2p4jikacppb6amH1_']\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik566\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/label/div/div/div[2]/div/div/div/div/div/input\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik566\"},{\"locators\":\"id\",\"locators_val\":\"_R_1cl2p4jikacppb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik566\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_1cl2p4jikacppb6amH1_\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik566\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik566\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik566\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2\",\"d_h\":38,\"d_w\":204,\"d_x\":407.5,\"d_y\":238.984375,\"suggest_name\":\"r1cl2p4jik566\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "407.5",
+                            "d_y": "238.984375",
+                            "d_w": "204",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89062.png"
+                        },
+                        {
+                            "maps_id": "89063",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_r1kl2p4jik987",
+                            "element_display_name": "r1kl2p4jik987",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89063.png",
+                            "element_path_rid": "//input[@id='_R_1kl2p4jikacppb6amH1_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_R_1kl2p4jikacppb6amH1_']\",\"d_h\":38,\"d_w\":244,\"d_x\":693.5,\"d_y\":238.984375,\"suggest_name\":\"r1kl2p4jik987\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div[3]/label/div/div/div[2]/div/div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":244,\"d_x\":693.5,\"d_y\":238.984375,\"suggest_name\":\"r1kl2p4jik987\"},{\"locators\":\"id\",\"locators_val\":\"_R_1kl2p4jikacppb6amH1_TGWEBCOMMA1\",\"d_h\":38,\"d_w\":244,\"d_x\":693.5,\"d_y\":238.984375,\"suggest_name\":\"r1kl2p4jik987\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_R_1kl2p4jikacppb6amH1_\",\"d_h\":38,\"d_w\":244,\"d_x\":693.5,\"d_y\":238.984375,\"suggest_name\":\"r1kl2p4jik987\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/input\",\"d_h\":38,\"d_w\":244,\"d_x\":693.5,\"d_y\":238.984375,\"suggest_name\":\"r1kl2p4jik987\"},{\"locators\":\"Tag\",\"locators_val\":\"input\",\"d_h\":38,\"d_w\":244,\"d_x\":693.5,\"d_y\":238.984375,\"suggest_name\":\"r1kl2p4jik987\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA3\",\"d_h\":38,\"d_w\":244,\"d_x\":693.5,\"d_y\":238.984375,\"suggest_name\":\"r1kl2p4jik987\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "693.5",
+                            "d_y": "238.984375",
+                            "d_w": "244",
+                            "d_h": "38",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89063.png"
+                        },
+                        {
+                            "maps_id": "89064",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_day430",
+                            "element_display_name": "day430",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89064.png",
+                            "element_path_rid": "//body/div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@aria-hidden='false']/div/div/div/div/div/div/div/div[@role='main']/div/div/div/div/label/div/div/div/div/div/div/div[@role='group']/div/div/div/div[@id='_r_3_']/div[1]",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//body/div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@aria-hidden='false']/div/div/div/div/div/div/div/div[@role='main']/div/div/div/div/label/div/div/div/div/div/div/div[@role='group']/div/div/div/div[@id='_r_3_']/div[1]\",\"d_h\":60,\"d_w\":176,\"d_x\":392.5,\"d_y\":347.984375,\"suggest_name\":\"day430\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='_r_3_']/div\",\"d_h\":60,\"d_w\":176,\"d_x\":392.5,\"d_y\":347.984375,\"suggest_name\":\"day430\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.xwoeoq.x11lwdb5.xfxe0gy.x1szzd0g.xh2argp.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.x9f619.x78zum5.xozqiw3.xcvrjo4.x1qughib.x6ikm8r.x10wlt62.xz9dl7a.xsag5q8.xf7dkkf.xv54qhq.x1n2onr6.xh8yej3.x1ja2u2z.xggcdpo.xzxmhi2.x1bhcc0k.x1poa18a.xa7g0tp.x7b6lbf.x1yeidpz.xvirf5f\",\"d_h\":60,\"d_w\":176,\"d_x\":392.5,\"d_y\":347.984375,\"suggest_name\":\"day430\"},{\"locators\":\"Xpath\",\"locators_val\":\"//label/div/div/div[2]/div/div/div/div/div/div/div/div/div\",\"d_h\":60,\"d_w\":176,\"d_x\":392.5,\"d_y\":347.984375,\"suggest_name\":\"day430\"},{\"locators\":\"Tag\",\"locators_val\":\"div\",\"d_h\":60,\"d_w\":176,\"d_x\":392.5,\"d_y\":347.984375,\"suggest_name\":\"day430\"},{\"locators\":\"class\",\"locators_val\":\"xwoeoq x11lwdb5 xfxe0gy x1szzd0g xh2argp x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x178xt8z x1lun4ml xso031l xpilrb4 x9f619 x78zum5 xozqiw3 xcvrjo4 x1qughib x6ikm8r x10wlt62 xz9dl7a xsag5q8 xf7dkkf xv54qhq x1n2onr6 xh8yej3 x1ja2u2z xggcdpo xzxmhi2 x1bhcc0k x1poa18a xa7g0tp x7b6lbf x1yeidpz xvirf5fTGWEBCOMMA1\",\"d_h\":60,\"d_w\":176,\"d_x\":392.5,\"d_y\":347.984375,\"suggest_name\":\"day430\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "392.5",
+                            "d_y": "347.984375",
+                            "d_w": "176",
+                            "d_h": "60",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89064.png"
+                        },
+                        {
+                            "maps_id": "89065",
+                            "version_page_id": "3714",
+                            "page_name": "Facebook",
+                            "version_module_id": "1208",
+                            "element_name": "ele_div477",
+                            "element_display_name": "div477",
+                            "element_image_url": "192.168.88.204/s/ele-imgs/1208/89065.png",
+                            "element_path_rid": "//body/div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div[@id='_r_2_']/div/div/div/div/div[@id='_r_1___0']/div[1]",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//body/div[@id='mount_0_0_1d']/div/div/div/div/div/div/div/div/div/div/div[@id='_r_2_']/div/div/div/div/div[@id='_r_1___0']/div[1]\",\"d_h\":52,\"d_w\":176,\"d_x\":393,\"d_y\":412,\"suggest_name\":\"div477\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='_r_1___0']/div\",\"d_h\":52,\"d_w\":176,\"d_x\":393,\"d_y\":412,\"suggest_name\":\"div477\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.x1qjc9v5.x9f619.x78zum5.xdt5ytf.xl56j7k.xeuugli.xdl72j9.x1iyjqo2.x2lah0s.x1mq37bv.xdqstbe.x7oumki.xv54qhq.xf7dkkf.x1exlly7.x1e7cf47.x44cjkt.x1dygckn\",\"d_h\":52,\"d_w\":176,\"d_x\":393,\"d_y\":412,\"suggest_name\":\"div477\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/div/div/div/div/div/div/div\",\"d_h\":52,\"d_w\":176,\"d_x\":393,\"d_y\":412,\"suggest_name\":\"div477\"},{\"locators\":\"Tag\",\"locators_val\":\"div\",\"d_h\":52,\"d_w\":176,\"d_x\":393,\"d_y\":412,\"suggest_name\":\"div477\"},{\"locators\":\"class\",\"locators_val\":\"html-div xdj266r x14z9mp xat24cr x1lziwak x1qjc9v5 x9f619 x78zum5 xdt5ytf xl56j7k xeuugli xdl72j9 x1iyjqo2 x2lah0s x1mq37bv xdqstbe x7oumki xv54qhq xf7dkkf x1exlly7 x1e7cf47 x44cjkt x1dygcknTGWEBCOMMA178\",\"d_h\":52,\"d_w\":176,\"d_x\":393,\"d_y\":412,\"suggest_name\":\"div477\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "\"\"",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "393",
+                            "d_y": "412",
+                            "d_w": "176",
+                            "d_h": "52",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1208/89065.png"
+                        }
+                    ]
                 },
                 {
                     "version_page_id": 0,
@@ -2944,15 +3395,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5416",
-                            "version_module_id": "1209",
-                            "name": "3a0f988e-43d4-3fd6-8a11-3da258873264",
-                            "tc_id": "4342",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_qat_delinquency_bss_account_suspend_order.java",
                     "vault_paths": []
@@ -2978,15 +3421,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5417",
-                            "version_module_id": "1209",
-                            "name": "3a0bfa22-50b6-d595-c851-8a3eb6bd0958",
-                            "tc_id": "4343",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_create_mop_bss_new_subscriptions_order_with_microsoft_partner_same_product_different_domain_id.java",
                     "vault_paths": []
@@ -3012,15 +3447,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5418",
-                            "version_module_id": "1209",
-                            "name": "3a0e97c6-5144-d13b-437b-da294b64f8da",
-                            "tc_id": "4344",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/diapad_tc004_qat_delinquency_dialpad_account_cancel_order.java",
                     "vault_paths": []
@@ -3046,15 +3473,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5419",
-                            "version_module_id": "1209",
-                            "name": "3a0be9e0-9e7c-2e6e-af87-76ec814de8b7",
-                            "tc_id": "4345",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_create_mop_bss_add_a_license_order_with_microsoft_partner_api_testing.java",
                     "vault_paths": []
@@ -3080,15 +3499,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5420",
-                            "version_module_id": "1209",
-                            "name": "3a0f988e-43f0-ba74-c4cd-fa17812ae2d3",
-                            "tc_id": "4346",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_qat_delinquency_bss_account_restore_order.java",
                     "vault_paths": []
@@ -3114,15 +3525,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5421",
-                            "version_module_id": "1209",
-                            "name": "3a0f988e-4401-ee07-2a7b-14231380db1f",
-                            "tc_id": "4347",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_qat_delinquency_bss_account_resume_order.java",
                     "vault_paths": []
@@ -3148,15 +3551,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5422",
-                            "version_module_id": "1209",
-                            "name": "3a100053-95a8-f009-5a99-ef7cf351dddc",
-                            "tc_id": "4348",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/iotpp_tc014_qat_delinquency_package_products_account_suspend_order.java",
                     "vault_paths": []
@@ -3182,15 +3577,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5423",
-                            "version_module_id": "1209",
-                            "name": "3a0ea635-1e96-a757-1380-270227203d25",
-                            "tc_id": "4349",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_bss_end_of_term_auto_renew_on_and_verify_agreement_startdate_and_end_date_is_recalulated.java",
                     "vault_paths": []
@@ -3216,15 +3603,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5424",
-                            "version_module_id": "1209",
-                            "name": "3a0ea6e1-1b4b-1641-4389-012ffd7dadc3",
-                            "tc_id": "4350",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/iotpp_tc008_qat_package_products_end_of_term_auto_renew_off_and_verify_offer_is_cancelled_through_ordering_flow.java",
                     "vault_paths": []
@@ -3250,15 +3629,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5425",
-                            "version_module_id": "1209",
-                            "name": "3a0bc73c-a55d-d350-0c23-4b5b7bd88c08",
-                            "tc_id": "4351",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_create_mop_bss_add_new_activation_order_with_google_partner_with_domain_id__api_testing.java",
                     "vault_paths": []
@@ -3284,15 +3655,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5426",
-                            "version_module_id": "1209",
-                            "name": "3a0ea68f-78ae-313f-d42a-09deec6a3422",
-                            "tc_id": "4352",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_pp_bundle__product_rate_plan_one_time_fee_new_activation_with_quanity_2_verify_recurring_charges_for_rate_plan_and_one_time_fee_for_each_line_in_the_order_ba_18ecd665.java",
                     "vault_paths": []
@@ -3318,15 +3681,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5427",
-                            "version_module_id": "1209",
-                            "name": "3a0eb5af-6a63-839f-7873-314af018d5bf",
-                            "tc_id": "4353",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_qat_create_mop_pp_equipment_only.java",
                     "vault_paths": []
@@ -3352,15 +3707,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5428",
-                            "version_module_id": "1209",
-                            "name": "3a0ea102-e488-1a6b-3553-f0f6124c5d85",
-                            "tc_id": "4354",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_verify_user_is_able_to_reject_the_sfdc_order_in_cop_page_by_clicking_reject_button_before_or_after_esign.java",
                     "vault_paths": []
@@ -3386,15 +3733,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5429",
-                            "version_module_id": "1209",
-                            "name": "3a0e981b-3c78-d304-35da-f2e33b9a7d72",
-                            "tc_id": "4355",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_etsm_ui_cancel_5gans_subscriptions_and_verify_offer_status_as_cancelled_and_agreement_status_is_expired.java",
                     "vault_paths": []
@@ -3420,15 +3759,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5430",
-                            "version_module_id": "1209",
-                            "name": "3a100053-95f8-df16-be24-bbe49a7e86c7",
-                            "tc_id": "4356",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/iotpp_tc004_qat_delinquency_package_products_account_suspend_order_with_all_products_charge_upfront_true.java",
                     "vault_paths": []
@@ -3454,15 +3785,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5431",
-                            "version_module_id": "1209",
-                            "name": "3a100053-95ff-811b-71e4-b6d4865e8b22",
-                            "tc_id": "4357",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/iotpp_tc002_qat_delinquency_package_products_account_restore_order.java",
                     "vault_paths": []
@@ -3488,15 +3811,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5432",
-                            "version_module_id": "1209",
-                            "name": "3a0e97c6-5139-0c0b-1496-f00a12a533d5",
-                            "tc_id": "4358",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/diapad_tc002_qat_delinquency_dialpad_account_suspend_order.java",
                     "vault_paths": []
@@ -3522,15 +3837,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5433",
-                            "version_module_id": "1209",
-                            "name": "3a0bf638-b195-cc96-0d15-7fe1c8d3423f",
-                            "tc_id": "4359",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_qat_create_mop_dialpad_add_a_license_order.java",
                     "vault_paths": []
@@ -3556,15 +3863,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5434",
-                            "version_module_id": "1209",
-                            "name": "3a100053-9617-fe70-0c72-c4fb0e61f73b",
-                            "tc_id": "4360",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/iotpp_tc011_qat_delinquency_package_products_account_cancel_order_with_agreemnt_mothly_product.java",
                     "vault_paths": []
@@ -3590,15 +3889,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5435",
-                            "version_module_id": "1209",
-                            "name": "3a0be9e0-9e7d-037f-15d9-3d56e5182893",
-                            "tc_id": "4361",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_create_mop_bss_add_aal_with_ibm_partner_api_testing.java",
                     "vault_paths": []
@@ -3624,15 +3915,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5436",
-                            "version_module_id": "1209",
-                            "name": "3a0bc73f-a080-2a93-b044-dc99685f7599",
-                            "tc_id": "4362",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_create_mop_5gans_new_activation_order__api_testing.java",
                     "vault_paths": []
@@ -3658,15 +3941,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5437",
-                            "version_module_id": "1209",
-                            "name": "3a0ea7e2-6215-98ff-c0c5-31e121e285ff",
-                            "tc_id": "4363",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/iotpp_tc005_qat_package_products_end_of_term_auto_renew_on_and_verify_agreement_startdate_and_end_date_is_recalulated.java",
                     "vault_paths": []
@@ -3692,15 +3967,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5438",
-                            "version_module_id": "1209",
-                            "name": "3a0bf400-5586-8818-7a9b-f28e31368db8",
-                            "tc_id": "4364",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_create_mop_dialpad_add_new_activation_order_with_autopay_with_muliple_dealer_code.java",
                     "vault_paths": []
@@ -3726,15 +3993,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5439",
-                            "version_module_id": "1209",
-                            "name": "3a0e97c6-5145-876c-4ec3-827fe8a51646",
-                            "tc_id": "4365",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/diapad_tc006_qat_delinquency_dialpad_account_resume_order.java",
                     "vault_paths": []
@@ -3760,15 +4019,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5440",
-                            "version_module_id": "1209",
-                            "name": "3a0ea1a7-cce8-f5f9-2fe9-e8c2154c7cbb",
-                            "tc_id": "4366",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_bss_5gans_end_of_term_month_to_month_term_and_verify_agreeemnt_status_is_expired.java",
                     "vault_paths": []
@@ -3794,15 +4045,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5441",
-                            "version_module_id": "1209",
-                            "name": "3a0f988e-43fd-c078-714c-e96c3c6bbb84",
-                            "tc_id": "4367",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_qat_delinquency_bss_account_cancel_order.java",
                     "vault_paths": []
@@ -3828,15 +4071,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5442",
-                            "version_module_id": "1209",
-                            "name": "3a0ea316-3132-cc1a-4031-765cff07db62",
-                            "tc_id": "4368",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_verify_user_is_able_click_on_resend_checkout_email_on_the_order_created_from_sfdc_and_iotordercreated_is_published_with_new_email_id_selected_in_ui_after_quo_09af9568.java",
                     "vault_paths": []
@@ -3862,15 +4097,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5443",
-                            "version_module_id": "1209",
-                            "name": "3a100053-9620-aa79-09c3-1b0f1bf142d9",
-                            "tc_id": "4369",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/iotpp_tc012_qat_delinquency_package_products_account_resume_order.java",
                     "vault_paths": []
@@ -3896,15 +4123,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5444",
-                            "version_module_id": "1209",
-                            "name": "3a0e916d-cddd-ef5e-0929-4d3df4dc2d3e",
-                            "tc_id": "4370",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/qat_create_mop_bss_add_new_activation_order_with_microsoft_partner_with_domain_id_api_testing.java",
                     "vault_paths": []
@@ -3930,15 +4149,7 @@
                     "created_at": "2026-08-10 11:18:06",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5445",
-                            "version_module_id": "1209",
-                            "name": "3a0e97c6-5142-aab2-231e-9bb280830131",
-                            "tc_id": "4371",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1209/testcases/diapad_tc005_qat_delinquency_dialpad_account_restore_order.java",
                     "vault_paths": []
@@ -4668,35 +4879,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4188",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1209",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4189",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1209",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "4190",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1209",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -27432,15 +27615,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5446",
-                            "version_module_id": "1210",
-                            "name": "3a0cf796-7505-ddf2-295a-b1ac73faa5cd",
-                            "tc_id": "4372",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_bss_end_of_term_auto_renew_off_and_verify_offer_is_cancelled_through_ordering_flow.java",
                     "vault_paths": []
@@ -27466,15 +27641,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5447",
-                            "version_module_id": "1210",
-                            "name": "3a0f988e-43d4-3fd6-8a11-3da258873264",
-                            "tc_id": "4373",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_qat_delinquency_bss_account_suspend_order.java",
                     "vault_paths": []
@@ -27500,15 +27667,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5448",
-                            "version_module_id": "1210",
-                            "name": "3a0bfa22-50b6-d595-c851-8a3eb6bd0958",
-                            "tc_id": "4374",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_create_mop_bss_new_subscriptions_order_with_microsoft_partner_same_product_different_domain_id.java",
                     "vault_paths": []
@@ -27534,15 +27693,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5449",
-                            "version_module_id": "1210",
-                            "name": "3a0e97c6-5144-d13b-437b-da294b64f8da",
-                            "tc_id": "4375",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/diapad_tc004_qat_delinquency_dialpad_account_cancel_order.java",
                     "vault_paths": []
@@ -27568,15 +27719,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5450",
-                            "version_module_id": "1210",
-                            "name": "3a0be9e0-9e7c-2e6e-af87-76ec814de8b7",
-                            "tc_id": "4376",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_create_mop_bss_add_a_license_order_with_microsoft_partner_api_testing.java",
                     "vault_paths": []
@@ -27602,15 +27745,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5451",
-                            "version_module_id": "1210",
-                            "name": "3a0f988e-43f0-ba74-c4cd-fa17812ae2d3",
-                            "tc_id": "4377",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_qat_delinquency_bss_account_restore_order.java",
                     "vault_paths": []
@@ -27636,15 +27771,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5452",
-                            "version_module_id": "1210",
-                            "name": "3a0f988e-4401-ee07-2a7b-14231380db1f",
-                            "tc_id": "4378",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_qat_delinquency_bss_account_resume_order.java",
                     "vault_paths": []
@@ -27670,15 +27797,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5453",
-                            "version_module_id": "1210",
-                            "name": "3a100053-95a8-f009-5a99-ef7cf351dddc",
-                            "tc_id": "4379",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/iotpp_tc014_qat_delinquency_package_products_account_suspend_order.java",
                     "vault_paths": []
@@ -27704,15 +27823,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5454",
-                            "version_module_id": "1210",
-                            "name": "3a0ea635-1e96-a757-1380-270227203d25",
-                            "tc_id": "4380",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_bss_end_of_term_auto_renew_on_and_verify_agreement_startdate_and_end_date_is_recalulated.java",
                     "vault_paths": []
@@ -27738,15 +27849,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5455",
-                            "version_module_id": "1210",
-                            "name": "3a0ea6e1-1b4b-1641-4389-012ffd7dadc3",
-                            "tc_id": "4381",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/iotpp_tc008_qat_package_products_end_of_term_auto_renew_off_and_verify_offer_is_cancelled_through_ordering_flow.java",
                     "vault_paths": []
@@ -27772,15 +27875,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5456",
-                            "version_module_id": "1210",
-                            "name": "3a0bc73c-a55d-d350-0c23-4b5b7bd88c08",
-                            "tc_id": "4382",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_create_mop_bss_add_new_activation_order_with_google_partner_with_domain_id__api_testing.java",
                     "vault_paths": []
@@ -27806,15 +27901,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5457",
-                            "version_module_id": "1210",
-                            "name": "3a0ea68f-78ae-313f-d42a-09deec6a3422",
-                            "tc_id": "4383",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_pp_bundle__product_rate_plan_one_time_fee_new_activation_with_quanity_2_verify_recurring_charges_for_rate_plan_and_one_time_fee_for_each_line_in_the_order_ba_18ecd665.java",
                     "vault_paths": []
@@ -27840,15 +27927,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5458",
-                            "version_module_id": "1210",
-                            "name": "3a0eb5af-6a63-839f-7873-314af018d5bf",
-                            "tc_id": "4384",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_qat_create_mop_pp_equipment_only.java",
                     "vault_paths": []
@@ -27874,15 +27953,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5459",
-                            "version_module_id": "1210",
-                            "name": "3a0ea102-e488-1a6b-3553-f0f6124c5d85",
-                            "tc_id": "4385",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_verify_user_is_able_to_reject_the_sfdc_order_in_cop_page_by_clicking_reject_button_before_or_after_esign.java",
                     "vault_paths": []
@@ -27908,15 +27979,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5460",
-                            "version_module_id": "1210",
-                            "name": "3a0e981b-3c78-d304-35da-f2e33b9a7d72",
-                            "tc_id": "4386",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_etsm_ui_cancel_5gans_subscriptions_and_verify_offer_status_as_cancelled_and_agreement_status_is_expired.java",
                     "vault_paths": []
@@ -27942,15 +28005,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5461",
-                            "version_module_id": "1210",
-                            "name": "3a100053-95f8-df16-be24-bbe49a7e86c7",
-                            "tc_id": "4387",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/iotpp_tc004_qat_delinquency_package_products_account_suspend_order_with_all_products_charge_upfront_true.java",
                     "vault_paths": []
@@ -27976,15 +28031,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5462",
-                            "version_module_id": "1210",
-                            "name": "3a100053-95ff-811b-71e4-b6d4865e8b22",
-                            "tc_id": "4388",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": {
                         "id": "51",
                         "user_id": "1",
@@ -28028,15 +28075,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5463",
-                            "version_module_id": "1210",
-                            "name": "3a0e97c6-5139-0c0b-1496-f00a12a533d5",
-                            "tc_id": "4389",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": {
                         "id": "52",
                         "user_id": "1",
@@ -28080,15 +28119,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5464",
-                            "version_module_id": "1210",
-                            "name": "3a0bf638-b195-cc96-0d15-7fe1c8d3423f",
-                            "tc_id": "4390",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_qat_create_mop_dialpad_add_a_license_order.java",
                     "vault_paths": []
@@ -28114,15 +28145,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5465",
-                            "version_module_id": "1210",
-                            "name": "3a100053-9617-fe70-0c72-c4fb0e61f73b",
-                            "tc_id": "4391",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/iotpp_tc011_qat_delinquency_package_products_account_cancel_order_with_agreemnt_mothly_product.java",
                     "vault_paths": []
@@ -28148,15 +28171,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5466",
-                            "version_module_id": "1210",
-                            "name": "3a0be9e0-9e7d-037f-15d9-3d56e5182893",
-                            "tc_id": "4392",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_create_mop_bss_add_aal_with_ibm_partner_api_testing.java",
                     "vault_paths": []
@@ -28182,15 +28197,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5467",
-                            "version_module_id": "1210",
-                            "name": "3a0bc73f-a080-2a93-b044-dc99685f7599",
-                            "tc_id": "4393",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_create_mop_5gans_new_activation_order__api_testing.java",
                     "vault_paths": []
@@ -28216,15 +28223,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5468",
-                            "version_module_id": "1210",
-                            "name": "3a0ea7e2-6215-98ff-c0c5-31e121e285ff",
-                            "tc_id": "4394",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/iotpp_tc005_qat_package_products_end_of_term_auto_renew_on_and_verify_agreement_startdate_and_end_date_is_recalulated.java",
                     "vault_paths": []
@@ -28250,15 +28249,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5469",
-                            "version_module_id": "1210",
-                            "name": "3a0bf400-5586-8818-7a9b-f28e31368db8",
-                            "tc_id": "4395",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_create_mop_dialpad_add_new_activation_order_with_autopay_with_muliple_dealer_code.java",
                     "vault_paths": []
@@ -28284,15 +28275,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5470",
-                            "version_module_id": "1210",
-                            "name": "3a0e97c6-5145-876c-4ec3-827fe8a51646",
-                            "tc_id": "4396",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/diapad_tc006_qat_delinquency_dialpad_account_resume_order.java",
                     "vault_paths": []
@@ -28318,15 +28301,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5471",
-                            "version_module_id": "1210",
-                            "name": "3a0ea1a7-cce8-f5f9-2fe9-e8c2154c7cbb",
-                            "tc_id": "4397",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_bss_5gans_end_of_term_month_to_month_term_and_verify_agreeemnt_status_is_expired.java",
                     "vault_paths": []
@@ -28352,15 +28327,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5472",
-                            "version_module_id": "1210",
-                            "name": "3a0f988e-43fd-c078-714c-e96c3c6bbb84",
-                            "tc_id": "4398",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_qat_delinquency_bss_account_cancel_order.java",
                     "vault_paths": []
@@ -28386,15 +28353,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5473",
-                            "version_module_id": "1210",
-                            "name": "3a0ea316-3132-cc1a-4031-765cff07db62",
-                            "tc_id": "4399",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_verify_user_is_able_click_on_resend_checkout_email_on_the_order_created_from_sfdc_and_iotordercreated_is_published_with_new_email_id_selected_in_ui_after_quo_09af9568.java",
                     "vault_paths": []
@@ -28420,15 +28379,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5474",
-                            "version_module_id": "1210",
-                            "name": "3a100053-9620-aa79-09c3-1b0f1bf142d9",
-                            "tc_id": "4400",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/iotpp_tc012_qat_delinquency_package_products_account_resume_order.java",
                     "vault_paths": []
@@ -28454,15 +28405,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5475",
-                            "version_module_id": "1210",
-                            "name": "3a0e916d-cddd-ef5e-0929-4d3df4dc2d3e",
-                            "tc_id": "4401",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1210/testcases/qat_create_mop_bss_add_new_activation_order_with_microsoft_partner_with_domain_id_api_testing.java",
                     "vault_paths": []
@@ -28488,15 +28431,7 @@
                     "created_at": "2026-08-10 11:55:04",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5476",
-                            "version_module_id": "1210",
-                            "name": "3a0e97c6-5142-aab2-231e-9bb280830131",
-                            "tc_id": "4402",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": {
                         "id": "53",
                         "user_id": "1",
@@ -29264,26 +29199,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4191",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1210",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4192",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1210",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -52019,15 +51935,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5477",
-                            "version_module_id": "1211",
-                            "name": "3a0cf796-7505-ddf2-295a-b1ac73faa5cd",
-                            "tc_id": "4403",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": {
                         "id": "54",
                         "user_id": "1",
@@ -52071,15 +51979,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5478",
-                            "version_module_id": "1211",
-                            "name": "3a0f988e-43d4-3fd6-8a11-3da258873264",
-                            "tc_id": "4404",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_qat_delinquency_bss_account_suspend_order.java",
                     "vault_paths": []
@@ -52105,15 +52005,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5479",
-                            "version_module_id": "1211",
-                            "name": "3a0bfa22-50b6-d595-c851-8a3eb6bd0958",
-                            "tc_id": "4405",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_create_mop_bss_new_subscriptions_order_with_microsoft_partner_same_product_different_domain_id.java",
                     "vault_paths": []
@@ -52139,15 +52031,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5480",
-                            "version_module_id": "1211",
-                            "name": "3a0e97c6-5144-d13b-437b-da294b64f8da",
-                            "tc_id": "4406",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/diapad_tc004_qat_delinquency_dialpad_account_cancel_order.java",
                     "vault_paths": []
@@ -52173,15 +52057,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5481",
-                            "version_module_id": "1211",
-                            "name": "3a0be9e0-9e7c-2e6e-af87-76ec814de8b7",
-                            "tc_id": "4407",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_create_mop_bss_add_a_license_order_with_microsoft_partner_api_testing.java",
                     "vault_paths": []
@@ -52207,15 +52083,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5482",
-                            "version_module_id": "1211",
-                            "name": "3a0f988e-43f0-ba74-c4cd-fa17812ae2d3",
-                            "tc_id": "4408",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_qat_delinquency_bss_account_restore_order.java",
                     "vault_paths": []
@@ -52241,15 +52109,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5483",
-                            "version_module_id": "1211",
-                            "name": "3a0f988e-4401-ee07-2a7b-14231380db1f",
-                            "tc_id": "4409",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_qat_delinquency_bss_account_resume_order.java",
                     "vault_paths": []
@@ -52275,15 +52135,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5484",
-                            "version_module_id": "1211",
-                            "name": "3a100053-95a8-f009-5a99-ef7cf351dddc",
-                            "tc_id": "4410",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/iotpp_tc014_qat_delinquency_package_products_account_suspend_order.java",
                     "vault_paths": []
@@ -52309,15 +52161,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5485",
-                            "version_module_id": "1211",
-                            "name": "3a0ea635-1e96-a757-1380-270227203d25",
-                            "tc_id": "4411",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_bss_end_of_term_auto_renew_on_and_verify_agreement_startdate_and_end_date_is_recalulated.java",
                     "vault_paths": []
@@ -52343,15 +52187,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5486",
-                            "version_module_id": "1211",
-                            "name": "3a0ea6e1-1b4b-1641-4389-012ffd7dadc3",
-                            "tc_id": "4412",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/iotpp_tc008_qat_package_products_end_of_term_auto_renew_off_and_verify_offer_is_cancelled_through_ordering_flow.java",
                     "vault_paths": []
@@ -52377,15 +52213,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5487",
-                            "version_module_id": "1211",
-                            "name": "3a0bc73c-a55d-d350-0c23-4b5b7bd88c08",
-                            "tc_id": "4413",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_create_mop_bss_add_new_activation_order_with_google_partner_with_domain_id__api_testing.java",
                     "vault_paths": []
@@ -52411,15 +52239,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5488",
-                            "version_module_id": "1211",
-                            "name": "3a0ea68f-78ae-313f-d42a-09deec6a3422",
-                            "tc_id": "4414",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_pp_bundle__product_rate_plan_one_time_fee_new_activation_with_quanity_2_verify_recurring_charges_for_rate_plan_and_one_time_fee_for_each_line_in_the_order_ba_18ecd665.java",
                     "vault_paths": []
@@ -52445,15 +52265,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5489",
-                            "version_module_id": "1211",
-                            "name": "3a0eb5af-6a63-839f-7873-314af018d5bf",
-                            "tc_id": "4415",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_qat_create_mop_pp_equipment_only.java",
                     "vault_paths": []
@@ -52479,15 +52291,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5490",
-                            "version_module_id": "1211",
-                            "name": "3a0ea102-e488-1a6b-3553-f0f6124c5d85",
-                            "tc_id": "4416",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_verify_user_is_able_to_reject_the_sfdc_order_in_cop_page_by_clicking_reject_button_before_or_after_esign.java",
                     "vault_paths": []
@@ -52513,15 +52317,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5491",
-                            "version_module_id": "1211",
-                            "name": "3a0e981b-3c78-d304-35da-f2e33b9a7d72",
-                            "tc_id": "4417",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_etsm_ui_cancel_5gans_subscriptions_and_verify_offer_status_as_cancelled_and_agreement_status_is_expired.java",
                     "vault_paths": []
@@ -52547,15 +52343,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5492",
-                            "version_module_id": "1211",
-                            "name": "3a100053-95f8-df16-be24-bbe49a7e86c7",
-                            "tc_id": "4418",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/iotpp_tc004_qat_delinquency_package_products_account_suspend_order_with_all_products_charge_upfront_true.java",
                     "vault_paths": []
@@ -52581,15 +52369,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5493",
-                            "version_module_id": "1211",
-                            "name": "3a100053-95ff-811b-71e4-b6d4865e8b22",
-                            "tc_id": "4419",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/iotpp_tc002_qat_delinquency_package_products_account_restore_order.java",
                     "vault_paths": []
@@ -52615,15 +52395,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5494",
-                            "version_module_id": "1211",
-                            "name": "3a0e97c6-5139-0c0b-1496-f00a12a533d5",
-                            "tc_id": "4420",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/diapad_tc002_qat_delinquency_dialpad_account_suspend_order.java",
                     "vault_paths": []
@@ -52649,15 +52421,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5495",
-                            "version_module_id": "1211",
-                            "name": "3a0bf638-b195-cc96-0d15-7fe1c8d3423f",
-                            "tc_id": "4421",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_qat_create_mop_dialpad_add_a_license_order.java",
                     "vault_paths": []
@@ -52683,15 +52447,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5496",
-                            "version_module_id": "1211",
-                            "name": "3a100053-9617-fe70-0c72-c4fb0e61f73b",
-                            "tc_id": "4422",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/iotpp_tc011_qat_delinquency_package_products_account_cancel_order_with_agreemnt_mothly_product.java",
                     "vault_paths": []
@@ -52717,15 +52473,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5497",
-                            "version_module_id": "1211",
-                            "name": "3a0be9e0-9e7d-037f-15d9-3d56e5182893",
-                            "tc_id": "4423",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_create_mop_bss_add_aal_with_ibm_partner_api_testing.java",
                     "vault_paths": []
@@ -52751,15 +52499,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5498",
-                            "version_module_id": "1211",
-                            "name": "3a0bc73f-a080-2a93-b044-dc99685f7599",
-                            "tc_id": "4424",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_create_mop_5gans_new_activation_order__api_testing.java",
                     "vault_paths": []
@@ -52785,15 +52525,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5499",
-                            "version_module_id": "1211",
-                            "name": "3a0ea7e2-6215-98ff-c0c5-31e121e285ff",
-                            "tc_id": "4425",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/iotpp_tc005_qat_package_products_end_of_term_auto_renew_on_and_verify_agreement_startdate_and_end_date_is_recalulated.java",
                     "vault_paths": []
@@ -52819,15 +52551,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5500",
-                            "version_module_id": "1211",
-                            "name": "3a0bf400-5586-8818-7a9b-f28e31368db8",
-                            "tc_id": "4426",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_create_mop_dialpad_add_new_activation_order_with_autopay_with_muliple_dealer_code.java",
                     "vault_paths": []
@@ -52853,15 +52577,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5501",
-                            "version_module_id": "1211",
-                            "name": "3a0e97c6-5145-876c-4ec3-827fe8a51646",
-                            "tc_id": "4427",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/diapad_tc006_qat_delinquency_dialpad_account_resume_order.java",
                     "vault_paths": []
@@ -52887,15 +52603,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5502",
-                            "version_module_id": "1211",
-                            "name": "3a0ea1a7-cce8-f5f9-2fe9-e8c2154c7cbb",
-                            "tc_id": "4428",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_bss_5gans_end_of_term_month_to_month_term_and_verify_agreeemnt_status_is_expired.java",
                     "vault_paths": []
@@ -52921,15 +52629,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5503",
-                            "version_module_id": "1211",
-                            "name": "3a0f988e-43fd-c078-714c-e96c3c6bbb84",
-                            "tc_id": "4429",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_qat_delinquency_bss_account_cancel_order.java",
                     "vault_paths": []
@@ -52955,15 +52655,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5504",
-                            "version_module_id": "1211",
-                            "name": "3a0ea316-3132-cc1a-4031-765cff07db62",
-                            "tc_id": "4430",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_verify_user_is_able_click_on_resend_checkout_email_on_the_order_created_from_sfdc_and_iotordercreated_is_published_with_new_email_id_selected_in_ui_after_quo_09af9568.java",
                     "vault_paths": []
@@ -52989,15 +52681,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5505",
-                            "version_module_id": "1211",
-                            "name": "3a100053-9620-aa79-09c3-1b0f1bf142d9",
-                            "tc_id": "4431",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/iotpp_tc012_qat_delinquency_package_products_account_resume_order.java",
                     "vault_paths": []
@@ -53023,15 +52707,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5506",
-                            "version_module_id": "1211",
-                            "name": "3a0e916d-cddd-ef5e-0929-4d3df4dc2d3e",
-                            "tc_id": "4432",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/qat_create_mop_bss_add_new_activation_order_with_microsoft_partner_with_domain_id_api_testing.java",
                     "vault_paths": []
@@ -53057,15 +52733,7 @@
                     "created_at": "2026-08-10 13:18:28",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "5507",
-                            "version_module_id": "1211",
-                            "name": "3a0e97c6-5142-aab2-231e-9bb280830131",
-                            "tc_id": "4433",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/213/485/1211/testcases/diapad_tc005_qat_delinquency_dialpad_account_restore_order.java",
                     "vault_paths": []
@@ -53815,26 +53483,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4193",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1211",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4194",
-                    "user_id": "1",
-                    "app_id": "213",
-                    "version_id": "485",
-                    "version_module_id": "1211",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -76539,9 +76188,9 @@
             "user_id": "1",
             "app_id": "213",
             "version_id": "485",
-            "import_statement": "import java.sql.Connection;",
+            "import_statement": "import java.sql.Connection; ",
             "created": "2026-08-10 11:18:07",
-            "updated": null
+            "updated": "2026-10-20 14:58:19"
         },
         {
             "import_statement_id": "316",
@@ -76578,6 +76227,15 @@
             "import_statement": "import java.sql.Statement;",
             "created": "2026-08-10 11:18:07",
             "updated": null
+        },
+        {
+            "import_statement_id": "335",
+            "user_id": "1",
+            "app_id": "213",
+            "version_id": "485",
+            "import_statement": "import java.util.Scanner; ",
+            "created": "2026-10-20 14:58:19",
+            "updated": "2026-10-20 14:58:19"
         }
     ],
     "abo_maven_dependency": [
@@ -76633,7 +76291,7 @@
             "variable_value": "/et/v2/productOrder",
             "gv_category": "global",
             "created": "2026-08-10 11:08:15",
-            "updated": "2026-08-10 11:08:15"
+            "updated": "2026-10-20 14:58:19"
         },
         {
             "variable_id": "1731",
@@ -76741,7 +76399,7 @@
             "variable_value": "Random",
             "gv_category": "global",
             "created": "2026-08-10 11:08:15",
-            "updated": "2026-08-10 11:08:15"
+            "updated": "2026-10-20 14:58:19"
         },
         {
             "variable_id": "1740",
