@@ -37,6 +37,7 @@ public class tc01 {
 				tg.click("ele_rcdl6neapp350", 1);
 				tg.wait("ele_rcdl6neapp350", ComparisonType.IS_VISIBLE);
 				tg.typeEncrypted("ele_rcdl6neapp350", "+6SAULrHMRzIlkf2k2qoNA==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+				tg.testFunction("TF01", new Object[]{});
 		tg.close();
 	}
 }
