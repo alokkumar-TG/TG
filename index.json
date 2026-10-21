@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "505",
-    "user_id": 81,
+    "user_id": 0,
     "abo_version": {
         "version_id": "505",
         "app_id": "215",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "215",
@@ -77,7 +77,7 @@
                     "version_module_id": "1235",
                     "tc_name": "TC001",
                     "tc_description": "",
-                    "tc_website_url": null,
+                    "tc_website_url": "",
                     "it_json": "",
                     "cm_step_list": "685",
                     "is_compiled": "1",
@@ -88,8 +88,8 @@
                     "is_ai_generated": "0",
                     "created_source": "manual_add",
                     "created_source_ref": null,
-                    "is_draft": "82",
-                    "updated_at": "2026-10-21 18:18:52",
+                    "is_draft": "0",
+                    "updated_at": "2026-10-21 12:53:36",
                     "created_at": "2026-10-21 18:18:52",
                     "qtest_skip_sync": "0",
                     "status": "2",
@@ -104,26 +104,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4265",
-                    "user_id": "81",
-                    "app_id": "215",
-                    "version_id": "505",
-                    "version_module_id": "1235",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4266",
-                    "user_id": "81",
-                    "app_id": "215",
-                    "version_id": "505",
-                    "version_module_id": "1235",
-                    "description": "",
-                    "action_process": "add_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
