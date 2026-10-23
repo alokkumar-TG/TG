@@ -18,14 +18,13 @@ import java.io.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
-
 @Listeners(TestListener.class);
-public class tc01 {
+public class tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc01() {
+	public void tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter() {
 		tg.openBrowser();
-		tg.wait(2);
+		tg.wait(1);
 		tg.close();
 	}
 }
