@@ -629,9 +629,9 @@
             "sibling_selector": "",
             "locator": [
                 {
-                    "locators": "XPath",
+                    "locators": "CSS Selector",
                     "locators_val": "form#login_form > div > div > div > div:nth-of-type(4) > div > a > divTGWEBCOMMA0",
-                    "locator_id": "3",
+                    "locator_id": "9",
                     "d_h": 44,
                     "d_w": 546,
                     "d_x": 747,
@@ -649,7 +649,7 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_type": "xpath",
+            "element_type": "css",
             "image_url": "http://192.168.88.204/s/ele-imgs/1239/89106.png"
         },
         {
