@@ -1,0 +1,12 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6adf15605de7b_7963/appium-web/src/test/java/uy7yfuvcopy.java:42: error: cannot find symbol
+    hello h = new hello();
+    ^
+  symbol:   class hello
+  location: class uy7yfuvcopy
+
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6adf15605de7b_7963/appium-web/src/test/java/uy7yfuvcopy.java:42: error: cannot find symbol
+    hello h = new hello();
+                  ^
+  symbol:   class hello
+  location: class uy7yfuvcopy
+2 errors
