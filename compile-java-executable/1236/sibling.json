@@ -63,7 +63,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "192.168.88.204/s/ele-imgs/1236/89091.png"
+            "image_url": "http://192.168.88.204/s/ele-imgs/1236/89091.png"
         },
         {
             "testcase_element": "ele_rcdl6neapp878",
@@ -128,7 +128,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "192.168.88.204/s/ele-imgs/1236/89092.png"
+            "image_url": "http://192.168.88.204/s/ele-imgs/1236/89092.png"
         },
         {
             "testcase_element": "ele_login883",
@@ -184,7 +184,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "192.168.88.204/s/ele-imgs/1236/89093.png"
+            "image_url": "http://192.168.88.204/s/ele-imgs/1236/89093.png"
         },
         {
             "testcase_element": "ele_login559",
@@ -240,7 +240,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
-            "image_url": "192.168.88.204/s/ele-imgs/1236/89094.png"
+            "image_url": "http://192.168.88.204/s/ele-imgs/1236/89094.png"
         },
         {
             "testcase_element": "ele_sdsv",
@@ -260,7 +260,7 @@
             ],
             "iframe_and_shadow_root_data": [],
             "element_type": "class",
-            "image_url": "192.168.88.204/s/ele-imgs/1236/89095.png"
+            "image_url": "http://192.168.88.204/s/ele-imgs/1236/89095.png"
         }
     ]
 }
