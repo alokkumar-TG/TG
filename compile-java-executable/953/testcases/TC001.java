@@ -18,9 +18,11 @@ import java.io.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
+
 @Listeners(TestListener.class);
 public class tc001 {
-	@Test
+
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc001() {
 		tg.openBrowser();
 		tg.wait(6);
