@@ -25,7 +25,7 @@ public class djajax {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void djajax() {
 		tg.openBrowser();
-				tg.wait(2);
+		tg.wait(2);
 		tg.close();
 	}
 }
