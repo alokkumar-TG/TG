@@ -25,14 +25,15 @@ public class tc02 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc02() {
 		tg.openBrowser();
-				tg.wait("ele_rc9l6neapp506", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp506", 1);
-				tg.wait("ele_rc9l6neapp506", ComparisonType.IS_VISIBLE);
-				tg.type("ele_rc9l6neapp506", "dsfsdfdsf");
-				tg.wait("ele_rcdl6neapp710", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rcdl6neapp710", 1);
-				tg.wait("ele_rcdl6neapp710", ComparisonType.IS_VISIBLE);
-				tg.typeEncrypted("ele_rcdl6neapp710", "ulOyvvqTqtocRXTuSCFs9Q==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		tg.wait("ele_rc9l6neapp506", ComparisonType.IS_VISIBLE);
+		tg.click("ele_rc9l6neapp506", 1);
+		tg.wait("ele_rc9l6neapp506", ComparisonType.IS_VISIBLE);
+		tg.type("ele_rc9l6neapp506", "dsfsdfdsf");
+		tg.wait("ele_rcdl6neapp710", ComparisonType.IS_VISIBLE);
+		tg.click("ele_rcdl6neapp710", 1);
+		tg.wait("ele_rcdl6neapp710", ComparisonType.IS_VISIBLE);
+		tg.typeEncrypted("ele_rcdl6neapp710", "ulOyvvqTqtocRXTuSCFs9Q==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		tg.wait("ele_passwordInputPassword", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
