@@ -1,0 +1,944 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_hitmranchi774",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/main/header/div/div/a[1]",
+                    "locator_id": "3",
+                    "d_h": 42,
+                    "d_w": 353,
+                    "d_x": 112,
+                    "d_y": 27,
+                    "suggest_name": "hitmranchi774"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > main > header > div > div > a > div:nth-of-type(2) > h1TGWEBCOMMA0",
+                    "d_h": 42,
+                    "d_w": 353,
+                    "d_x": 112,
+                    "d_y": 27.8125,
+                    "suggest_name": "hitmranchi774"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//h1",
+                    "d_h": 42,
+                    "d_w": 353,
+                    "d_x": 112,
+                    "d_y": 27.8125,
+                    "suggest_name": "hitmranchi774"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "text-[1.1rem] sm:text-2xl md:text-3xl font-black text-hitm-navy tracking-tighter leading-none border-b-2 border-hitm-navy/10 pb-1TGWEBCOMMA1",
+                    "d_h": 42,
+                    "d_w": 353,
+                    "d_x": 112,
+                    "d_y": 27.8125,
+                    "suggest_name": "hitmranchi774"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89220.png"
+        },
+        {
+            "testcase_element": "ele_worldclass082",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//h1[normalize-space()='World-Class Infrastructure & Expert Faculty']",
+                    "locator_id": "3",
+                    "d_h": 180,
+                    "d_w": 672,
+                    "d_x": 16,
+                    "d_y": 417,
+                    "suggest_name": "worldclass082"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > main > section > div:nth-of-type(4) > div > div > h1TGWEBCOMMA0",
+                    "d_h": 180,
+                    "d_w": 672,
+                    "d_x": 16,
+                    "d_y": 417.625,
+                    "suggest_name": "worldclass082"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/div/h1",
+                    "d_h": 180,
+                    "d_w": 672,
+                    "d_x": 16,
+                    "d_y": 417.625,
+                    "suggest_name": "worldclass082"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "text-4xl md:text-5xl xl:text-6xl font-black text-white leading-tight mb-5 font-serif drop-shadow-lgTGWEBCOMMA1",
+                    "d_h": 180,
+                    "d_w": 672,
+                    "d_x": 16,
+                    "d_y": 417.625,
+                    "suggest_name": "worldclass082"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89221.png"
+        },
+        {
+            "testcase_element": "ele_admissions341",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "html > body > main > section > div:nth-of-type(4) > div > divTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 362,
+                    "d_w": 672,
+                    "d_x": 16,
+                    "d_y": 393,
+                    "suggest_name": "admissions341"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "max-w-2xl animate-fade-upTGWEBCOMMA1",
+                    "d_h": 362,
+                    "d_w": 672,
+                    "d_x": 16,
+                    "d_y": 393.625,
+                    "suggest_name": "admissions341"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89222.png"
+        },
+        {
+            "testcase_element": "ele_futureread362",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/main/section[1]/div[2]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 422,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 363,
+                    "suggest_name": "futureread362"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.container.mx-auto.px-4",
+                    "d_h": 422,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 363.625,
+                    "suggest_name": "futureread362"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]/div",
+                    "d_h": 422,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 363.625,
+                    "suggest_name": "futureread362"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "container mx-auto px-4TGWEBCOMMA1",
+                    "d_h": 422,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 363.625,
+                    "suggest_name": "futureread362"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89223.png"
+        },
+        {
+            "testcase_element": "ele_premiercam067",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/main/section[2]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 168,
+                    "suggest_name": "premiercam067"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.relative.z-10.h-full.flex.items-center",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 168,
+                    "suggest_name": "premiercam067"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 168,
+                    "suggest_name": "premiercam067"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "relative z-10 h-full flex items-centerTGWEBCOMMA15",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 168,
+                    "suggest_name": "premiercam067"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_futureread011",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/main/section[2]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 48,
+                    "suggest_name": "futureread011"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.relative.z-10.h-full.flex.items-center",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 48,
+                    "suggest_name": "futureread011"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[4]",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 48,
+                    "suggest_name": "futureread011"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "relative z-10 h-full flex items-centerTGWEBCOMMA14",
+                    "d_h": 813,
+                    "d_w": 1352,
+                    "d_x": 0,
+                    "d_y": 48,
+                    "suggest_name": "futureread011"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89225.png"
+        },
+        {
+            "testcase_element": "ele_programmes823",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body//main//header//div//div//div//ul//li//span[contains(text(),'Programmes')]",
+                    "locator_id": "3",
+                    "d_h": 43,
+                    "d_w": 124,
+                    "d_x": 665,
+                    "d_y": 75,
+                    "suggest_name": "programmes823"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > main > header > div > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > spanTGWEBCOMMA0",
+                    "d_h": 43,
+                    "d_w": 124,
+                    "d_x": 665.421875,
+                    "d_y": 75.125,
+                    "suggest_name": "programmes823"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[2]/span",
+                    "d_h": 43,
+                    "d_w": 124,
+                    "d_x": 665.421875,
+                    "d_y": 75.125,
+                    "suggest_name": "programmes823"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "flex items-center gap-1 px-2.5 xl:px-2 2xl:px-4 py-3 text-[12.5px] 2xl:text-[13px] font-black text-hitm-navy uppercase tracking-tight cursor-pointer transition-colors group-hover:text-hitm-red whitespace-nowrapTGWEBCOMMA14",
+                    "d_h": 43,
+                    "d_w": 124,
+                    "d_x": 665.421875,
+                    "d_y": 75.125,
+                    "suggest_name": "programmes823"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89226.png"
+        },
+        {
+            "testcase_element": "ele_btech413",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "html > body > main > header > div > div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > div > div > aTGWEBCOMMA5",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 202,
+                    "d_x": 674,
+                    "d_y": 146,
+                    "suggest_name": "btech413"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "group/link flex items-center gap-3 px-4 py-2.5 text-sm font-bold text-gray-600 hover:text-hitm-red hover:bg-gray-50 rounded-lg transition-all whitespace-nowrapTGWEBCOMMA1",
+                    "d_h": 40,
+                    "d_w": 202,
+                    "d_x": 674.421875,
+                    "d_y": 146.875,
+                    "suggest_name": "btech413"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89227.png"
+        },
+        {
+            "testcase_element": "ele_aicteappro729",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/main/section/div[2]/div[1]",
+                    "locator_id": "3",
+                    "d_h": 500,
+                    "d_w": 1320,
+                    "d_x": 16,
+                    "d_y": 773,
+                    "suggest_name": "aicteappro729"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > main > section:nth-of-type(3) > div > divTGWEBCOMMA0",
+                    "d_h": 500,
+                    "d_w": 1320,
+                    "d_x": 16,
+                    "d_y": 773.5,
+                    "suggest_name": "aicteappro729"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//section[3]/div/div",
+                    "d_h": 500,
+                    "d_w": 1320,
+                    "d_x": 16,
+                    "d_y": 773.5,
+                    "suggest_name": "aicteappro729"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "grid lg:grid-cols-2 gap-12 items-centerTGWEBCOMMA2",
+                    "d_h": 500,
+                    "d_w": 1320,
+                    "d_x": 16,
+                    "d_y": 773.5,
+                    "suggest_name": "aicteappro729"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_admissionc881",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "html > body > main > section:nth-of-type(5) > div > div > div:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 602,
+                    "d_w": 628,
+                    "d_x": 708,
+                    "d_y": 273,
+                    "suggest_name": "admissionc881"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10",
+                    "d_h": 602,
+                    "d_w": 628,
+                    "d_x": 708,
+                    "d_y": 273.5,
+                    "suggest_name": "admissionc881"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89229.png"
+        },
+        {
+            "testcase_element": "ele_admissionc732",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "html > body > main > section:nth-of-type(5) > div > div > div:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "3",
+                    "d_h": 602,
+                    "d_w": 632,
+                    "d_x": 712,
+                    "d_y": 273,
+                    "suggest_name": "admissionc732"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10",
+                    "d_h": 602,
+                    "d_w": 632,
+                    "d_x": 712,
+                    "d_y": 273.5,
+                    "suggest_name": "admissionc732"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89230.png"
+        },
+        {
+            "testcase_element": "ele_admissionc110",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "html > body > main > section:nth-of-type(5) > div > div > div:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 602,
+                    "d_w": 632,
+                    "d_x": 712,
+                    "d_y": 273,
+                    "suggest_name": "admissionc110"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10",
+                    "d_h": 602,
+                    "d_w": 632,
+                    "d_x": 712,
+                    "d_y": 273.5,
+                    "suggest_name": "admissionc110"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89231.png"
+        },
+        {
+            "testcase_element": "ele_admissionc295",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "html > body > main > section:nth-of-type(5) > div > div > div:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 602,
+                    "d_w": 632,
+                    "d_x": 712,
+                    "d_y": 273,
+                    "suggest_name": "admissionc295"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10",
+                    "d_h": 602,
+                    "d_w": 632,
+                    "d_x": 712,
+                    "d_y": 273.5,
+                    "suggest_name": "admissionc295"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89232.png"
+        },
+        {
+            "testcase_element": "ele_enteremail342",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='Email']",
+                    "locator_id": "3",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830,
+                    "d_y": 460,
+                    "suggest_name": "enteremail342"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='registerForm']/div[2]/div[2]/div/input",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail342"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "EmailTGWEBCOMMA1",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail342"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#Email",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail342"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail342"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control widget_inputTGWEBCOMMA2",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail342"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89233.png"
+        },
+        {
+            "testcase_element": "ele_enteremail052",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='Email']",
+                    "locator_id": "3",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830,
+                    "d_y": 460,
+                    "suggest_name": "enteremail052"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='registerForm']/div[2]/div[2]/div/input",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail052"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "EmailTGWEBCOMMA1",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail052"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#Email",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail052"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail052"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control widget_inputTGWEBCOMMA2",
+                    "d_h": 35,
+                    "d_w": 404,
+                    "d_x": 830.765625,
+                    "d_y": 460.203125,
+                    "suggest_name": "enteremail052"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89234.png"
+        },
+        {
+            "testcase_element": "ele_selectprog698",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='UniversityId']",
+                    "locator_id": "3",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 830,
+                    "d_y": 580,
+                    "suggest_name": "selectprog698"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='registerForm']/div[2]/div[7]/select",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 830.765625,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectprog698"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "UniversityIdTGWEBCOMMA1",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 830.765625,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectprog698"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#UniversityId",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 830.765625,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectprog698"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[7]/select",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 830.765625,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectprog698"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control select-arrow-cust widget_inputTGWEBCOMMA6",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 830.765625,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectprog698"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89235.png"
+        },
+        {
+            "testcase_element": "ele_selectspec891",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[@id='CourseId']",
+                    "locator_id": "3",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 1036,
+                    "d_y": 580,
+                    "suggest_name": "selectspec891"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='registerForm']/div[2]/div[8]/select",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 1036.8125,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectspec891"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "CourseIdTGWEBCOMMA1",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 1036.8125,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectspec891"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#CourseId",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 1036.8125,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectspec891"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[8]/select",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 1036.8125,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectspec891"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "form-control select-arrow-cust widget_inputTGWEBCOMMA7",
+                    "d_h": 35,
+                    "d_w": 198,
+                    "d_x": 1036.8125,
+                    "d_y": 580.203125,
+                    "suggest_name": "selectspec891"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89236.png"
+        },
+        {
+            "testcase_element": "ele_register533",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[@id='registerBtn']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 323,
+                    "d_x": 871,
+                    "d_y": 721,
+                    "suggest_name": "register533"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='registerForm']/button",
+                    "d_h": 38,
+                    "d_w": 323,
+                    "d_x": 871.171875,
+                    "d_y": 721.203125,
+                    "suggest_name": "register533"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "registerBtnTGWEBCOMMA1",
+                    "d_h": 38,
+                    "d_w": 323,
+                    "d_x": 871.171875,
+                    "d_y": 721.203125,
+                    "suggest_name": "register533"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#registerBtn",
+                    "d_h": 38,
+                    "d_w": 323,
+                    "d_x": 871.171875,
+                    "d_y": 721.203125,
+                    "suggest_name": "register533"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/button",
+                    "d_h": 38,
+                    "d_w": 323,
+                    "d_x": 871.171875,
+                    "d_y": 721.203125,
+                    "suggest_name": "register533"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "btn btn-fill-blue btn-register margin-right-15TGWEBCOMMA2",
+                    "d_h": 38,
+                    "d_w": 323,
+                    "d_x": 871.171875,
+                    "d_y": 721.203125,
+                    "suggest_name": "register533"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89237.png"
+        },
+        {
+            "testcase_element": "ele_lazywidth608",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//div[@id='u_content_image_2']//div//img[@loading='lazy']",
+                    "locator_id": "3",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth608"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='u_content_image_2']/div/img",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth608"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "img.v-src-width.v-src-max-width",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth608"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth608"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "v-src-width v-src-max-widthTGWEBCOMMA1",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth608"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89238.png"
+        },
+        {
+            "testcase_element": "ele_lazywidth701",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//div[@id='u_content_image_2']//div//img[@loading='lazy']",
+                    "locator_id": "3",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth701"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='u_content_image_2']/div/img",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth701"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "img.v-src-width.v-src-max-width",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth701"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth701"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "v-src-width v-src-max-widthTGWEBCOMMA1",
+                    "d_h": 97,
+                    "d_w": 365,
+                    "d_x": 40,
+                    "d_y": 0,
+                    "suggest_name": "lazywidth701"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1254/89239.png"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_hitmranchi774">
+    <element type="xpath">//body/main/header/div/div/a[1]</element>
+    <element type="css">html &gt; body &gt; main &gt; header &gt; div &gt; div &gt; a &gt; div:nth-of-type(2) &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//h1</element>
+    <element type="class">text-[1.1rem] sm:text-2xl md:text-3xl font-black text-hitm-navy tracking-tighter leading-none border-b-2 border-hitm-navy/10 pb-1TGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89220.png</element>
+  </locator>
+  <locator name="ele_worldclass082">
+    <element type="xpath">//h1[normalize-space()='World-Class Infrastructure &amp; Expert Faculty']</element>
+    <element type="css">html &gt; body &gt; main &gt; section &gt; div:nth-of-type(4) &gt; div &gt; div &gt; h1TGWEBCOMMA0</element>
+    <element type="xpath">//div/div/h1</element>
+    <element type="class">text-4xl md:text-5xl xl:text-6xl font-black text-white leading-tight mb-5 font-serif drop-shadow-lgTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89221.png</element>
+  </locator>
+  <locator name="ele_admissions341">
+    <element type="css">html &gt; body &gt; main &gt; section &gt; div:nth-of-type(4) &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="class">max-w-2xl animate-fade-upTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89222.png</element>
+  </locator>
+  <locator name="ele_futureread362">
+    <element type="xpath">//body/main/section[1]/div[2]/div[1]</element>
+    <element type="css">div.container.mx-auto.px-4</element>
+    <element type="xpath">//div[4]/div</element>
+    <element type="class">container mx-auto px-4TGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89223.png</element>
+  </locator>
+  <locator name="ele_premiercam067">
+    <element type="xpath">//body/main/section[2]/div[1]</element>
+    <element type="css">div.relative.z-10.h-full.flex.items-center</element>
+    <element type="xpath">//div[4]</element>
+    <element type="class">relative z-10 h-full flex items-centerTGWEBCOMMA15</element>
+  </locator>
+  <locator name="ele_futureread011">
+    <element type="xpath">//body/main/section[2]/div[1]</element>
+    <element type="css">div.relative.z-10.h-full.flex.items-center</element>
+    <element type="xpath">//div[4]</element>
+    <element type="class">relative z-10 h-full flex items-centerTGWEBCOMMA14</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89225.png</element>
+  </locator>
+  <locator name="ele_programmes823">
+    <element type="xpath">//body//main//header//div//div//div//ul//li//span[contains(text(),'Programmes')]</element>
+    <element type="css">html &gt; body &gt; main &gt; header &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; ul &gt; li:nth-of-type(2) &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//li[2]/span</element>
+    <element type="class">flex items-center gap-1 px-2.5 xl:px-2 2xl:px-4 py-3 text-[12.5px] 2xl:text-[13px] font-black text-hitm-navy uppercase tracking-tight cursor-pointer transition-colors group-hover:text-hitm-red whitespace-nowrapTGWEBCOMMA14</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89226.png</element>
+  </locator>
+  <locator name="ele_btech413">
+    <element type="xpath">html &gt; body &gt; main &gt; header &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; ul &gt; li:nth-of-type(2) &gt; div &gt; div &gt; aTGWEBCOMMA5</element>
+    <element type="class">group/link flex items-center gap-3 px-4 py-2.5 text-sm font-bold text-gray-600 hover:text-hitm-red hover:bg-gray-50 rounded-lg transition-all whitespace-nowrapTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89227.png</element>
+  </locator>
+  <locator name="ele_aicteappro729">
+    <element type="xpath">//body/main/section/div[2]/div[1]</element>
+    <element type="css">html &gt; body &gt; main &gt; section:nth-of-type(3) &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//section[3]/div/div</element>
+    <element type="class">grid lg:grid-cols-2 gap-12 items-centerTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_admissionc881">
+    <element type="css">html &gt; body &gt; main &gt; section:nth-of-type(5) &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="class">bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89229.png</element>
+  </locator>
+  <locator name="ele_admissionc732">
+    <element type="xpath">html &gt; body &gt; main &gt; section:nth-of-type(5) &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="class">bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89230.png</element>
+  </locator>
+  <locator name="ele_admissionc110">
+    <element type="css">html &gt; body &gt; main &gt; section:nth-of-type(5) &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="class">bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89231.png</element>
+  </locator>
+  <locator name="ele_admissionc295">
+    <element type="css">html &gt; body &gt; main &gt; section:nth-of-type(5) &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="class">bg-white border rounded-[40px] p-8 md:p-12 shadow-2xl sticky top-32TGWEBCOMMA10</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89232.png</element>
+  </locator>
+  <locator name="ele_enteremail342">
+    <element type="xpath">//input[@id='Email']</element>
+    <element type="xpath">//form[@id='registerForm']/div[2]/div[2]/div/input</element>
+    <element type="id">EmailTGWEBCOMMA1</element>
+    <element type="css">#Email</element>
+    <element type="xpath">//div[2]/div/input</element>
+    <element type="class">form-control widget_inputTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89233.png</element>
+  </locator>
+  <locator name="ele_enteremail052">
+    <element type="xpath">//input[@id='Email']</element>
+    <element type="xpath">//form[@id='registerForm']/div[2]/div[2]/div/input</element>
+    <element type="id">EmailTGWEBCOMMA1</element>
+    <element type="css">#Email</element>
+    <element type="xpath">//div[2]/div/input</element>
+    <element type="class">form-control widget_inputTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89234.png</element>
+  </locator>
+  <locator name="ele_selectprog698">
+    <element type="xpath">//select[@id='UniversityId']</element>
+    <element type="xpath">//form[@id='registerForm']/div[2]/div[7]/select</element>
+    <element type="id">UniversityIdTGWEBCOMMA1</element>
+    <element type="css">#UniversityId</element>
+    <element type="xpath">//div[7]/select</element>
+    <element type="class">form-control select-arrow-cust widget_inputTGWEBCOMMA6</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89235.png</element>
+  </locator>
+  <locator name="ele_selectspec891">
+    <element type="xpath">//select[@id='CourseId']</element>
+    <element type="xpath">//form[@id='registerForm']/div[2]/div[8]/select</element>
+    <element type="id">CourseIdTGWEBCOMMA1</element>
+    <element type="css">#CourseId</element>
+    <element type="xpath">//div[8]/select</element>
+    <element type="class">form-control select-arrow-cust widget_inputTGWEBCOMMA7</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89236.png</element>
+  </locator>
+  <locator name="ele_register533">
+    <element type="xpath">//button[@id='registerBtn']</element>
+    <element type="xpath">//form[@id='registerForm']/button</element>
+    <element type="id">registerBtnTGWEBCOMMA1</element>
+    <element type="css">#registerBtn</element>
+    <element type="xpath">//form/button</element>
+    <element type="class">btn btn-fill-blue btn-register margin-right-15TGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89237.png</element>
+  </locator>
+  <locator name="ele_lazywidth608">
+    <element type="xpath">//div[@id='u_content_image_2']//div//img[@loading='lazy']</element>
+    <element type="xpath">//div[@id='u_content_image_2']/div/img</element>
+    <element type="css">img.v-src-width.v-src-max-width</element>
+    <element type="xpath">//img</element>
+    <element type="class">v-src-width v-src-max-widthTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89238.png</element>
+  </locator>
+  <locator name="ele_lazywidth701">
+    <element type="xpath">//div[@id='u_content_image_2']//div//img[@loading='lazy']</element>
+    <element type="xpath">//div[@id='u_content_image_2']/div/img</element>
+    <element type="css">img.v-src-width.v-src-max-width</element>
+    <element type="xpath">//img</element>
+    <element type="class">v-src-width v-src-max-widthTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/1254/89239.png</element>
+  </locator>
+</locators>
