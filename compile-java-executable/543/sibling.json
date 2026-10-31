@@ -330,7 +330,7 @@
             "image_url": "http://192.168.5.24/s/ele-imgs/543/26901.png"
         },
         {
-            "testcase_element": "ele_rcdl6neapp712",
+            "testcase_element": "ele_passwordInputPassword",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -371,7 +371,7 @@
                     "d_w": 476,
                     "d_x": 762,
                     "d_y": 341,
-                    "suggest_name": "rcdl6neapp712"
+                    "suggest_name": "ele_passwordInputPassword"
                 },
                 {
                     "locators": "Xpath",
@@ -381,7 +381,7 @@
                     "d_w": 476,
                     "d_x": 762,
                     "d_y": 341.484375,
-                    "suggest_name": "rcdl6neapp712"
+                    "suggest_name": "ele_passwordInputPassword"
                 },
                 {
                     "locators": "id",
@@ -391,7 +391,7 @@
                     "d_w": 476,
                     "d_x": 762,
                     "d_y": 341.484375,
-                    "suggest_name": "rcdl6neapp712"
+                    "suggest_name": "ele_passwordInputPassword"
                 },
                 {
                     "locators": "CSS selector",
@@ -401,7 +401,7 @@
                     "d_w": 476,
                     "d_x": 762,
                     "d_y": 341.484375,
-                    "suggest_name": "rcdl6neapp712"
+                    "suggest_name": "ele_passwordInputPassword"
                 },
                 {
                     "locators": "CSS selector",
@@ -411,7 +411,7 @@
                     "d_w": 476,
                     "d_x": 762,
                     "d_y": 341.484375,
-                    "suggest_name": "rcdl6neapp712"
+                    "suggest_name": "ele_passwordInputPassword"
                 },
                 {
                     "locators": "Xpath",
@@ -421,7 +421,7 @@
                     "d_w": 476,
                     "d_x": 762,
                     "d_y": 341.484375,
-                    "suggest_name": "rcdl6neapp712"
+                    "suggest_name": "ele_passwordInputPassword"
                 },
                 {
                     "locators": "class",
@@ -431,7 +431,7 @@
                     "d_w": 476,
                     "d_x": 762,
                     "d_y": 341.484375,
-                    "suggest_name": "rcdl6neapp712"
+                    "suggest_name": "ele_passwordInputPassword"
                 }
             ],
             "iframe_and_shadow_root_data": [],
