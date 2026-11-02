@@ -167,6 +167,66 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.88.204/s/ele-imgs/827/71953.png"
+        },
+        {
+            "testcase_element": "ele_TextField1785956378472",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 284,
+                    "d_x": 53,
+                    "d_y": 107,
+                    "suggest_name": "TextField1785956378472"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TextField1785956381598",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 284,
+                    "d_x": 53,
+                    "d_y": 166,
+                    "suggest_name": "TextField1785956381598"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TextField1785956384528",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[3]",
+                    "locator_id": "3",
+                    "d_h": 34,
+                    "d_w": 284,
+                    "d_x": 53,
+                    "d_y": 227,
+                    "suggest_name": "TextField1785956384528"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }

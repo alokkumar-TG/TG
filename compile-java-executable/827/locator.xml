@@ -28,4 +28,13 @@
     <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[15]</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/827/71953.png</element>
   </locator>
+  <locator name="ele_TextField1785956378472">
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+  </locator>
+  <locator name="ele_TextField1785956381598">
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]</element>
+  </locator>
+  <locator name="ele_TextField1785956384528">
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[3]</element>
+  </locator>
 </locators>
