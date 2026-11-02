@@ -35,6 +35,7 @@ public class deleteiconchck {
 		tg.wait(4);
 		tg.wait("ele_rcdl6neapp732", ComparisonType.IS_VISIBLE);
 		tg.typeEncrypted("ele_rcdl6neapp732", "nRqyE7d7McyWePz8V78ULQ==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		tg.wait(2);
 		tg.close();
 	}
 }
