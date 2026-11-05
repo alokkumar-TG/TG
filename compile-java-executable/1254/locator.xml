@@ -157,6 +157,7 @@
     <element type="image">http://192.168.88.204/s/ele-imgs/1254/89241.png</element>
   </locator>
   <locator name="ele_rcdl6neapp732">
+    <element type="class">abcdefTGWEBCOMMACssClassTGWEBCOMMA2</element>
     <element type="xpath">//input[@id='_R_cdl6neappb6amH1_']</element>
     <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
     <element type="id">_R_cdl6neappb6amH1_TGWEBCOMMA1</element>

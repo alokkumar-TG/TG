@@ -454,10 +454,10 @@
                     "locators": "CSS Selector",
                     "locators_val": "html > body > main > section:nth-of-type(5) > div > div > div:nth-of-type(2)TGWEBCOMMA0",
                     "locator_id": "9",
-                    "d_h": 602,
-                    "d_w": 632,
-                    "d_x": 712,
-                    "d_y": 273,
+                    "d_h": 50,
+                    "d_w": 305,
+                    "d_x": 93,
+                    "d_y": 21,
                     "suggest_name": "admissionc110"
                 },
                 {
@@ -483,10 +483,10 @@
                     "locators": "CSS Selector",
                     "locators_val": "html > body > main > section:nth-of-type(5) > div > div > div:nth-of-type(2)TGWEBCOMMA0",
                     "locator_id": "9",
-                    "d_h": 602,
-                    "d_w": 632,
-                    "d_x": 712,
-                    "d_y": 273,
+                    "d_h": 76,
+                    "d_w": 270,
+                    "d_x": 98,
+                    "d_y": 2,
                     "suggest_name": "admissionc295"
                 },
                 {
@@ -1076,14 +1076,23 @@
             "sibling_selector": "",
             "locator": [
                 {
-                    "locators": "XPath",
-                    "locators_val": "//input[@id='_R_cdl6neappb6amH1_']",
-                    "locator_id": "3",
+                    "locators": "class",
+                    "locators_val": "abcdefTGWEBCOMMA2",
+                    "locator_id": "6",
                     "d_h": 38,
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 336,
-                    "suggest_name": "rcdl6neapp732"
+                    "suggest_name": "ele_rcdl6neapp732"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='_R_cdl6neappb6amH1_']",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 336.484375,
+                    "suggest_name": "ele_rcdl6neapp732"
                 },
                 {
                     "locators": "Xpath",
@@ -1092,7 +1101,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 336.484375,
-                    "suggest_name": "rcdl6neapp732"
+                    "suggest_name": "ele_rcdl6neapp732"
                 },
                 {
                     "locators": "id",
@@ -1101,7 +1110,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 336.484375,
-                    "suggest_name": "rcdl6neapp732"
+                    "suggest_name": "ele_rcdl6neapp732"
                 },
                 {
                     "locators": "CSS selector",
@@ -1110,7 +1119,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 336.484375,
-                    "suggest_name": "rcdl6neapp732"
+                    "suggest_name": "ele_rcdl6neapp732"
                 },
                 {
                     "locators": "Xpath",
@@ -1119,7 +1128,7 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 336.484375,
-                    "suggest_name": "rcdl6neapp732"
+                    "suggest_name": "ele_rcdl6neapp732"
                 },
                 {
                     "locators": "class",
@@ -1128,11 +1137,11 @@
                     "d_w": 516,
                     "d_x": 762,
                     "d_y": 336.484375,
-                    "suggest_name": "rcdl6neapp732"
+                    "suggest_name": "ele_rcdl6neapp732"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_type": "xpath",
+            "element_type": "class",
             "image_url": "http://192.168.88.204/s/ele-imgs/1254/89242.png"
         }
     ]
