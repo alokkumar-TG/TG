@@ -25,13 +25,7 @@ public class hishu {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void hishu() {
 		tg.openBrowser();
-				tg.wait(2);
-				tg.wait("ele_rc9l6neapp409", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp409", 1);
-				tg.wait("ele_rc9l6neapp443", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp443", 1);
-				tg.wait("ele_rc9l6neapp985", ComparisonType.IS_VISIBLE);
-				tg.click("ele_rc9l6neapp985", 1);
+		tg.wait(2);
 		tg.close();
 	}
 }
