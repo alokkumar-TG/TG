@@ -27,6 +27,7 @@ public class _tc01 {
 		tg.openBrowser();
 		tg.wait(2);
 		tg.wait(2);
+		tg.wait(2);
 		tg.close();
 	}
 }
