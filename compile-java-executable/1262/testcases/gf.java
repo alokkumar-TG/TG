@@ -25,7 +25,22 @@ public class gf {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void gf() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait("ele_rc9l6neapp038", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rc9l6neapp038", 1);
+				tg.wait("ele_rc9l6neapp038", ComparisonType.IS_VISIBLE);
+				tg.type("ele_rc9l6neapp038", "sdfsdfsdf");
+				tg.wait("ele_rcdl6neapp263", ComparisonType.IS_VISIBLE);
+				tg.click("ele_rcdl6neapp263", 1);
+				tg.wait("ele_rcdl6neapp263", ComparisonType.IS_VISIBLE);
+				tg.typeEncrypted("ele_rcdl6neapp263", "EMsVOe/S86dpC/Wplh4SCg==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+				tg.wait("ele_login645", ComparisonType.IS_VISIBLE);
+				tg.click("ele_login645", 1);
+				tg.wait("ele_login109", ComparisonType.IS_VISIBLE);
+				tg.click("ele_login109", 1);
+				tg.wait("ele_forgottenp755", ComparisonType.IS_VISIBLE);
+				tg.click("ele_forgottenp755", 1);
+				tg.wait("ele_backbutton640", ComparisonType.IS_VISIBLE);
+				tg.click("ele_backbutton640", 1);
 		tg.close();
 	}
 }
