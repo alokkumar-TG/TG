@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "531",
-    "user_id": 1,
+    "user_id": 0,
     "abo_version": {
         "version_id": "531",
         "app_id": "240",
@@ -10,13 +10,13 @@
         "version_description": "",
         "cm_version_module": "1263",
         "platform": "3",
-        "ai_modal_id": null,
+        "ai_modal_id": "cotester_client_v2_6af1bf8140f481919fd50db9d4e8a867",
         "script_type": "3",
         "is_master": "1",
         "is_delete": "0",
         "xray_project_version": "",
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "240",
@@ -56,12 +56,12 @@
             "count_resource": "24",
             "cm_resource_pages": "3766",
             "cm_default_resource": "89295",
-            "cm_test_function": "10691,10692",
+            "cm_test_function": "10691,10692,10693",
             "cm_test_case": "4815,4816",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-11-09 17:53:08",
+            "view_updated_date_time": "2026-11-09 18:21:56",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -164,6 +164,26 @@
                     "status": "2",
                     "updated_at": null,
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/531/1263/testfunctions/fgdfgf.java",
+                    "vault_paths": []
+                },
+                {
+                    "proc_id": "10693",
+                    "version_module_id": "1263",
+                    "proc_name": "zdxfvdfcbv",
+                    "proc_description": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "is_ai_generated": "0",
+                    "created_source": "convert_tc",
+                    "created_source_ref": "tc_4816",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_draft": "0",
+                    "has_parameters": "0",
+                    "param_data": "[]",
+                    "return_type": null,
+                    "status": "2",
+                    "updated_at": null,
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/531/1263/testfunctions/zdxfvdfcbv.java",
                     "vault_paths": []
                 }
             ],
@@ -655,83 +675,37 @@
                         }
                     ],
                     "cotester_chat_messages": []
+                },
+                {
+                    "tc_id": "618",
+                    "test_case_id": "0",
+                    "jira_id": "0",
+                    "azure_id": "0",
+                    "version_module_id": "1263",
+                    "tc_name": "dsf",
+                    "thread_id": null,
+                    "tc_description": "",
+                    "created_source": "manual_add",
+                    "created_source_ref": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "updated_at": "2026-11-09 18:04:16",
+                    "created_at": "2026-11-09 18:04:12",
+                    "figma_id": "0",
+                    "abo_vm_test_case_manual_steps": [
+                        {
+                            "step_id": "975",
+                            "tc_id": "618",
+                            "step_order": "1",
+                            "step_action": "sdf",
+                            "created_at": "2026-11-09 18:04:16",
+                            "updated_at": "2026-11-09 18:04:16"
+                        }
+                    ],
+                    "cotester_chat_messages": []
                 }
             ],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4387",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4388",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "4389",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "4390",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "",
-                    "action_process": "add_test_function"
-                },
-                {
-                    "id": "4391",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "",
-                    "action_process": "delete_test_function"
-                },
-                {
-                    "id": "4392",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "demoo",
-                    "action_process": "edit_version_module"
-                },
-                {
-                    "id": "4393",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "",
-                    "action_process": "edit_test_function"
-                },
-                {
-                    "id": "4395",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "531",
-                    "version_module_id": "1263",
-                    "description": "demoox",
-                    "action_process": "edit_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -1500,8 +1474,8 @@
                             "element_name": "ele_continue082",
                             "element_display_name": "continue082",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89294.png",
-                            "element_path_rid": "//span[contains(text(),'Continue')]",
-                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//span[contains(text(),'Continue')]\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_Gp']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/span/span\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"CSS selector\",\"locators_val\":\"span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"Xpath\",\"locators_val\":\"//span/span\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"Tag\",\"locators_val\":\"span\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"class\",\"locators_val\":\"x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA6\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"}]",
+                            "element_path_rid": "span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ftTGWEBCOMMA0",
+                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\"span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/span\\/span\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"Tag\",\"locators_val\":\"span\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"class\",\"locators_val\":\"x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA6\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/span[contains(text(),'Continue')]\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"},{\"locators\":\"Xpath\",\"locators_val\":\"\\/\\/div[@id='mount_0_0_Gp']\\/div\\/div\\/div\\/div[2]\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div[3]\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/div\\/span\\/span\",\"d_h\":19,\"d_w\":66,\"d_x\":639.515625,\"d_y\":240.5,\"suggest_name\":\"continue082\"}]",
                             "shadow_data": "",
                             "sibling_selector": "\"\"",
                             "tg_text": "",
@@ -1515,7 +1489,7 @@
                             "element_displayname": "&quot;undefined&quot;",
                             "element_index": "",
                             "element_parent_element": "",
-                            "element_path_rid_type": "3",
+                            "element_path_rid_type": "9",
                             "element_path_rid_ios_type": "",
                             "d_x": "639.515625",
                             "d_y": "240.5",
@@ -1574,7 +1548,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "206",
+            "version_id": "531",
+            "capabilities_keyname": "dsfdf",
+            "capabilities_keyvalue": "dsfdsf"
+        }
+    ],
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],

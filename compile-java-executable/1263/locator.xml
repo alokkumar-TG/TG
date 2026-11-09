@@ -185,11 +185,12 @@
     <element type="image">http://192.168.88.204/s/ele-imgs/1263/89293.png</element>
   </locator>
   <locator name="ele_continue082">
-    <element type="xpath">//span[contains(text(),'Continue')]</element>
-    <element type="xpath">//div[@id='mount_0_0_Gp']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/span/span</element>
+    <element type="css">span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ftTGWEBCOMMA0</element>
     <element type="css">span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft</element>
     <element type="xpath">//span/span</element>
     <element type="class">x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA6</element>
+    <element type="xpath">//span[contains(text(),'Continue')]</element>
+    <element type="xpath">//div[@id='mount_0_0_Gp']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/span/span</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/1263/89294.png</element>
   </locator>
   <locator name="ele_sdsv">

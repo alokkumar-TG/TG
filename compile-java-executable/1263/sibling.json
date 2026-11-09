@@ -1310,22 +1310,13 @@
             "sibling_selector": "",
             "locator": [
                 {
-                    "locators": "XPath",
-                    "locators_val": "//span[contains(text(),'Continue')]",
-                    "locator_id": "3",
+                    "locators": "CSS Selector",
+                    "locators_val": "span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ftTGWEBCOMMA0",
+                    "locator_id": "9",
                     "d_h": 19,
                     "d_w": 66,
                     "d_x": 639,
                     "d_y": 240,
-                    "suggest_name": "continue082"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//div[@id='mount_0_0_Gp']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/span/span",
-                    "d_h": 19,
-                    "d_w": 66,
-                    "d_x": 639.515625,
-                    "d_y": 240.5,
                     "suggest_name": "continue082"
                 },
                 {
@@ -1354,10 +1345,28 @@
                     "d_x": 639.515625,
                     "d_y": 240.5,
                     "suggest_name": "continue082"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//span[contains(text(),'Continue')]",
+                    "d_h": 19,
+                    "d_w": 66,
+                    "d_x": 639.515625,
+                    "d_y": 240.5,
+                    "suggest_name": "continue082"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='mount_0_0_Gp']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/span/span",
+                    "d_h": 19,
+                    "d_w": 66,
+                    "d_x": 639.515625,
+                    "d_y": 240.5,
+                    "suggest_name": "continue082"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_type": "xpath",
+            "element_type": "css",
             "image_url": "http://192.168.88.204/s/ele-imgs/1263/89294.png"
         },
         {
