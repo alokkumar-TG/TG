@@ -963,6 +963,12 @@
             "version_id": "535",
             "capabilities_keyname": "asdasd",
             "capabilities_keyvalue": "dsadas"
+        },
+        {
+            "capabilities_id": "209",
+            "version_id": "535",
+            "capabilities_keyname": "asdas",
+            "capabilities_keyvalue": "dasd"
         }
     ],
     "abo_import_statement": [
