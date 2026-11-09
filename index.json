@@ -2153,8 +2153,25 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
-    "abo_import_statement": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "207",
+            "version_id": "509",
+            "capabilities_keyname": "dfg",
+            "capabilities_keyvalue": "fdg"
+        }
+    ],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "338",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "509",
+            "import_statement": "dfg; ",
+            "created": "2026-11-09 16:36:53",
+            "updated": "2026-11-09 16:36:53"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [
@@ -2168,7 +2185,7 @@
             "variable_value": "6",
             "gv_category": "global",
             "created": "2026-10-24 11:06:18",
-            "updated": "2026-10-24 11:06:18"
+            "updated": "2026-11-09 16:36:53"
         },
         {
             "variable_id": "2320",
