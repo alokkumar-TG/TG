@@ -958,7 +958,17 @@
         }
     ],
     "abo_version_capabilities": [],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "339",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "535",
+            "import_statement": "sdfsdf; ",
+            "created": "2026-11-09 22:19:09",
+            "updated": "2026-11-09 22:19:09"
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [],
