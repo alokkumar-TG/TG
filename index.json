@@ -957,7 +957,14 @@
             ]
         }
     ],
-    "abo_version_capabilities": [],
+    "abo_version_capabilities": [
+        {
+            "capabilities_id": "208",
+            "version_id": "535",
+            "capabilities_keyname": "asdasd",
+            "capabilities_keyvalue": "dsadas"
+        }
+    ],
     "abo_import_statement": [
         {
             "import_statement_id": "339",
