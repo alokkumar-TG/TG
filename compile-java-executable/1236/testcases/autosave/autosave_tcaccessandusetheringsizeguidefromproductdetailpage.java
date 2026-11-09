@@ -25,7 +25,7 @@ public class tcaccessandusetheringsizeguidefromproductdetailpage {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tcaccessandusetheringsizeguidefromproductdetailpage() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait(1);
 		tg.close();
 	}
 }
