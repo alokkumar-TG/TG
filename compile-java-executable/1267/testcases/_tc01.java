@@ -1,4 +1,3 @@
-sdfsdf;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -29,6 +28,7 @@ public class _tc01 {
 		tg.wait(5);
 		tg.wait(2);
 		tg.wait(3);
+		tg.wait(4);
 		tg.wait(4);
 		tg.close();
 	}
