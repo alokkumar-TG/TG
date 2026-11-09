@@ -2236,4 +2236,78 @@
     <element type="class">container iframes-page-containerTGWEBCOMMA1</element>
     <element type="image">http://192.168.88.204/s/ele-imgs/958/78459.png</element>
   </locator>
+  <locator name="ele_emailaddre346">
+    <element type="xpath">//body/div[@id='mount_0_0_po']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@role='main']/div/div/div/div/div/div/div/div/div/form[@id='login_form']/div/div/div/div[1]/div[1]/div[1]</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div</element>
+    <element type="css">div.xjhjgkd.x1s9qjmn.x71vvrb.x7gj0x1.x167l43f.x11lwdb5.xfxe0gy.x1szzd0g.xh2argp.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.x9f619.x78zum5.xdt5ytf.xl56j7k.x1l0fimt.x6ikm8r.x10wlt62.x8fpamh.x1plnv5r.xf7dkkf.xv54qhq.x1n2onr6.xh8yej3.x1ja2u2z.xggcdpo.xzxmhi2.x1bhcc0k.x1poa18a</element>
+    <element type="xpath">//form/div/div/div/div/div/div</element>
+    <element type="class">xjhjgkd x1s9qjmn x71vvrb x7gj0x1 x167l43f x11lwdb5 xfxe0gy x1szzd0g xh2argp x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x178xt8z x1lun4ml xso031l xpilrb4 x9f619 x78zum5 xdt5ytf xl56j7k x1l0fimt x6ikm8r x10wlt62 x8fpamh x1plnv5r xf7dkkf xv54qhq x1n2onr6 xh8yej3 x1ja2u2z xggcdpo xzxmhi2 x1bhcc0k x1poa18aTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89317.png</element>
+  </locator>
+  <locator name="ele_rc9l6neapp526">
+    <element type="xpath">//input[@id='_R_c9l6neappb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_c9l6neappb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_c9l6neappb6amH1_</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89318.png</element>
+  </locator>
+  <locator name="ele_rcdl6neapp984">
+    <element type="xpath">//input[@id='_R_cdl6neappb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_cdl6neappb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_cdl6neappb6amH1_</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89319.png</element>
+  </locator>
+  <locator name="ele_login679">
+    <element type="xpath">//body/div[@id='mount_0_0_po']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@role='main']/div/div/div/div/div/div/div/div/div/form[@id='login_form']/div/div/div/div/div/div[@aria-label='Log in']/div[1]</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[3]/div/div/div</element>
+    <element type="css">div.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.xtvsq51.xqbgfmv.xbe3n85.x7a1id4.x1d9i5bo.x1xila8y.x1bumbmr.xc8cyl1</element>
+    <element type="xpath">//form/div/div/div/div[3]/div/div/div</element>
+    <element type="class">x1ja2u2z x78zum5 x2lah0s x1n2onr6 xl56j7k x6s0dn4 xozqiw3 x1q0g3np x972fbf x10w94by x1qhh985 x14e42zd x9f619 xtvsq51 xqbgfmv xbe3n85 x7a1id4 x1d9i5bo x1xila8y x1bumbmr xc8cyl1TGWEBCOMMA41</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89320.png</element>
+  </locator>
+  <locator name="ele_emailaddre965">
+    <element type="xpath">//body/div[@id='mount_0_0_po']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@role='main']/div/div/div/div/div/div/div/div/div/form[@id='login_form']/div/div/div[1]</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div</element>
+    <element type="css">div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xz9dl7a &gt; div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j</element>
+    <element type="xpath">//form/div/div/div</element>
+    <element type="class">x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1jTGWEBCOMMA34</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89321.png</element>
+  </locator>
+  <locator name="ele_svg002424c534">
+    <element type="xpath">//body/div[@id='mount_0_0_1F']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@aria-hidden='false']/div/div/div/div/div/div[@aria-label='Back']/*[1]</element>
+    <element type="css">svg.x1lliihq.x2lah0s.xa7nqf0.x2h7rmj.x1h5im7z.xcza8v6.xxk0z11.xvy4d1p</element>
+  </locator>
+  <locator name="ele_forgottenp738">
+    <element type="xpath">//span[contains(text(),'Forgotten password?')]</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[4]/div/a/div/div/div/span/span</element>
+    <element type="css">span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1sfkdl8.xurcqga.x1hnmjcu.x3vd66c.xcd4a2j.xzsf02u.x1yc453h.xudqn12.x41vudc &gt; span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft</element>
+    <element type="xpath">//a/div/div/div/span/span</element>
+    <element type="class">x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA9</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89323.png</element>
+  </locator>
+  <locator name="ele_r411">
+    <element type="xpath">//input[@id='_r_2_']</element>
+    <element type="xpath">//div[@id='mount_0_0_Bx']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/form/div/div/div[3]/div/div/div/input</element>
+    <element type="id">_r_2_TGWEBCOMMA1</element>
+    <element type="css">#_r_2_</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89324.png</element>
+  </locator>
+  <locator name="ele_continue543">
+    <element type="xpath">//body/div[@id='mount_0_0_Bx']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@aria-hidden='false']/div/div/div/div/div/div/div/div/div/div/div[@role='button']/div[1]</element>
+    <element type="xpath">//div[@id='mount_0_0_Bx']/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div</element>
+    <element type="css">div.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.xtvsq51.xqbgfmv.xbe3n85.x7a1id4.x1d9i5bo.x1xila8y.x1bumbmr.xc8cyl1</element>
+    <element type="xpath">//div[3]/div/div/div/div/div/div/div/div</element>
+    <element type="class">x1ja2u2z x78zum5 x2lah0s x1n2onr6 xl56j7k x6s0dn4 xozqiw3 x1q0g3np x972fbf x10w94by x1qhh985 x14e42zd x9f619 xtvsq51 xqbgfmv xbe3n85 x7a1id4 x1d9i5bo x1xila8y x1bumbmr xc8cyl1TGWEBCOMMA23</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/958/89325.png</element>
+  </locator>
+  <locator name="ele_evenoddeve748">
+    <element type="xpath">div#mount_0_0_Bx &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; svg &gt; pathTGWEBCOMMA0</element>
+  </locator>
 </locators>
