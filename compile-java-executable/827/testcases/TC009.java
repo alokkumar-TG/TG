@@ -21,8 +21,9 @@ public class tc009 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc009() {
 		tg.openDevice();
-				tg.swipe(Direction.DOWN);
-				tg.swipe(Direction.UP);
+		tg.swipe(Direction.DOWN);
+		tg.swipe(Direction.UP);
+		tg.wait(2);
 		tg.close();
 	}
 }
