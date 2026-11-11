@@ -22,6 +22,7 @@ public class tc002 {
 	public void tc002() {
 		tg.openDevice();
 		tg.wait(2);
+		tg.wait(4);
 		tg.close();
 	}
 }
