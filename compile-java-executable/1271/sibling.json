@@ -1,0 +1,44 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_sdfsdf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "dsTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "sdfsdf"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1271/89331.png"
+        },
+        {
+            "testcase_element": "ele_as",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "asTGWEBCOMMA0",
+                    "locator_id": "6",
+                    "d_h": 76,
+                    "d_w": 381,
+                    "d_x": 785,
+                    "d_y": 245,
+                    "suggest_name": "as"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "http://192.168.88.204/s/ele-imgs/1271/89332.png"
+        }
+    ]
+}
