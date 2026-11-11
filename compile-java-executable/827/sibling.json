@@ -66,10 +66,10 @@
                     "locators": "Xpath",
                     "locators_val": "(//XCUIElementTypeKey[@name='d'])[1]",
                     "locator_id": "3",
-                    "d_h": 54,
-                    "d_w": 39,
-                    "d_x": 100,
-                    "d_y": 621,
+                    "d_h": 477,
+                    "d_w": 991,
+                    "d_x": 632,
+                    "d_y": 225,
                     "suggest_name": "dKey1785953598749"
                 },
                 {
