@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_TextField1785953571301">
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/827/71949.png</element>
+  </locator>
+  <locator name="ele_iKey1785953586797">
+    <element type="xpath">(//XCUIElementTypeKey[@name='i'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[9]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[9]</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/827/71950.png</element>
+  </locator>
+  <locator name="ele_dKey1785953598749">
+    <element type="xpath">(//XCUIElementTypeKey[@name='d'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[16]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[16]</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/827/71951.png</element>
+  </locator>
+  <locator name="ele_yKey1785953618446">
+    <element type="xpath">(//XCUIElementTypeKey[@name='y'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[7]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[7]</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/827/71952.png</element>
+  </locator>
+  <locator name="ele_sKey1785953632380">
+    <element type="xpath">(//XCUIElementTypeKey[@name='s'])[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[15]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeKeyboard/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeKey[15]</element>
+    <element type="image">http://192.168.88.204/s/ele-imgs/827/71953.png</element>
+  </locator>
+  <locator name="ele_TextField1785956378472">
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField</element>
+  </locator>
+  <locator name="ele_TextField1785956381598">
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]</element>
+  </locator>
+  <locator name="ele_TextField1785956384528">
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[3]</element>
+  </locator>
+</locators>
