@@ -4,7 +4,6 @@ import io.testgrid.tg;
 import org.testng.annotations.*;
 import app.getxray.xray.testng.annotations.XrayTest;
 import io.testgrid.enums.ComparisonType;
-import org.json.JSONObject;
 import io.testgrid.enums.Direction;
 import io.testgrid.enums.Size;
 import io.testgrid.enums.Buttons;

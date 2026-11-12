@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "535",
-    "user_id": "1",
+    "user_id": 0,
     "abo_version": {
         "version_id": "535",
         "app_id": "240",
@@ -29,8 +29,8 @@
         "user_id": "1",
         "os_type": "0",
         "platform": "3",
-        "nob": "14",
-        "cm_version_id": "1,506,508,509,520,521,522,528,531,535",
+        "nob": "16",
+        "cm_version_id": "1,506,508,509,520,521,522,528,531,535,540",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
         "is_testcase_retries": "0",
@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-11-11 23:13:38",
+            "view_updated_date_time": "2026-11-12 13:55:29",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -761,26 +761,7 @@
                 }
             ],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4411",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "535",
-                    "version_module_id": "1267",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "4419",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "535",
-                    "version_module_id": "1267",
-                    "description": "",
-                    "action_process": "add_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [
                 {
                     "id": "11",
@@ -1099,17 +1080,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4416",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "535",
-                    "version_module_id": "1271",
-                    "description": "",
-                    "action_process": "add_version_module"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -1388,35 +1359,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "4417",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "535",
-                    "version_module_id": "1272",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "4418",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "535",
-                    "version_module_id": "1272",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "4420",
-                    "user_id": "1",
-                    "app_id": "240",
-                    "version_id": "535",
-                    "version_module_id": "1272",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -2284,40 +2227,13 @@
     "abo_version_capabilities": [],
     "abo_import_statement": [
         {
-            "import_statement_id": "342",
+            "import_statement_id": "372",
             "user_id": "1",
             "app_id": "240",
             "version_id": "535",
-            "import_statement": "import java.lang.StringBuilder; import java.lang.StringBuffer; import java.util.StringJoiner; import java.util.Arrays; import java.util.Collections; import java.util.List; import java.util.ArrayList; import java.util.HashMap; import java.util.Map; import java.text.StringCharacterIterator; import java.text.CharacterIterator; import java.text.DecimalFormat; import java.text.SimpleDateFormat; import java.util.Formatter; ",
-            "created": "2026-11-11 13:33:21",
-            "updated": "2026-11-11 17:39:27"
-        },
-        {
-            "import_statement_id": "343",
-            "user_id": "1",
-            "app_id": "240",
-            "version_id": "535",
-            "import_statement": "import java.text.BreakIterator; import java.text.Normalizer; import java.text.MessageFormat; import java.util.StringTokenizer; import java.util.regex.Pattern; import java.util.regex.Matcher; ",
-            "created": "2026-11-11 13:33:21",
-            "updated": "2026-11-11 13:33:21"
-        },
-        {
-            "import_statement_id": "346",
-            "user_id": "1",
-            "app_id": "240",
-            "version_id": "535",
-            "import_statement": "import org.json.JSONObject; import net.minidev.json.JSONObject; ",
-            "created": "2026-11-11 17:39:27",
-            "updated": "2026-11-11 17:39:27"
-        },
-        {
-            "import_statement_id": "347",
-            "user_id": "1",
-            "app_id": "240",
-            "version_id": "535",
-            "import_statement": "import java.lang.String; ",
-            "created": "2026-11-11 17:39:27",
-            "updated": "2026-11-11 17:39:27"
+            "import_statement": "import java.util.scanb; ",
+            "created": "2026-11-12 16:06:54",
+            "updated": "2026-11-12 16:06:54"
         }
     ],
     "abo_maven_dependency": [
@@ -2372,6 +2288,42 @@
             "gv_category": "global",
             "created": "2026-11-12 13:39:21",
             "updated": "2026-11-12 13:39:21"
+        },
+        {
+            "variable_id": "2371",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "535",
+            "variable_type": "String",
+            "variable_name": "asas",
+            "variable_value": "Alokk-kumar#%$%$%$%d^^^%",
+            "gv_category": "runtime",
+            "created": "2026-11-12 16:06:54",
+            "updated": "2026-11-12 16:06:54"
+        },
+        {
+            "variable_id": "2372",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "535",
+            "variable_type": "String",
+            "variable_name": "ASA",
+            "variable_value": "{\"options\":{\"app_id\":\"214\",\"project_id\":\"214\",\"version_id\":\"406\",\"new_version_name\":\"4.0\",\"target_app_id\":\"214\",\"type_of_action\":\"copy\",\"user_id\":\"1\"}}",
+            "gv_category": "runtime",
+            "created": "2026-11-12 16:06:54",
+            "updated": "2026-11-12 16:06:54"
+        },
+        {
+            "variable_id": "2373",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "535",
+            "variable_type": "String",
+            "variable_name": "Demo",
+            "variable_value": "SDSD",
+            "gv_category": "runtime",
+            "created": "2026-11-12 16:06:54",
+            "updated": "2026-11-12 16:06:54"
         }
     ],
     "ab_scheduler": [],
