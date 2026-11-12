@@ -18,7 +18,6 @@ import java.text.MessageFormat;
 import java.util.StringTokenizer;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
-import net.minidev.json.JSONObject;
 import java.lang.String;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
