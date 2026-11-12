@@ -2320,7 +2320,21 @@
             "updated": "2026-11-11 17:39:27"
         }
     ],
-    "abo_maven_dependency": [],
+    "abo_maven_dependency": [
+        {
+            "maven_id": "136",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "535",
+            "maven_title": "s",
+            "group_id": "",
+            "artifact_id": "",
+            "version": "",
+            "maven_dependency": "<dependency> se shuru aur </dependency>",
+            "created": "2026-11-12 13:41:38",
+            "updated": "2026-11-12 13:41:38"
+        }
+    ],
     "abo_external_jar": [],
     "abo_global_variable": [
         {
