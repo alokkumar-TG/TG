@@ -8,7 +8,7 @@
         "app_id": "240",
         "version_name": "9.0",
         "version_description": "",
-        "cm_version_module": "'',1274,1276,1281",
+        "cm_version_module": "'',1274,1276,1281,1282",
         "platform": "3",
         "ai_modal_id": "cotester_client_v2_6af57a0273508191b4a2ba06333b603a",
         "script_type": "3",
@@ -48,20 +48,20 @@
     },
     "abo_version_module": [
         {
-            "version_module_id": "1281",
+            "version_module_id": "1282",
             "version_id": "540",
             "parent_id": "0",
             "module_name": "sadasd",
             "module_description": "",
             "count_resource": "26",
-            "cm_resource_pages": "3790,3791",
-            "cm_default_resource": "89602",
-            "cm_test_function": "10753,10754,10755,10756,10757",
-            "cm_test_case": "4992,4993,4994,4995,4996,4997,4998,4999,5000,5001,5002",
+            "cm_resource_pages": "3792,3793",
+            "cm_default_resource": "89628",
+            "cm_test_function": "10758,10759,10760,10761,10762",
+            "cm_test_case": "5003,5004,5005,5006,5007,5008,5009,5010,5011,5012,5013",
             "cm_test_case_ai": "",
-            "cm_network": "122",
+            "cm_network": "123",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-11-12 23:32:03",
+            "view_updated_date_time": "2026-11-12 23:38:25",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -73,8 +73,8 @@
             "default_wait_timeout": "600",
             "abo_vm_test_case": [
                 {
-                    "tc_id": "4992",
-                    "version_module_id": "1281",
+                    "tc_id": "5003",
+                    "version_module_id": "1282",
                     "tc_name": "TCAccessandUsetheRingSizeGuidefromProductDetailPage",
                     "tc_description": "Test Case: 1\n\nTest Case Title: Access and Use the Ring Size Guide from Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page for a ring.\n\nTest Steps:\n1. Locate and click the \"Size Guide\" link or button on the product detail page.\n2. Verify that the size guide modal or page appears.\n3. Review the instructions provided for measuring finger size.\n4. Switch to the option or tab for using an existing ring to determine size.\n5. Review the instructions provided for determining size with an existing ring.\n\nExpected Result:\n- The size guide is accessible from the product detail page.\n- Clear instructions are displayed for both measuring finger size and using an existing ring.\n- User can easily switch between finger measurement and ring measurement options.\n- All content loads correctly without errors or broken links. (Generated from Manual Test Case)",
                     "tc_website_url": "https://www.facebook.com",
@@ -95,12 +95,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tcaccessandusetheringsizeguidefromproductdetailpage.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tcaccessandusetheringsizeguidefromproductdetailpage.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "4993",
-                    "version_module_id": "1281",
+                    "tc_id": "5004",
+                    "version_module_id": "1282",
                     "tc_name": "TCVerifyaccessibilityandfunctionalityofAboutUsandrelatedcompanyinformationlinksinthewebsitefooter",
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify accessibility and functionality of \"About Us\" and related company information links in the website footer\nModule: Company Information / Website Footer\nPriority: Medium\n\nPreconditions:\n- User is on any page of the website.\n- Website is loaded successfully.\n\nTest Steps:\n1. Scroll to the footer section of the current page.\n2. Locate and click the \"About Us\" link in the footer.\n3. Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.\n4. Locate and click the \"Our Story\" link in the footer.\n5. Verify that the page navigates to a section detailing the company’s background or story.\n6. Locate and click the \"Materials\" link in the footer.\n7. Verify that the page navigates to a section describing materials used by the company.\n8. Locate and click the Instagram social media link in the footer.\n9. Verify that a new tab opens, directing the user to the company’s official Instagram profile.\n10. Locate and click the Twitter social media link in the footer.\n11. Verify that a new tab opens, directing the user to the company’s official Twitter profile.\n\nExpected Result:\n- \"About Us\" link is present and navigates to a page with the company's story and values.\n- \"Our Story\" and \"Materials\" links are present and navigate to their respective informative pages.\n- Instagram and Twitter social media links in the footer are present and open the correct company profiles in new browser tabs. (Generated from Manual Test Case)",
                     "tc_website_url": "https://www.facebook.com",
@@ -121,12 +121,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "4994",
-                    "version_module_id": "1281",
+                    "tc_id": "5005",
+                    "version_module_id": "1282",
                     "tc_name": "TCAccessandUsetheRingSizeGuidefromProductDetailPage_copy",
                     "tc_description": "Test Case: 1\n\nTest Case Title: Access and Use the Ring Size Guide from Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page for a ring.\n\nTest Steps:\n1. Locate and click the \"Size Guide\" link or button on the product detail page.\n2. Verify that the size guide modal or page appears.\n3. Review the instructions provided for measuring finger size.\n4. Switch to the option or tab for using an existing ring to determine size.\n5. Review the instructions provided for determining size with an existing ring.\n\nExpected Result:\n- The size guide is accessible from the product detail page.\n- Clear instructions are displayed for both measuring finger size and using an existing ring.\n- User can easily switch between finger measurement and ring measurement options.\n- All content loads correctly without errors or broken links. (Generated from Manual Test Case)",
                     "tc_website_url": "",
@@ -147,12 +147,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tcaccessandusetheringsizeguidefromproductdetailpage_copy.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tcaccessandusetheringsizeguidefromproductdetailpage_copy.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "4995",
-                    "version_module_id": "1281",
+                    "tc_id": "5006",
+                    "version_module_id": "1282",
                     "tc_name": "TCVerifyaccessibilityandfunctionalityofAboutUsandrelatedcompanyinformationlinksinthewebsitefooter_copy",
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify accessibility and functionality of \"About Us\" and related company information links in the website footer\nModule: Company Information / Website Footer\nPriority: Medium\n\nPreconditions:\n- User is on any page of the website.\n- Website is loaded successfully.\n\nTest Steps:\n1. Scroll to the footer section of the current page.\n2. Locate and click the \"About Us\" link in the footer.\n3. Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.\n4. Locate and click the \"Our Story\" link in the footer.\n5. Verify that the page navigates to a section detailing the company’s background or story.\n6. Locate and click the \"Materials\" link in the footer.\n7. Verify that the page navigates to a section describing materials used by the company.\n8. Locate and click the Instagram social media link in the footer.\n9. Verify that a new tab opens, directing the user to the company’s official Instagram profile.\n10. Locate and click the Twitter social media link in the footer.\n11. Verify that a new tab opens, directing the user to the company’s official Twitter profile.\n\nExpected Result:\n- \"About Us\" link is present and navigates to a page with the company's story and values.\n- \"Our Story\" and \"Materials\" links are present and navigate to their respective informative pages.\n- Instagram and Twitter social media links in the footer are present and open the correct company profiles in new browser tabs. (Generated from Manual Test Case)",
                     "tc_website_url": "",
@@ -173,12 +173,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter_copy.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter_copy.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "4996",
-                    "version_module_id": "1281",
+                    "tc_id": "5007",
+                    "version_module_id": "1282",
                     "tc_name": "_TC01",
                     "tc_description": "",
                     "tc_website_url": "",
@@ -199,9 +199,9 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": {
-                        "id": "102",
+                        "id": "103",
                         "user_id": "1",
-                        "tc_id": "4996",
+                        "tc_id": "5007",
                         "json_url": "",
                         "json_keys": "",
                         "test_case": "[]",
@@ -217,12 +217,12 @@
                         "api_params": null,
                         "api_headers": null
                     },
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/_tc01.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/_tc01.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "4997",
-                    "version_module_id": "1281",
+                    "tc_id": "5008",
+                    "version_module_id": "1282",
                     "tc_name": "gsafgdhjgsdfsgfgdsfgsdhfgsdfgvdsfvdsvfdsvfgdsfgdsvcfgvdsggshgvhcvhxvczxghvcghxvcghzvxchgvxzcvzxhcvzxgcxzhchxzchxz",
                     "tc_description": "",
                     "tc_website_url": "",
@@ -243,12 +243,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/gsafgdhjgsdfsgfgdsfgsdhfgsdfgvdsfvdsvfdsvfgdsfgdsvcfgvdsggshgvhcvhxvczxghvcghxvcghzvxchgvxzcvzxhcvzxgcxzhchxzchxz.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/gsafgdhjgsdfsgfgdsfgsdhfgsdfgvdsfvdsvfdsvfgdsfgdsvcfgvdsggshgvhcvhxvczxghvcghxvcghzvxchgvxzcvzxhcvzxgcxzhchxzchxz.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "4998",
-                    "version_module_id": "1281",
+                    "tc_id": "5009",
+                    "version_module_id": "1282",
                     "tc_name": "TC01",
                     "tc_description": "",
                     "tc_website_url": "",
@@ -269,12 +269,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tc01.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tc01.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "4999",
-                    "version_module_id": "1281",
+                    "tc_id": "5010",
+                    "version_module_id": "1282",
                     "tc_name": "TCAccessandUsetheRingSizeGuidefromProductDetailPage_copy2",
                     "tc_description": "Test Case: 1\n\nTest Case Title: Access and Use the Ring Size Guide from Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page for a ring.\n\nTest Steps:\n1. Locate and click the \"Size Guide\" link or button on the product detail page.\n2. Verify that the size guide modal or page appears.\n3. Review the instructions provided for measuring finger size.\n4. Switch to the option or tab for using an existing ring to determine size.\n5. Review the instructions provided for determining size with an existing ring.\n\nExpected Result:\n- The size guide is accessible from the product detail page.\n- Clear instructions are displayed for both measuring finger size and using an existing ring.\n- User can easily switch between finger measurement and ring measurement options.\n- All content loads correctly without errors or broken links. (Generated from Manual Test Case)",
                     "tc_website_url": "",
@@ -295,12 +295,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tcaccessandusetheringsizeguidefromproductdetailpage_copy2.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tcaccessandusetheringsizeguidefromproductdetailpage_copy2.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "5000",
-                    "version_module_id": "1281",
+                    "tc_id": "5011",
+                    "version_module_id": "1282",
                     "tc_name": "TCVerifyaccessibilityandfunctionalityofAboutUsandrelatedcompanyinformationlinksinthewebsitefooter_copy2",
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify accessibility and functionality of \"About Us\" and related company information links in the website footer\nModule: Company Information / Website Footer\nPriority: Medium\n\nPreconditions:\n- User is on any page of the website.\n- Website is loaded successfully.\n\nTest Steps:\n1. Scroll to the footer section of the current page.\n2. Locate and click the \"About Us\" link in the footer.\n3. Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.\n4. Locate and click the \"Our Story\" link in the footer.\n5. Verify that the page navigates to a section detailing the company’s background or story.\n6. Locate and click the \"Materials\" link in the footer.\n7. Verify that the page navigates to a section describing materials used by the company.\n8. Locate and click the Instagram social media link in the footer.\n9. Verify that a new tab opens, directing the user to the company’s official Instagram profile.\n10. Locate and click the Twitter social media link in the footer.\n11. Verify that a new tab opens, directing the user to the company’s official Twitter profile.\n\nExpected Result:\n- \"About Us\" link is present and navigates to a page with the company's story and values.\n- \"Our Story\" and \"Materials\" links are present and navigate to their respective informative pages.\n- Instagram and Twitter social media links in the footer are present and open the correct company profiles in new browser tabs. (Generated from Manual Test Case)",
                     "tc_website_url": "",
@@ -321,12 +321,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter_copy2.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter_copy2.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "5001",
-                    "version_module_id": "1281",
+                    "tc_id": "5012",
+                    "version_module_id": "1282",
                     "tc_name": "_TC01_copy",
                     "tc_description": "",
                     "tc_website_url": "",
@@ -347,12 +347,12 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/_tc01_copy.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/_tc01_copy.java",
                     "vault_paths": []
                 },
                 {
-                    "tc_id": "5002",
-                    "version_module_id": "1281",
+                    "tc_id": "5013",
+                    "version_module_id": "1282",
                     "tc_name": "TC01_copy",
                     "tc_description": "",
                     "tc_website_url": "",
@@ -373,14 +373,14 @@
                     "status": "2",
                     "test_case_tags": [],
                     "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testcases/tc01_copy.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testcases/tc01_copy.java",
                     "vault_paths": []
                 }
             ],
             "abo_version_proc": [
                 {
-                    "proc_id": "10753",
-                    "version_module_id": "1281",
+                    "proc_id": "10758",
+                    "version_module_id": "1282",
                     "proc_name": "tgSurat",
                     "proc_description": "",
                     "cm_step_list": "",
@@ -395,12 +395,12 @@
                     "return_type": null,
                     "status": "2",
                     "updated_at": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testfunctions/tgsurat.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testfunctions/tgsurat.java",
                     "vault_paths": []
                 },
                 {
-                    "proc_id": "10754",
-                    "version_module_id": "1281",
+                    "proc_id": "10759",
+                    "version_module_id": "1282",
                     "proc_name": "fgdfgf",
                     "proc_description": "",
                     "cm_step_list": "",
@@ -415,12 +415,12 @@
                     "return_type": null,
                     "status": "2",
                     "updated_at": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testfunctions/fgdfgf.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testfunctions/fgdfgf.java",
                     "vault_paths": []
                 },
                 {
-                    "proc_id": "10755",
-                    "version_module_id": "1281",
+                    "proc_id": "10760",
+                    "version_module_id": "1282",
                     "proc_name": "zdxfvdfcbv",
                     "proc_description": "",
                     "cm_step_list": "",
@@ -435,12 +435,12 @@
                     "return_type": null,
                     "status": "2",
                     "updated_at": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testfunctions/zdxfvdfcbv.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testfunctions/zdxfvdfcbv.java",
                     "vault_paths": []
                 },
                 {
-                    "proc_id": "10756",
-                    "version_module_id": "1281",
+                    "proc_id": "10761",
+                    "version_module_id": "1282",
                     "proc_name": "tgSurat_copy",
                     "proc_description": "",
                     "cm_step_list": "",
@@ -455,12 +455,12 @@
                     "return_type": null,
                     "status": "2",
                     "updated_at": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testfunctions/tgsurat_copy.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testfunctions/tgsurat_copy.java",
                     "vault_paths": []
                 },
                 {
-                    "proc_id": "10757",
-                    "version_module_id": "1281",
+                    "proc_id": "10762",
+                    "version_module_id": "1282",
                     "proc_name": "tgSurat_copy2",
                     "proc_description": "",
                     "cm_step_list": "",
@@ -475,17 +475,17 @@
                     "return_type": null,
                     "status": "2",
                     "updated_at": null,
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1281/testfunctions/tgsurat_copy2.java",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/540/1282/testfunctions/tgsurat_copy2.java",
                     "vault_paths": []
                 }
             ],
             "abo_vm_test_case_manual": [
                 {
-                    "tc_id": "839",
+                    "tc_id": "866",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "MTC02",
                     "thread_id": null,
                     "tc_description": "",
@@ -497,8 +497,8 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2015",
-                            "tc_id": "839",
+                            "step_id": "2144",
+                            "tc_id": "866",
                             "step_order": "1",
                             "step_action": "54",
                             "created_at": "2026-11-04 21:05:36",
@@ -508,11 +508,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "840",
+                    "tc_id": "867",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify accessibility and functionality of \"About Us\" and related company information links in the website footer",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify accessibility and functionality of \"About Us\" and related company information links in the website footer\nModule: Company Information / Website Footer\nPriority: Medium\n\nPreconditions:\n- User is on any page of the website.\n- Website is loaded successfully.\n\nTest Steps:\n1. Scroll to the footer section of the current page.\n2. Locate and click the \"About Us\" link in the footer.\n3. Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.\n4. Locate and click the \"Our Story\" link in the footer.\n5. Verify that the page navigates to a section detailing the company’s background or story.\n6. Locate and click the \"Materials\" link in the footer.\n7. Verify that the page navigates to a section describing materials used by the company.\n8. Locate and click the Instagram social media link in the footer.\n9. Verify that a new tab opens, directing the user to the company’s official Instagram profile.\n10. Locate and click the Twitter social media link in the footer.\n11. Verify that a new tab opens, directing the user to the company’s official Twitter profile.\n\nExpected Result:\n- \"About Us\" link is present and navigates to a page with the company's story and values.\n- \"Our Story\" and \"Materials\" links are present and navigate to their respective informative pages.\n- Instagram and Twitter social media links in the footer are present and open the correct company profiles in new browser tabs.",
@@ -524,88 +524,88 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2016",
-                            "tc_id": "840",
+                            "step_id": "2145",
+                            "tc_id": "867",
                             "step_order": "1",
                             "step_action": "Scroll to the footer section of the current page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2017",
-                            "tc_id": "840",
+                            "step_id": "2146",
+                            "tc_id": "867",
                             "step_order": "2",
                             "step_action": "Locate and click the \"About Us\" link in the footer.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2018",
-                            "tc_id": "840",
+                            "step_id": "2147",
+                            "tc_id": "867",
                             "step_order": "3",
                             "step_action": "Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2019",
-                            "tc_id": "840",
+                            "step_id": "2148",
+                            "tc_id": "867",
                             "step_order": "4",
                             "step_action": "Locate and click the \"Our Story\" link in the footer.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2020",
-                            "tc_id": "840",
+                            "step_id": "2149",
+                            "tc_id": "867",
                             "step_order": "5",
                             "step_action": "Verify that the page navigates to a section detailing the company’s background or story.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2021",
-                            "tc_id": "840",
+                            "step_id": "2150",
+                            "tc_id": "867",
                             "step_order": "6",
                             "step_action": "Locate and click the \"Materials\" link in the footer.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2022",
-                            "tc_id": "840",
+                            "step_id": "2151",
+                            "tc_id": "867",
                             "step_order": "7",
                             "step_action": "Verify that the page navigates to a section describing materials used by the company.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2023",
-                            "tc_id": "840",
+                            "step_id": "2152",
+                            "tc_id": "867",
                             "step_order": "8",
                             "step_action": "Locate and click the Instagram social media link in the footer.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2024",
-                            "tc_id": "840",
+                            "step_id": "2153",
+                            "tc_id": "867",
                             "step_order": "9",
                             "step_action": "Verify that a new tab opens, directing the user to the company’s official Instagram profile.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2025",
-                            "tc_id": "840",
+                            "step_id": "2154",
+                            "tc_id": "867",
                             "step_order": "10",
                             "step_action": "Locate and click the Twitter social media link in the footer.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2026",
-                            "tc_id": "840",
+                            "step_id": "2155",
+                            "tc_id": "867",
                             "step_order": "11",
                             "step_action": "Verify that a new tab opens, directing the user to the company’s official Twitter profile.",
                             "created_at": "2026-11-04 21:05:36",
@@ -615,11 +615,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "841",
+                    "tc_id": "868",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Create a New Account with Valid Information",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Create a New Account with Valid Information\nModule: Account Creation & Management\nPriority: High\n\nPreconditions:\n- User is on the account creation (sign-up) page.\n- User is not currently logged in.\n\nTest Steps:\n1. Enter a valid name in the name field.\n2. Enter a valid and unique email address in the email field.\n3. Enter a valid password in the password field.\n4. Click the Create Account or Sign Up button.\n\nExpected Result:\n- A new account is successfully created.\n- User is logged in and redirected to the account dashboard or welcome page.\n- The account dashboard displays options to view past orders and address book.\n- User information (name and email) is correctly displayed in the account settings.",
@@ -631,32 +631,32 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2027",
-                            "tc_id": "841",
+                            "step_id": "2156",
+                            "tc_id": "868",
                             "step_order": "1",
                             "step_action": "Enter a valid name in the name field.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2028",
-                            "tc_id": "841",
+                            "step_id": "2157",
+                            "tc_id": "868",
                             "step_order": "2",
                             "step_action": "Enter a valid and unique email address in the email field.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2029",
-                            "tc_id": "841",
+                            "step_id": "2158",
+                            "tc_id": "868",
                             "step_order": "3",
                             "step_action": "Enter a valid password in the password field.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2030",
-                            "tc_id": "841",
+                            "step_id": "2159",
+                            "tc_id": "868",
                             "step_order": "4",
                             "step_action": "Click the Create Account or Sign Up button.",
                             "created_at": "2026-11-04 21:05:36",
@@ -666,11 +666,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "842",
+                    "tc_id": "869",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Add a Product to Shopping Bag and Verify Bag Icon Updates",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Add a Product to Shopping Bag and Verify Bag Icon Updates\n\nModule: Shopping Bag\n\nPriority: High\n\nPreconditions:\n- User is logged into the application.\n- At least one product is available in the catalog.\n\nTest Steps:\n1. Navigate to the product detail page of any available product.\n2. Click the Add to Shopping Bag button.\n3. Observe the shopping bag icon displayed on the page.\n\nExpected Result:\n- The product is successfully added to the shopping bag.\n- The shopping bag icon updates and displays the correct number of items added.",
@@ -682,24 +682,24 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2031",
-                            "tc_id": "842",
+                            "step_id": "2160",
+                            "tc_id": "869",
                             "step_order": "1",
                             "step_action": "Navigate to the product detail page of any available product.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2032",
-                            "tc_id": "842",
+                            "step_id": "2161",
+                            "tc_id": "869",
                             "step_order": "2",
                             "step_action": "Click the Add to Shopping Bag button.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2033",
-                            "tc_id": "842",
+                            "step_id": "2162",
+                            "tc_id": "869",
                             "step_order": "3",
                             "step_action": "Observe the shopping bag icon displayed on the page.",
                             "created_at": "2026-11-04 21:05:36",
@@ -709,11 +709,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "843",
+                    "tc_id": "870",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify Navigation to Category Pages from Home Page",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify Navigation to Category Pages from Home Page\nModule: Product Category Browsing\nPriority: High\n\nPreconditions:\n- User has access to the website Home Page.\n- The product categories \"Fine Jewellery\" and \"Wedding & Engagement\" are available as clickable links on the Home Page.\n\nTest Steps:\n1. Locate and click the \"Fine Jewellery\" category link on the Home Page.\n2. Verify that the \"Fine Jewellery\" category page loads.\n3. Observe the products and collections displayed on the \"Fine Jewellery\" category page.\n4. Click the Home Page link or logo to navigate back to the Home Page.\n5. Locate and click the \"Wedding & Engagement\" category link on the Home Page.\n6. Verify that the \"Wedding & Engagement\" category page loads.\n7. Observe the products and collections displayed on the \"Wedding & Engagement\" category page.\n8. Click the Home Page link or logo to navigate back to the Home Page.\n\nExpected Result:\n- The user is navigated to the correct category page after clicking each category link.\n- Each category page displays only products and collections relevant to the selected category.\n- The user can return to the Home Page from any category page using the Home link or logo.",
@@ -725,64 +725,64 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2034",
-                            "tc_id": "843",
+                            "step_id": "2163",
+                            "tc_id": "870",
                             "step_order": "1",
                             "step_action": "Locate and click the \"Fine Jewellery\" category link on the Home Page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2035",
-                            "tc_id": "843",
+                            "step_id": "2164",
+                            "tc_id": "870",
                             "step_order": "2",
                             "step_action": "Verify that the \"Fine Jewellery\" category page loads.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2036",
-                            "tc_id": "843",
+                            "step_id": "2165",
+                            "tc_id": "870",
                             "step_order": "3",
                             "step_action": "Observe the products and collections displayed on the \"Fine Jewellery\" category page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2037",
-                            "tc_id": "843",
+                            "step_id": "2166",
+                            "tc_id": "870",
                             "step_order": "4",
                             "step_action": "Click the Home Page link or logo to navigate back to the Home Page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2038",
-                            "tc_id": "843",
+                            "step_id": "2167",
+                            "tc_id": "870",
                             "step_order": "5",
                             "step_action": "Locate and click the \"Wedding & Engagement\" category link on the Home Page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2039",
-                            "tc_id": "843",
+                            "step_id": "2168",
+                            "tc_id": "870",
                             "step_order": "6",
                             "step_action": "Verify that the \"Wedding & Engagement\" category page loads.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2040",
-                            "tc_id": "843",
+                            "step_id": "2169",
+                            "tc_id": "870",
                             "step_order": "7",
                             "step_action": "Observe the products and collections displayed on the \"Wedding & Engagement\" category page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2041",
-                            "tc_id": "843",
+                            "step_id": "2170",
+                            "tc_id": "870",
                             "step_order": "8",
                             "step_action": "Click the Home Page link or logo to navigate back to the Home Page.",
                             "created_at": "2026-11-04 21:05:36",
@@ -792,11 +792,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "844",
+                    "tc_id": "871",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Successful Navigation and Completion of Checkout Process",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Successful Navigation and Completion of Checkout Process\nModule: Checkout\nPriority: High\n\nPreconditions:\n- User is logged in to the online shopping platform.\n- At least one item is present in the user's shopping bag.\n\nTest Steps:\n1. Navigate to the shopping bag page.\n2. Verify that the items in the shopping bag are displayed.\n3. Click the Checkout button.\n4. Enter valid shipping information in the designated fields.\n5. Enter valid payment information.\n6. Click the button to complete the purchase.\n7. Observe the resulting page or message.\n\nExpected Result:\n- Shopping bag items are accurately displayed.\n- User is successfully redirected to the checkout form.\n- User can enter and submit both shipping and payment information without errors.\n- After submitting payment, user receives a clear confirmation message indicating the purchase was completed.",
@@ -808,56 +808,56 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2042",
-                            "tc_id": "844",
+                            "step_id": "2171",
+                            "tc_id": "871",
                             "step_order": "1",
                             "step_action": "Navigate to the shopping bag page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2043",
-                            "tc_id": "844",
+                            "step_id": "2172",
+                            "tc_id": "871",
                             "step_order": "2",
                             "step_action": "Verify that the items in the shopping bag are displayed.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2044",
-                            "tc_id": "844",
+                            "step_id": "2173",
+                            "tc_id": "871",
                             "step_order": "3",
                             "step_action": "Click the Checkout button.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2045",
-                            "tc_id": "844",
+                            "step_id": "2174",
+                            "tc_id": "871",
                             "step_order": "4",
                             "step_action": "Enter valid shipping information in the designated fields.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2046",
-                            "tc_id": "844",
+                            "step_id": "2175",
+                            "tc_id": "871",
                             "step_order": "5",
                             "step_action": "Enter valid payment information.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2047",
-                            "tc_id": "844",
+                            "step_id": "2176",
+                            "tc_id": "871",
                             "step_order": "6",
                             "step_action": "Click the button to complete the purchase.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2048",
-                            "tc_id": "844",
+                            "step_id": "2177",
+                            "tc_id": "871",
                             "step_order": "7",
                             "step_action": "Observe the resulting page or message.",
                             "created_at": "2026-11-04 21:05:36",
@@ -867,11 +867,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "845",
+                    "tc_id": "872",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify Product Detail Page Displays All Required Information",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify Product Detail Page Displays All Required Information\n\nModule: Product Details\n\nPriority: High\n\nPreconditions:\n- User is logged in (if required by platform).\n- At least one product is visible in the product listing.\n\nTest Steps:\n1. Navigate to the product listing page.\n2. Click on any visible product to open its detail page.\n3. Observe the product detail page for displayed information.\n\nExpected Result:\n- Product detail page is displayed for the selected product.\n- Product images are visible.\n- Product pricing information is shown.\n- Product description is present.\n- Product availability status is displayed.\n- Information about product materials is shown.\n- Information related to ethical sourcing is visible.",
@@ -883,24 +883,24 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2049",
-                            "tc_id": "845",
+                            "step_id": "2178",
+                            "tc_id": "872",
                             "step_order": "1",
                             "step_action": "Navigate to the product listing page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2050",
-                            "tc_id": "845",
+                            "step_id": "2179",
+                            "tc_id": "872",
                             "step_order": "2",
                             "step_action": "Click on any visible product to open its detail page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2051",
-                            "tc_id": "845",
+                            "step_id": "2180",
+                            "tc_id": "872",
                             "step_order": "3",
                             "step_action": "Observe the product detail page for displayed information.",
                             "created_at": "2026-11-04 21:05:36",
@@ -910,11 +910,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "846",
+                    "tc_id": "873",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Access and Use the Ring Size Guide from Product Detail Page",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Access and Use the Ring Size Guide from Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page for a ring.\n\nTest Steps:\n1. Locate and click the \"Size Guide\" link or button on the product detail page.\n2. Verify that the size guide modal or page appears.\n3. Review the instructions provided for measuring finger size.\n4. Switch to the option or tab for using an existing ring to determine size.\n5. Review the instructions provided for determining size with an existing ring.\n\nExpected Result:\n- The size guide is accessible from the product detail page.\n- Clear instructions are displayed for both measuring finger size and using an existing ring.\n- User can easily switch between finger measurement and ring measurement options.\n- All content loads correctly without errors or broken links.",
@@ -926,40 +926,40 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2052",
-                            "tc_id": "846",
+                            "step_id": "2181",
+                            "tc_id": "873",
                             "step_order": "1",
                             "step_action": "Locate and click the \"Size Guide\" link or button on the product detail page.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2053",
-                            "tc_id": "846",
+                            "step_id": "2182",
+                            "tc_id": "873",
                             "step_order": "2",
                             "step_action": "Verify that the size guide modal or page appears.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2054",
-                            "tc_id": "846",
+                            "step_id": "2183",
+                            "tc_id": "873",
                             "step_order": "3",
                             "step_action": "Review the instructions provided for measuring finger size.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2055",
-                            "tc_id": "846",
+                            "step_id": "2184",
+                            "tc_id": "873",
                             "step_order": "4",
                             "step_action": "Switch to the option or tab for using an existing ring to determine size.",
                             "created_at": "2026-11-04 21:05:36",
                             "updated_at": "2026-11-04 21:05:36"
                         },
                         {
-                            "step_id": "2056",
-                            "tc_id": "846",
+                            "step_id": "2185",
+                            "tc_id": "873",
                             "step_order": "5",
                             "step_action": "Review the instructions provided for determining size with an existing ring.",
                             "created_at": "2026-11-04 21:05:36",
@@ -969,11 +969,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "847",
+                    "tc_id": "874",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "dsf",
                     "thread_id": null,
                     "tc_description": "",
@@ -985,8 +985,8 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2057",
-                            "tc_id": "847",
+                            "step_id": "2186",
+                            "tc_id": "874",
                             "step_order": "1",
                             "step_action": "sdf",
                             "created_at": "2026-11-09 18:04:16",
@@ -996,11 +996,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "848",
+                    "tc_id": "875",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "MTC02_copy",
                     "thread_id": null,
                     "tc_description": "",
@@ -1012,8 +1012,8 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2058",
-                            "tc_id": "848",
+                            "step_id": "2187",
+                            "tc_id": "875",
                             "step_order": "1",
                             "step_action": "54",
                             "created_at": "2026-11-12 14:00:17",
@@ -1023,11 +1023,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "849",
+                    "tc_id": "876",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify accessibility and functionality of \"About Us\" and related company information links in the website footer_copy",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify accessibility and functionality of \"About Us\" and related company information links in the website footer\nModule: Company Information / Website Footer\nPriority: Medium\n\nPreconditions:\n- User is on any page of the website.\n- Website is loaded successfully.\n\nTest Steps:\n1. Scroll to the footer section of the current page.\n2. Locate and click the \"About Us\" link in the footer.\n3. Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.\n4. Locate and click the \"Our Story\" link in the footer.\n5. Verify that the page navigates to a section detailing the company’s background or story.\n6. Locate and click the \"Materials\" link in the footer.\n7. Verify that the page navigates to a section describing materials used by the company.\n8. Locate and click the Instagram social media link in the footer.\n9. Verify that a new tab opens, directing the user to the company’s official Instagram profile.\n10. Locate and click the Twitter social media link in the footer.\n11. Verify that a new tab opens, directing the user to the company’s official Twitter profile.\n\nExpected Result:\n- \"About Us\" link is present and navigates to a page with the company's story and values.\n- \"Our Story\" and \"Materials\" links are present and navigate to their respective informative pages.\n- Instagram and Twitter social media links in the footer are present and open the correct company profiles in new browser tabs.",
@@ -1039,88 +1039,88 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2059",
-                            "tc_id": "849",
+                            "step_id": "2188",
+                            "tc_id": "876",
                             "step_order": "1",
                             "step_action": "Scroll to the footer section of the current page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2060",
-                            "tc_id": "849",
+                            "step_id": "2189",
+                            "tc_id": "876",
                             "step_order": "2",
                             "step_action": "Locate and click the \"About Us\" link in the footer.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2061",
-                            "tc_id": "849",
+                            "step_id": "2190",
+                            "tc_id": "876",
                             "step_order": "3",
                             "step_action": "Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2062",
-                            "tc_id": "849",
+                            "step_id": "2191",
+                            "tc_id": "876",
                             "step_order": "4",
                             "step_action": "Locate and click the \"Our Story\" link in the footer.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2063",
-                            "tc_id": "849",
+                            "step_id": "2192",
+                            "tc_id": "876",
                             "step_order": "5",
                             "step_action": "Verify that the page navigates to a section detailing the company’s background or story.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2064",
-                            "tc_id": "849",
+                            "step_id": "2193",
+                            "tc_id": "876",
                             "step_order": "6",
                             "step_action": "Locate and click the \"Materials\" link in the footer.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2065",
-                            "tc_id": "849",
+                            "step_id": "2194",
+                            "tc_id": "876",
                             "step_order": "7",
                             "step_action": "Verify that the page navigates to a section describing materials used by the company.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2066",
-                            "tc_id": "849",
+                            "step_id": "2195",
+                            "tc_id": "876",
                             "step_order": "8",
                             "step_action": "Locate and click the Instagram social media link in the footer.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2067",
-                            "tc_id": "849",
+                            "step_id": "2196",
+                            "tc_id": "876",
                             "step_order": "9",
                             "step_action": "Verify that a new tab opens, directing the user to the company’s official Instagram profile.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2068",
-                            "tc_id": "849",
+                            "step_id": "2197",
+                            "tc_id": "876",
                             "step_order": "10",
                             "step_action": "Locate and click the Twitter social media link in the footer.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2069",
-                            "tc_id": "849",
+                            "step_id": "2198",
+                            "tc_id": "876",
                             "step_order": "11",
                             "step_action": "Verify that a new tab opens, directing the user to the company’s official Twitter profile.",
                             "created_at": "2026-11-12 14:00:17",
@@ -1130,11 +1130,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "850",
+                    "tc_id": "877",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Create a New Account with Valid Information_copy",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Create a New Account with Valid Information\nModule: Account Creation & Management\nPriority: High\n\nPreconditions:\n- User is on the account creation (sign-up) page.\n- User is not currently logged in.\n\nTest Steps:\n1. Enter a valid name in the name field.\n2. Enter a valid and unique email address in the email field.\n3. Enter a valid password in the password field.\n4. Click the Create Account or Sign Up button.\n\nExpected Result:\n- A new account is successfully created.\n- User is logged in and redirected to the account dashboard or welcome page.\n- The account dashboard displays options to view past orders and address book.\n- User information (name and email) is correctly displayed in the account settings.",
@@ -1146,32 +1146,32 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2070",
-                            "tc_id": "850",
+                            "step_id": "2199",
+                            "tc_id": "877",
                             "step_order": "1",
                             "step_action": "Enter a valid name in the name field.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2071",
-                            "tc_id": "850",
+                            "step_id": "2200",
+                            "tc_id": "877",
                             "step_order": "2",
                             "step_action": "Enter a valid and unique email address in the email field.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2072",
-                            "tc_id": "850",
+                            "step_id": "2201",
+                            "tc_id": "877",
                             "step_order": "3",
                             "step_action": "Enter a valid password in the password field.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2073",
-                            "tc_id": "850",
+                            "step_id": "2202",
+                            "tc_id": "877",
                             "step_order": "4",
                             "step_action": "Click the Create Account or Sign Up button.",
                             "created_at": "2026-11-12 14:00:17",
@@ -1181,11 +1181,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "851",
+                    "tc_id": "878",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Add a Product to Shopping Bag and Verify Bag Icon Updates_copy",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Add a Product to Shopping Bag and Verify Bag Icon Updates\n\nModule: Shopping Bag\n\nPriority: High\n\nPreconditions:\n- User is logged into the application.\n- At least one product is available in the catalog.\n\nTest Steps:\n1. Navigate to the product detail page of any available product.\n2. Click the Add to Shopping Bag button.\n3. Observe the shopping bag icon displayed on the page.\n\nExpected Result:\n- The product is successfully added to the shopping bag.\n- The shopping bag icon updates and displays the correct number of items added.",
@@ -1197,24 +1197,24 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2074",
-                            "tc_id": "851",
+                            "step_id": "2203",
+                            "tc_id": "878",
                             "step_order": "1",
                             "step_action": "Navigate to the product detail page of any available product.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2075",
-                            "tc_id": "851",
+                            "step_id": "2204",
+                            "tc_id": "878",
                             "step_order": "2",
                             "step_action": "Click the Add to Shopping Bag button.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2076",
-                            "tc_id": "851",
+                            "step_id": "2205",
+                            "tc_id": "878",
                             "step_order": "3",
                             "step_action": "Observe the shopping bag icon displayed on the page.",
                             "created_at": "2026-11-12 14:00:17",
@@ -1224,11 +1224,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "852",
+                    "tc_id": "879",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify Navigation to Category Pages from Home Page_copy",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify Navigation to Category Pages from Home Page\nModule: Product Category Browsing\nPriority: High\n\nPreconditions:\n- User has access to the website Home Page.\n- The product categories \"Fine Jewellery\" and \"Wedding & Engagement\" are available as clickable links on the Home Page.\n\nTest Steps:\n1. Locate and click the \"Fine Jewellery\" category link on the Home Page.\n2. Verify that the \"Fine Jewellery\" category page loads.\n3. Observe the products and collections displayed on the \"Fine Jewellery\" category page.\n4. Click the Home Page link or logo to navigate back to the Home Page.\n5. Locate and click the \"Wedding & Engagement\" category link on the Home Page.\n6. Verify that the \"Wedding & Engagement\" category page loads.\n7. Observe the products and collections displayed on the \"Wedding & Engagement\" category page.\n8. Click the Home Page link or logo to navigate back to the Home Page.\n\nExpected Result:\n- The user is navigated to the correct category page after clicking each category link.\n- Each category page displays only products and collections relevant to the selected category.\n- The user can return to the Home Page from any category page using the Home link or logo.",
@@ -1240,64 +1240,64 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2077",
-                            "tc_id": "852",
+                            "step_id": "2206",
+                            "tc_id": "879",
                             "step_order": "1",
                             "step_action": "Locate and click the \"Fine Jewellery\" category link on the Home Page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2078",
-                            "tc_id": "852",
+                            "step_id": "2207",
+                            "tc_id": "879",
                             "step_order": "2",
                             "step_action": "Verify that the \"Fine Jewellery\" category page loads.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2079",
-                            "tc_id": "852",
+                            "step_id": "2208",
+                            "tc_id": "879",
                             "step_order": "3",
                             "step_action": "Observe the products and collections displayed on the \"Fine Jewellery\" category page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2080",
-                            "tc_id": "852",
+                            "step_id": "2209",
+                            "tc_id": "879",
                             "step_order": "4",
                             "step_action": "Click the Home Page link or logo to navigate back to the Home Page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2081",
-                            "tc_id": "852",
+                            "step_id": "2210",
+                            "tc_id": "879",
                             "step_order": "5",
                             "step_action": "Locate and click the \"Wedding & Engagement\" category link on the Home Page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2082",
-                            "tc_id": "852",
+                            "step_id": "2211",
+                            "tc_id": "879",
                             "step_order": "6",
                             "step_action": "Verify that the \"Wedding & Engagement\" category page loads.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2083",
-                            "tc_id": "852",
+                            "step_id": "2212",
+                            "tc_id": "879",
                             "step_order": "7",
                             "step_action": "Observe the products and collections displayed on the \"Wedding & Engagement\" category page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2084",
-                            "tc_id": "852",
+                            "step_id": "2213",
+                            "tc_id": "879",
                             "step_order": "8",
                             "step_action": "Click the Home Page link or logo to navigate back to the Home Page.",
                             "created_at": "2026-11-12 14:00:17",
@@ -1307,11 +1307,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "853",
+                    "tc_id": "880",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Successful Navigation and Completion of Checkout Process_copy",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Successful Navigation and Completion of Checkout Process\nModule: Checkout\nPriority: High\n\nPreconditions:\n- User is logged in to the online shopping platform.\n- At least one item is present in the user's shopping bag.\n\nTest Steps:\n1. Navigate to the shopping bag page.\n2. Verify that the items in the shopping bag are displayed.\n3. Click the Checkout button.\n4. Enter valid shipping information in the designated fields.\n5. Enter valid payment information.\n6. Click the button to complete the purchase.\n7. Observe the resulting page or message.\n\nExpected Result:\n- Shopping bag items are accurately displayed.\n- User is successfully redirected to the checkout form.\n- User can enter and submit both shipping and payment information without errors.\n- After submitting payment, user receives a clear confirmation message indicating the purchase was completed.",
@@ -1323,56 +1323,56 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2085",
-                            "tc_id": "853",
+                            "step_id": "2214",
+                            "tc_id": "880",
                             "step_order": "1",
                             "step_action": "Navigate to the shopping bag page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2086",
-                            "tc_id": "853",
+                            "step_id": "2215",
+                            "tc_id": "880",
                             "step_order": "2",
                             "step_action": "Verify that the items in the shopping bag are displayed.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2087",
-                            "tc_id": "853",
+                            "step_id": "2216",
+                            "tc_id": "880",
                             "step_order": "3",
                             "step_action": "Click the Checkout button.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2088",
-                            "tc_id": "853",
+                            "step_id": "2217",
+                            "tc_id": "880",
                             "step_order": "4",
                             "step_action": "Enter valid shipping information in the designated fields.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2089",
-                            "tc_id": "853",
+                            "step_id": "2218",
+                            "tc_id": "880",
                             "step_order": "5",
                             "step_action": "Enter valid payment information.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2090",
-                            "tc_id": "853",
+                            "step_id": "2219",
+                            "tc_id": "880",
                             "step_order": "6",
                             "step_action": "Click the button to complete the purchase.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2091",
-                            "tc_id": "853",
+                            "step_id": "2220",
+                            "tc_id": "880",
                             "step_order": "7",
                             "step_action": "Observe the resulting page or message.",
                             "created_at": "2026-11-12 14:00:17",
@@ -1382,11 +1382,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "854",
+                    "tc_id": "881",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify Product Detail Page Displays All Required Information_copy",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify Product Detail Page Displays All Required Information\n\nModule: Product Details\n\nPriority: High\n\nPreconditions:\n- User is logged in (if required by platform).\n- At least one product is visible in the product listing.\n\nTest Steps:\n1. Navigate to the product listing page.\n2. Click on any visible product to open its detail page.\n3. Observe the product detail page for displayed information.\n\nExpected Result:\n- Product detail page is displayed for the selected product.\n- Product images are visible.\n- Product pricing information is shown.\n- Product description is present.\n- Product availability status is displayed.\n- Information about product materials is shown.\n- Information related to ethical sourcing is visible.",
@@ -1398,24 +1398,24 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2092",
-                            "tc_id": "854",
+                            "step_id": "2221",
+                            "tc_id": "881",
                             "step_order": "1",
                             "step_action": "Navigate to the product listing page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2093",
-                            "tc_id": "854",
+                            "step_id": "2222",
+                            "tc_id": "881",
                             "step_order": "2",
                             "step_action": "Click on any visible product to open its detail page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2094",
-                            "tc_id": "854",
+                            "step_id": "2223",
+                            "tc_id": "881",
                             "step_order": "3",
                             "step_action": "Observe the product detail page for displayed information.",
                             "created_at": "2026-11-12 14:00:17",
@@ -1425,11 +1425,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "855",
+                    "tc_id": "882",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Access and Use the Ring Size Guide from Product Detail Page_copy",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Access and Use the Ring Size Guide from Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page for a ring.\n\nTest Steps:\n1. Locate and click the \"Size Guide\" link or button on the product detail page.\n2. Verify that the size guide modal or page appears.\n3. Review the instructions provided for measuring finger size.\n4. Switch to the option or tab for using an existing ring to determine size.\n5. Review the instructions provided for determining size with an existing ring.\n\nExpected Result:\n- The size guide is accessible from the product detail page.\n- Clear instructions are displayed for both measuring finger size and using an existing ring.\n- User can easily switch between finger measurement and ring measurement options.\n- All content loads correctly without errors or broken links.",
@@ -1441,40 +1441,40 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2095",
-                            "tc_id": "855",
+                            "step_id": "2224",
+                            "tc_id": "882",
                             "step_order": "1",
                             "step_action": "Locate and click the \"Size Guide\" link or button on the product detail page.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2096",
-                            "tc_id": "855",
+                            "step_id": "2225",
+                            "tc_id": "882",
                             "step_order": "2",
                             "step_action": "Verify that the size guide modal or page appears.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2097",
-                            "tc_id": "855",
+                            "step_id": "2226",
+                            "tc_id": "882",
                             "step_order": "3",
                             "step_action": "Review the instructions provided for measuring finger size.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2098",
-                            "tc_id": "855",
+                            "step_id": "2227",
+                            "tc_id": "882",
                             "step_order": "4",
                             "step_action": "Switch to the option or tab for using an existing ring to determine size.",
                             "created_at": "2026-11-12 14:00:17",
                             "updated_at": "2026-11-12 14:00:17"
                         },
                         {
-                            "step_id": "2099",
-                            "tc_id": "855",
+                            "step_id": "2228",
+                            "tc_id": "882",
                             "step_order": "5",
                             "step_action": "Review the instructions provided for determining size with an existing ring.",
                             "created_at": "2026-11-12 14:00:17",
@@ -1484,11 +1484,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "856",
+                    "tc_id": "883",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "f",
                     "thread_id": null,
                     "tc_description": "",
@@ -1500,8 +1500,8 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2100",
-                            "tc_id": "856",
+                            "step_id": "2229",
+                            "tc_id": "883",
                             "step_order": "1",
                             "step_action": "ncg",
                             "created_at": "2026-11-12 14:00:17",
@@ -1511,11 +1511,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "857",
+                    "tc_id": "884",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "MTC02_copy2",
                     "thread_id": null,
                     "tc_description": "",
@@ -1527,8 +1527,8 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2101",
-                            "tc_id": "857",
+                            "step_id": "2230",
+                            "tc_id": "884",
                             "step_order": "1",
                             "step_action": "54",
                             "created_at": "2026-11-12 14:01:57",
@@ -1538,11 +1538,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "858",
+                    "tc_id": "885",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify accessibility and functionality of \"About Us\" and related company information links in the website footer_copy2",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify accessibility and functionality of \"About Us\" and related company information links in the website footer\nModule: Company Information / Website Footer\nPriority: Medium\n\nPreconditions:\n- User is on any page of the website.\n- Website is loaded successfully.\n\nTest Steps:\n1. Scroll to the footer section of the current page.\n2. Locate and click the \"About Us\" link in the footer.\n3. Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.\n4. Locate and click the \"Our Story\" link in the footer.\n5. Verify that the page navigates to a section detailing the company’s background or story.\n6. Locate and click the \"Materials\" link in the footer.\n7. Verify that the page navigates to a section describing materials used by the company.\n8. Locate and click the Instagram social media link in the footer.\n9. Verify that a new tab opens, directing the user to the company’s official Instagram profile.\n10. Locate and click the Twitter social media link in the footer.\n11. Verify that a new tab opens, directing the user to the company’s official Twitter profile.\n\nExpected Result:\n- \"About Us\" link is present and navigates to a page with the company's story and values.\n- \"Our Story\" and \"Materials\" links are present and navigate to their respective informative pages.\n- Instagram and Twitter social media links in the footer are present and open the correct company profiles in new browser tabs.",
@@ -1554,88 +1554,88 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2102",
-                            "tc_id": "858",
+                            "step_id": "2231",
+                            "tc_id": "885",
                             "step_order": "1",
                             "step_action": "Scroll to the footer section of the current page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2103",
-                            "tc_id": "858",
+                            "step_id": "2232",
+                            "tc_id": "885",
                             "step_order": "2",
                             "step_action": "Locate and click the \"About Us\" link in the footer.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2104",
-                            "tc_id": "858",
+                            "step_id": "2233",
+                            "tc_id": "885",
                             "step_order": "3",
                             "step_action": "Verify that the page navigates to the \"About Us\" section displaying information about the company's story and values.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2105",
-                            "tc_id": "858",
+                            "step_id": "2234",
+                            "tc_id": "885",
                             "step_order": "4",
                             "step_action": "Locate and click the \"Our Story\" link in the footer.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2106",
-                            "tc_id": "858",
+                            "step_id": "2235",
+                            "tc_id": "885",
                             "step_order": "5",
                             "step_action": "Verify that the page navigates to a section detailing the company’s background or story.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2107",
-                            "tc_id": "858",
+                            "step_id": "2236",
+                            "tc_id": "885",
                             "step_order": "6",
                             "step_action": "Locate and click the \"Materials\" link in the footer.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2108",
-                            "tc_id": "858",
+                            "step_id": "2237",
+                            "tc_id": "885",
                             "step_order": "7",
                             "step_action": "Verify that the page navigates to a section describing materials used by the company.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2109",
-                            "tc_id": "858",
+                            "step_id": "2238",
+                            "tc_id": "885",
                             "step_order": "8",
                             "step_action": "Locate and click the Instagram social media link in the footer.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2110",
-                            "tc_id": "858",
+                            "step_id": "2239",
+                            "tc_id": "885",
                             "step_order": "9",
                             "step_action": "Verify that a new tab opens, directing the user to the company’s official Instagram profile.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2111",
-                            "tc_id": "858",
+                            "step_id": "2240",
+                            "tc_id": "885",
                             "step_order": "10",
                             "step_action": "Locate and click the Twitter social media link in the footer.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2112",
-                            "tc_id": "858",
+                            "step_id": "2241",
+                            "tc_id": "885",
                             "step_order": "11",
                             "step_action": "Verify that a new tab opens, directing the user to the company’s official Twitter profile.",
                             "created_at": "2026-11-12 14:01:57",
@@ -1645,11 +1645,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "859",
+                    "tc_id": "886",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Create a New Account with Valid Information_copy2",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Create a New Account with Valid Information\nModule: Account Creation & Management\nPriority: High\n\nPreconditions:\n- User is on the account creation (sign-up) page.\n- User is not currently logged in.\n\nTest Steps:\n1. Enter a valid name in the name field.\n2. Enter a valid and unique email address in the email field.\n3. Enter a valid password in the password field.\n4. Click the Create Account or Sign Up button.\n\nExpected Result:\n- A new account is successfully created.\n- User is logged in and redirected to the account dashboard or welcome page.\n- The account dashboard displays options to view past orders and address book.\n- User information (name and email) is correctly displayed in the account settings.",
@@ -1661,32 +1661,32 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2113",
-                            "tc_id": "859",
+                            "step_id": "2242",
+                            "tc_id": "886",
                             "step_order": "1",
                             "step_action": "Enter a valid name in the name field.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2114",
-                            "tc_id": "859",
+                            "step_id": "2243",
+                            "tc_id": "886",
                             "step_order": "2",
                             "step_action": "Enter a valid and unique email address in the email field.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2115",
-                            "tc_id": "859",
+                            "step_id": "2244",
+                            "tc_id": "886",
                             "step_order": "3",
                             "step_action": "Enter a valid password in the password field.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2116",
-                            "tc_id": "859",
+                            "step_id": "2245",
+                            "tc_id": "886",
                             "step_order": "4",
                             "step_action": "Click the Create Account or Sign Up button.",
                             "created_at": "2026-11-12 14:01:57",
@@ -1696,11 +1696,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "860",
+                    "tc_id": "887",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Add a Product to Shopping Bag and Verify Bag Icon Updates_copy2",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Add a Product to Shopping Bag and Verify Bag Icon Updates\n\nModule: Shopping Bag\n\nPriority: High\n\nPreconditions:\n- User is logged into the application.\n- At least one product is available in the catalog.\n\nTest Steps:\n1. Navigate to the product detail page of any available product.\n2. Click the Add to Shopping Bag button.\n3. Observe the shopping bag icon displayed on the page.\n\nExpected Result:\n- The product is successfully added to the shopping bag.\n- The shopping bag icon updates and displays the correct number of items added.",
@@ -1712,24 +1712,24 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2117",
-                            "tc_id": "860",
+                            "step_id": "2246",
+                            "tc_id": "887",
                             "step_order": "1",
                             "step_action": "Navigate to the product detail page of any available product.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2118",
-                            "tc_id": "860",
+                            "step_id": "2247",
+                            "tc_id": "887",
                             "step_order": "2",
                             "step_action": "Click the Add to Shopping Bag button.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2119",
-                            "tc_id": "860",
+                            "step_id": "2248",
+                            "tc_id": "887",
                             "step_order": "3",
                             "step_action": "Observe the shopping bag icon displayed on the page.",
                             "created_at": "2026-11-12 14:01:57",
@@ -1739,11 +1739,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "861",
+                    "tc_id": "888",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify Navigation to Category Pages from Home Page_copy2",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify Navigation to Category Pages from Home Page\nModule: Product Category Browsing\nPriority: High\n\nPreconditions:\n- User has access to the website Home Page.\n- The product categories \"Fine Jewellery\" and \"Wedding & Engagement\" are available as clickable links on the Home Page.\n\nTest Steps:\n1. Locate and click the \"Fine Jewellery\" category link on the Home Page.\n2. Verify that the \"Fine Jewellery\" category page loads.\n3. Observe the products and collections displayed on the \"Fine Jewellery\" category page.\n4. Click the Home Page link or logo to navigate back to the Home Page.\n5. Locate and click the \"Wedding & Engagement\" category link on the Home Page.\n6. Verify that the \"Wedding & Engagement\" category page loads.\n7. Observe the products and collections displayed on the \"Wedding & Engagement\" category page.\n8. Click the Home Page link or logo to navigate back to the Home Page.\n\nExpected Result:\n- The user is navigated to the correct category page after clicking each category link.\n- Each category page displays only products and collections relevant to the selected category.\n- The user can return to the Home Page from any category page using the Home link or logo.",
@@ -1755,64 +1755,64 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2120",
-                            "tc_id": "861",
+                            "step_id": "2249",
+                            "tc_id": "888",
                             "step_order": "1",
                             "step_action": "Locate and click the \"Fine Jewellery\" category link on the Home Page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2121",
-                            "tc_id": "861",
+                            "step_id": "2250",
+                            "tc_id": "888",
                             "step_order": "2",
                             "step_action": "Verify that the \"Fine Jewellery\" category page loads.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2122",
-                            "tc_id": "861",
+                            "step_id": "2251",
+                            "tc_id": "888",
                             "step_order": "3",
                             "step_action": "Observe the products and collections displayed on the \"Fine Jewellery\" category page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2123",
-                            "tc_id": "861",
+                            "step_id": "2252",
+                            "tc_id": "888",
                             "step_order": "4",
                             "step_action": "Click the Home Page link or logo to navigate back to the Home Page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2124",
-                            "tc_id": "861",
+                            "step_id": "2253",
+                            "tc_id": "888",
                             "step_order": "5",
                             "step_action": "Locate and click the \"Wedding & Engagement\" category link on the Home Page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2125",
-                            "tc_id": "861",
+                            "step_id": "2254",
+                            "tc_id": "888",
                             "step_order": "6",
                             "step_action": "Verify that the \"Wedding & Engagement\" category page loads.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2126",
-                            "tc_id": "861",
+                            "step_id": "2255",
+                            "tc_id": "888",
                             "step_order": "7",
                             "step_action": "Observe the products and collections displayed on the \"Wedding & Engagement\" category page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2127",
-                            "tc_id": "861",
+                            "step_id": "2256",
+                            "tc_id": "888",
                             "step_order": "8",
                             "step_action": "Click the Home Page link or logo to navigate back to the Home Page.",
                             "created_at": "2026-11-12 14:01:57",
@@ -1822,11 +1822,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "862",
+                    "tc_id": "889",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Successful Navigation and Completion of Checkout Process_copy2",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Successful Navigation and Completion of Checkout Process\nModule: Checkout\nPriority: High\n\nPreconditions:\n- User is logged in to the online shopping platform.\n- At least one item is present in the user's shopping bag.\n\nTest Steps:\n1. Navigate to the shopping bag page.\n2. Verify that the items in the shopping bag are displayed.\n3. Click the Checkout button.\n4. Enter valid shipping information in the designated fields.\n5. Enter valid payment information.\n6. Click the button to complete the purchase.\n7. Observe the resulting page or message.\n\nExpected Result:\n- Shopping bag items are accurately displayed.\n- User is successfully redirected to the checkout form.\n- User can enter and submit both shipping and payment information without errors.\n- After submitting payment, user receives a clear confirmation message indicating the purchase was completed.",
@@ -1838,56 +1838,56 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2128",
-                            "tc_id": "862",
+                            "step_id": "2257",
+                            "tc_id": "889",
                             "step_order": "1",
                             "step_action": "Navigate to the shopping bag page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2129",
-                            "tc_id": "862",
+                            "step_id": "2258",
+                            "tc_id": "889",
                             "step_order": "2",
                             "step_action": "Verify that the items in the shopping bag are displayed.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2130",
-                            "tc_id": "862",
+                            "step_id": "2259",
+                            "tc_id": "889",
                             "step_order": "3",
                             "step_action": "Click the Checkout button.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2131",
-                            "tc_id": "862",
+                            "step_id": "2260",
+                            "tc_id": "889",
                             "step_order": "4",
                             "step_action": "Enter valid shipping information in the designated fields.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2132",
-                            "tc_id": "862",
+                            "step_id": "2261",
+                            "tc_id": "889",
                             "step_order": "5",
                             "step_action": "Enter valid payment information.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2133",
-                            "tc_id": "862",
+                            "step_id": "2262",
+                            "tc_id": "889",
                             "step_order": "6",
                             "step_action": "Click the button to complete the purchase.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2134",
-                            "tc_id": "862",
+                            "step_id": "2263",
+                            "tc_id": "889",
                             "step_order": "7",
                             "step_action": "Observe the resulting page or message.",
                             "created_at": "2026-11-12 14:01:57",
@@ -1897,11 +1897,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "863",
+                    "tc_id": "890",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Verify Product Detail Page Displays All Required Information_copy2",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Verify Product Detail Page Displays All Required Information\n\nModule: Product Details\n\nPriority: High\n\nPreconditions:\n- User is logged in (if required by platform).\n- At least one product is visible in the product listing.\n\nTest Steps:\n1. Navigate to the product listing page.\n2. Click on any visible product to open its detail page.\n3. Observe the product detail page for displayed information.\n\nExpected Result:\n- Product detail page is displayed for the selected product.\n- Product images are visible.\n- Product pricing information is shown.\n- Product description is present.\n- Product availability status is displayed.\n- Information about product materials is shown.\n- Information related to ethical sourcing is visible.",
@@ -1913,24 +1913,24 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2135",
-                            "tc_id": "863",
+                            "step_id": "2264",
+                            "tc_id": "890",
                             "step_order": "1",
                             "step_action": "Navigate to the product listing page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2136",
-                            "tc_id": "863",
+                            "step_id": "2265",
+                            "tc_id": "890",
                             "step_order": "2",
                             "step_action": "Click on any visible product to open its detail page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2137",
-                            "tc_id": "863",
+                            "step_id": "2266",
+                            "tc_id": "890",
                             "step_order": "3",
                             "step_action": "Observe the product detail page for displayed information.",
                             "created_at": "2026-11-12 14:01:57",
@@ -1940,11 +1940,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "864",
+                    "tc_id": "891",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "Access and Use the Ring Size Guide from Product Detail Page_copy2",
                     "thread_id": null,
                     "tc_description": "Test Case: 1\n\nTest Case Title: Access and Use the Ring Size Guide from Product Detail Page  \nModule: Product Detail Page - Size Guide  \nPriority: Medium\n\nPreconditions: \n- User is on the product detail page for a ring.\n\nTest Steps:\n1. Locate and click the \"Size Guide\" link or button on the product detail page.\n2. Verify that the size guide modal or page appears.\n3. Review the instructions provided for measuring finger size.\n4. Switch to the option or tab for using an existing ring to determine size.\n5. Review the instructions provided for determining size with an existing ring.\n\nExpected Result:\n- The size guide is accessible from the product detail page.\n- Clear instructions are displayed for both measuring finger size and using an existing ring.\n- User can easily switch between finger measurement and ring measurement options.\n- All content loads correctly without errors or broken links.",
@@ -1956,40 +1956,40 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2138",
-                            "tc_id": "864",
+                            "step_id": "2267",
+                            "tc_id": "891",
                             "step_order": "1",
                             "step_action": "Locate and click the \"Size Guide\" link or button on the product detail page.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2139",
-                            "tc_id": "864",
+                            "step_id": "2268",
+                            "tc_id": "891",
                             "step_order": "2",
                             "step_action": "Verify that the size guide modal or page appears.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2140",
-                            "tc_id": "864",
+                            "step_id": "2269",
+                            "tc_id": "891",
                             "step_order": "3",
                             "step_action": "Review the instructions provided for measuring finger size.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2141",
-                            "tc_id": "864",
+                            "step_id": "2270",
+                            "tc_id": "891",
                             "step_order": "4",
                             "step_action": "Switch to the option or tab for using an existing ring to determine size.",
                             "created_at": "2026-11-12 14:01:57",
                             "updated_at": "2026-11-12 14:01:57"
                         },
                         {
-                            "step_id": "2142",
-                            "tc_id": "864",
+                            "step_id": "2271",
+                            "tc_id": "891",
                             "step_order": "5",
                             "step_action": "Review the instructions provided for determining size with an existing ring.",
                             "created_at": "2026-11-12 14:01:57",
@@ -1999,11 +1999,11 @@
                     "cotester_chat_messages": []
                 },
                 {
-                    "tc_id": "865",
+                    "tc_id": "892",
                     "test_case_id": "0",
                     "jira_id": "0",
                     "azure_id": "0",
-                    "version_module_id": "1281",
+                    "version_module_id": "1282",
                     "tc_name": "f_copy",
                     "thread_id": null,
                     "tc_description": "",
@@ -2015,8 +2015,8 @@
                     "figma_id": "0",
                     "abo_vm_test_case_manual_steps": [
                         {
-                            "step_id": "2143",
-                            "tc_id": "865",
+                            "step_id": "2272",
+                            "tc_id": "892",
                             "step_order": "1",
                             "step_action": "ncg",
                             "created_at": "2026-11-12 14:01:57",
@@ -2028,16 +2028,16 @@
             ],
             "abo_vm_network_assert": [
                 {
-                    "na_id": "122",
-                    "version_module_id": "1281",
+                    "na_id": "123",
+                    "version_module_id": "1282",
                     "na_name": "sdf",
                     "na_description": "",
-                    "cm_step_list": "121",
+                    "cm_step_list": "122",
                     "is_deleted": "0000-00-00 00:00:00",
                     "abo_na_steps": [
                         {
-                            "na_step_id": "121",
-                            "na_id": "122",
+                            "na_step_id": "122",
+                            "na_id": "123",
                             "keyword_id": "6",
                             "order": "0",
                             "param1": "INT",
@@ -2053,9 +2053,9 @@
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
-                    "version_page_id": "3790",
-                    "version_module_id": "1281",
-                    "cm_resource": "89577,89578,89579,89580,89581,89582,89583,89584,89585,89586,89587,89588,89589,89590,89591,89592,89593,89594,89595,89596,89597,89598,89599,89600,89601",
+                    "version_page_id": "3792",
+                    "version_module_id": "1282",
+                    "cm_resource": "89603,89604,89605,89606,89607,89608,89609,89610,89611,89612,89613,89614,89615,89616,89617,89618,89619,89620,89621,89622,89623,89624,89625,89626,89627",
                     "page_name": "Facebook",
                     "image_url": "",
                     "git_restore_page_id": "0",
@@ -2063,10 +2063,10 @@
                     "updated": "2026-10-23 22:24:32",
                     "abo_version_maps": [
                         {
-                            "maps_id": "89577",
-                            "version_page_id": "3790",
+                            "maps_id": "89603",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp251ff",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89284.png",
@@ -2094,13 +2094,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89577.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89603.png"
                         },
                         {
-                            "maps_id": "89578",
-                            "version_page_id": "3790",
+                            "maps_id": "89604",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rcdl6neapp878",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89285.png",
@@ -2128,13 +2128,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89578.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89604.png"
                         },
                         {
-                            "maps_id": "89579",
-                            "version_page_id": "3790",
+                            "maps_id": "89605",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login883",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89286.png",
@@ -2162,13 +2162,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89579.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89605.png"
                         },
                         {
-                            "maps_id": "89580",
-                            "version_page_id": "3790",
+                            "maps_id": "89606",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login559",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89287.png",
@@ -2196,13 +2196,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89580.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89606.png"
                         },
                         {
-                            "maps_id": "89581",
-                            "version_page_id": "3790",
+                            "maps_id": "89607",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp995",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -2230,13 +2230,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89581.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89607.png"
                         },
                         {
-                            "maps_id": "89582",
-                            "version_page_id": "3790",
+                            "maps_id": "89608",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_emailaddre050",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -2264,13 +2264,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89582.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89608.png"
                         },
                         {
-                            "maps_id": "89583",
-                            "version_page_id": "3790",
+                            "maps_id": "89609",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp061",
                             "element_display_name": "rc9l6neapp061",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89272.png",
@@ -2298,13 +2298,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89583.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89609.png"
                         },
                         {
-                            "maps_id": "89584",
-                            "version_page_id": "3790",
+                            "maps_id": "89610",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp867",
                             "element_display_name": "rc9l6neapp867",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89273.png",
@@ -2332,13 +2332,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89584.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89610.png"
                         },
                         {
-                            "maps_id": "89585",
-                            "version_page_id": "3790",
+                            "maps_id": "89611",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rcdl6neapp426",
                             "element_display_name": "rcdl6neapp426",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89274.png",
@@ -2366,13 +2366,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89585.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89611.png"
                         },
                         {
-                            "maps_id": "89586",
-                            "version_page_id": "3790",
+                            "maps_id": "89612",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp581",
                             "element_display_name": "rc9l6neapp581",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89275.png",
@@ -2400,13 +2400,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89586.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89612.png"
                         },
                         {
-                            "maps_id": "89587",
-                            "version_page_id": "3790",
+                            "maps_id": "89613",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login855",
                             "element_display_name": "login855",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89276.png",
@@ -2434,13 +2434,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89587.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89613.png"
                         },
                         {
-                            "maps_id": "89588",
-                            "version_page_id": "3790",
+                            "maps_id": "89614",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login894",
                             "element_display_name": "login894",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89277.png",
@@ -2468,13 +2468,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89588.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89614.png"
                         },
                         {
-                            "maps_id": "89589",
-                            "version_page_id": "3790",
+                            "maps_id": "89615",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp591",
                             "element_display_name": "rc9l6neapp591",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89278.png",
@@ -2502,13 +2502,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89589.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89615.png"
                         },
                         {
-                            "maps_id": "89590",
-                            "version_page_id": "3790",
+                            "maps_id": "89616",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp074",
                             "element_display_name": "rc9l6neapp074",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89279.png",
@@ -2536,13 +2536,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89590.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89616.png"
                         },
                         {
-                            "maps_id": "89591",
-                            "version_page_id": "3790",
+                            "maps_id": "89617",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp832",
                             "element_display_name": "rc9l6neapp832",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89280.png",
@@ -2570,13 +2570,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89591.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89617.png"
                         },
                         {
-                            "maps_id": "89592",
-                            "version_page_id": "3790",
+                            "maps_id": "89618",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login692",
                             "element_display_name": "login692",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89281.png",
@@ -2604,13 +2604,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89592.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89618.png"
                         },
                         {
-                            "maps_id": "89593",
-                            "version_page_id": "3790",
+                            "maps_id": "89619",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_forgottenp732",
                             "element_display_name": "forgottenp732",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89282.png",
@@ -2638,13 +2638,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89593.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89619.png"
                         },
                         {
-                            "maps_id": "89594",
-                            "version_page_id": "3790",
+                            "maps_id": "89620",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_r354",
                             "element_display_name": "r354",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89283.png",
@@ -2672,13 +2672,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89594.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89620.png"
                         },
                         {
-                            "maps_id": "89595",
-                            "version_page_id": "3790",
+                            "maps_id": "89621",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp054",
                             "element_display_name": "rc9l6neapp054",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89288.png",
@@ -2706,13 +2706,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89595.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89621.png"
                         },
                         {
-                            "maps_id": "89596",
-                            "version_page_id": "3790",
+                            "maps_id": "89622",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp176",
                             "element_display_name": "rc9l6neapp176",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89289.png",
@@ -2740,13 +2740,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89596.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89622.png"
                         },
                         {
-                            "maps_id": "89597",
-                            "version_page_id": "3790",
+                            "maps_id": "89623",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp247",
                             "element_display_name": "rc9l6neapp247",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89290.png",
@@ -2774,13 +2774,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89597.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89623.png"
                         },
                         {
-                            "maps_id": "89598",
-                            "version_page_id": "3790",
+                            "maps_id": "89624",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp431",
                             "element_display_name": "rc9l6neapp431",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89291.png",
@@ -2808,13 +2808,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89598.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89624.png"
                         },
                         {
-                            "maps_id": "89599",
-                            "version_page_id": "3790",
+                            "maps_id": "89625",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_forgottenp962",
                             "element_display_name": "forgottenp962",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89292.png",
@@ -2842,13 +2842,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89599.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89625.png"
                         },
                         {
-                            "maps_id": "89600",
-                            "version_page_id": "3790",
+                            "maps_id": "89626",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_mobilenumb725",
                             "element_display_name": "mobilenumb725",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89293.png",
@@ -2876,13 +2876,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89600.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89626.png"
                         },
                         {
-                            "maps_id": "89601",
-                            "version_page_id": "3790",
+                            "maps_id": "89627",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_continue082",
                             "element_display_name": "continue082",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89294.png",
@@ -2910,14 +2910,14 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89601.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89627.png"
                         }
                     ]
                 },
                 {
-                    "version_page_id": "3791",
-                    "version_module_id": "1281",
-                    "cm_resource": "89577,89578,89579,89580,89581,89582,89583,89584,89585,89586,89587,89588,89589,89590,89591,89592,89593,89594,89595,89596,89597,89598,89599,89600,89601",
+                    "version_page_id": "3793",
+                    "version_module_id": "1282",
+                    "cm_resource": "89603,89604,89605,89606,89607,89608,89609,89610,89611,89612,89613,89614,89615,89616,89617,89618,89619,89620,89621,89622,89623,89624,89625,89626,89627",
                     "page_name": "fdgfdg",
                     "image_url": "",
                     "git_restore_page_id": "0",
@@ -2925,10 +2925,10 @@
                     "updated": "2026-11-09 18:25:38",
                     "abo_version_maps": [
                         {
-                            "maps_id": "89577",
-                            "version_page_id": "3790",
+                            "maps_id": "89603",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp251ff",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89284.png",
@@ -2956,13 +2956,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89577.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89603.png"
                         },
                         {
-                            "maps_id": "89578",
-                            "version_page_id": "3790",
+                            "maps_id": "89604",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rcdl6neapp878",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89285.png",
@@ -2990,13 +2990,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89578.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89604.png"
                         },
                         {
-                            "maps_id": "89579",
-                            "version_page_id": "3790",
+                            "maps_id": "89605",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login883",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89286.png",
@@ -3024,13 +3024,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89579.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89605.png"
                         },
                         {
-                            "maps_id": "89580",
-                            "version_page_id": "3790",
+                            "maps_id": "89606",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login559",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89287.png",
@@ -3058,13 +3058,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89580.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89606.png"
                         },
                         {
-                            "maps_id": "89581",
-                            "version_page_id": "3790",
+                            "maps_id": "89607",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp995",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -3092,13 +3092,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89581.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89607.png"
                         },
                         {
-                            "maps_id": "89582",
-                            "version_page_id": "3790",
+                            "maps_id": "89608",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_emailaddre050",
                             "element_display_name": null,
                             "element_image_url": null,
@@ -3126,13 +3126,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89582.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89608.png"
                         },
                         {
-                            "maps_id": "89583",
-                            "version_page_id": "3790",
+                            "maps_id": "89609",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp061",
                             "element_display_name": "rc9l6neapp061",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89272.png",
@@ -3160,13 +3160,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89583.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89609.png"
                         },
                         {
-                            "maps_id": "89584",
-                            "version_page_id": "3790",
+                            "maps_id": "89610",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp867",
                             "element_display_name": "rc9l6neapp867",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89273.png",
@@ -3194,13 +3194,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89584.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89610.png"
                         },
                         {
-                            "maps_id": "89585",
-                            "version_page_id": "3790",
+                            "maps_id": "89611",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rcdl6neapp426",
                             "element_display_name": "rcdl6neapp426",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89274.png",
@@ -3228,13 +3228,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89585.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89611.png"
                         },
                         {
-                            "maps_id": "89586",
-                            "version_page_id": "3790",
+                            "maps_id": "89612",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp581",
                             "element_display_name": "rc9l6neapp581",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89275.png",
@@ -3262,13 +3262,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89586.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89612.png"
                         },
                         {
-                            "maps_id": "89587",
-                            "version_page_id": "3790",
+                            "maps_id": "89613",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login855",
                             "element_display_name": "login855",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89276.png",
@@ -3296,13 +3296,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89587.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89613.png"
                         },
                         {
-                            "maps_id": "89588",
-                            "version_page_id": "3790",
+                            "maps_id": "89614",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login894",
                             "element_display_name": "login894",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89277.png",
@@ -3330,13 +3330,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89588.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89614.png"
                         },
                         {
-                            "maps_id": "89589",
-                            "version_page_id": "3790",
+                            "maps_id": "89615",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp591",
                             "element_display_name": "rc9l6neapp591",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89278.png",
@@ -3364,13 +3364,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89589.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89615.png"
                         },
                         {
-                            "maps_id": "89590",
-                            "version_page_id": "3790",
+                            "maps_id": "89616",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp074",
                             "element_display_name": "rc9l6neapp074",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89279.png",
@@ -3398,13 +3398,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89590.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89616.png"
                         },
                         {
-                            "maps_id": "89591",
-                            "version_page_id": "3790",
+                            "maps_id": "89617",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp832",
                             "element_display_name": "rc9l6neapp832",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89280.png",
@@ -3432,13 +3432,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89591.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89617.png"
                         },
                         {
-                            "maps_id": "89592",
-                            "version_page_id": "3790",
+                            "maps_id": "89618",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_login692",
                             "element_display_name": "login692",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89281.png",
@@ -3466,13 +3466,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89592.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89618.png"
                         },
                         {
-                            "maps_id": "89593",
-                            "version_page_id": "3790",
+                            "maps_id": "89619",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_forgottenp732",
                             "element_display_name": "forgottenp732",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89282.png",
@@ -3500,13 +3500,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89593.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89619.png"
                         },
                         {
-                            "maps_id": "89594",
-                            "version_page_id": "3790",
+                            "maps_id": "89620",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_r354",
                             "element_display_name": "r354",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89283.png",
@@ -3534,13 +3534,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89594.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89620.png"
                         },
                         {
-                            "maps_id": "89595",
-                            "version_page_id": "3790",
+                            "maps_id": "89621",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp054",
                             "element_display_name": "rc9l6neapp054",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89288.png",
@@ -3568,13 +3568,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89595.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89621.png"
                         },
                         {
-                            "maps_id": "89596",
-                            "version_page_id": "3790",
+                            "maps_id": "89622",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp176",
                             "element_display_name": "rc9l6neapp176",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89289.png",
@@ -3602,13 +3602,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89596.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89622.png"
                         },
                         {
-                            "maps_id": "89597",
-                            "version_page_id": "3790",
+                            "maps_id": "89623",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp247",
                             "element_display_name": "rc9l6neapp247",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89290.png",
@@ -3636,13 +3636,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89597.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89623.png"
                         },
                         {
-                            "maps_id": "89598",
-                            "version_page_id": "3790",
+                            "maps_id": "89624",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_rc9l6neapp431",
                             "element_display_name": "rc9l6neapp431",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89291.png",
@@ -3670,13 +3670,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89598.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89624.png"
                         },
                         {
-                            "maps_id": "89599",
-                            "version_page_id": "3790",
+                            "maps_id": "89625",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_forgottenp962",
                             "element_display_name": "forgottenp962",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89292.png",
@@ -3704,13 +3704,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89599.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89625.png"
                         },
                         {
-                            "maps_id": "89600",
-                            "version_page_id": "3790",
+                            "maps_id": "89626",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_mobilenumb725",
                             "element_display_name": "mobilenumb725",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89293.png",
@@ -3738,13 +3738,13 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89600.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89626.png"
                         },
                         {
-                            "maps_id": "89601",
-                            "version_page_id": "3790",
+                            "maps_id": "89627",
+                            "version_page_id": "3792",
                             "page_name": "Facebook",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_continue082",
                             "element_display_name": "continue082",
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89294.png",
@@ -3772,22 +3772,22 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89601.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89627.png"
                         }
                     ]
                 },
                 {
                     "version_page_id": 0,
-                    "version_module_id": "1281",
-                    "cm_resource": "89602",
+                    "version_module_id": "1282",
+                    "cm_resource": "89628",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
                     "abo_version_maps": [
                         {
-                            "maps_id": "89602",
+                            "maps_id": "89628",
                             "version_page_id": "0",
                             "page_name": "",
-                            "version_module_id": "1281",
+                            "version_module_id": "1282",
                             "element_name": "ele_sdsv",
                             "element_display_name": null,
                             "element_image_url": "http://192.168.88.204/s/ele-imgs/1263/89295.png",
@@ -3815,7 +3815,7 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1281/89602.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/1282/89628.png"
                         }
                     ]
                 }
@@ -3824,7 +3824,7 @@
     ],
     "abo_version_capabilities": [
         {
-            "capabilities_id": "217",
+            "capabilities_id": "218",
             "version_id": "540",
             "capabilities_keyname": "dsfdf",
             "capabilities_keyvalue": "dsfdsf"
@@ -3832,7 +3832,7 @@
     ],
     "abo_import_statement": [
         {
-            "import_statement_id": "394",
+            "import_statement_id": "399",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3841,7 +3841,7 @@
             "updated": "2026-11-09 13:07:19"
         },
         {
-            "import_statement_id": "395",
+            "import_statement_id": "400",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3850,7 +3850,7 @@
             "updated": "2026-11-12 14:00:17"
         },
         {
-            "import_statement_id": "396",
+            "import_statement_id": "401",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3859,7 +3859,7 @@
             "updated": "2026-11-12 14:00:17"
         },
         {
-            "import_statement_id": "397",
+            "import_statement_id": "402",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3868,7 +3868,7 @@
             "updated": "2026-11-12 14:00:17"
         },
         {
-            "import_statement_id": "398",
+            "import_statement_id": "403",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3881,7 +3881,7 @@
     "abo_external_jar": [],
     "abo_global_variable": [
         {
-            "variable_id": "2408",
+            "variable_id": "2415",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3893,7 +3893,7 @@
             "updated": "2026-10-24 11:06:18"
         },
         {
-            "variable_id": "2409",
+            "variable_id": "2416",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3905,7 +3905,7 @@
             "updated": "2026-10-24 11:06:18"
         },
         {
-            "variable_id": "2410",
+            "variable_id": "2417",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3917,7 +3917,7 @@
             "updated": "2026-10-24 11:06:18"
         },
         {
-            "variable_id": "2411",
+            "variable_id": "2418",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3929,7 +3929,7 @@
             "updated": "2026-11-09 13:07:19"
         },
         {
-            "variable_id": "2412",
+            "variable_id": "2419",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
@@ -3941,7 +3941,7 @@
             "updated": "2026-11-12 14:00:17"
         },
         {
-            "variable_id": "2414",
+            "variable_id": "2421",
             "user_id": "1",
             "app_id": "240",
             "version_id": "540",
