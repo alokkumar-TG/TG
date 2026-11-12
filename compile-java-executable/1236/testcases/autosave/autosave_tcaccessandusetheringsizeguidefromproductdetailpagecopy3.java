@@ -42,12 +42,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter_copy {
+public class tcaccessandusetheringsizeguidefromproductdetailpagecopy3 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tcverifyaccessibilityandfunctionalityofaboutusandrelatedcompanyinformationlinksinthewebsitefooter_copy() {
+	public void tcaccessandusetheringsizeguidefromproductdetailpagecopy3() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait(1);
 		tg.close();
 	}
 }
