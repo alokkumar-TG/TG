@@ -2346,6 +2346,18 @@
             "gv_category": "global",
             "created": "2026-11-12 13:38:58",
             "updated": "2026-11-12 13:38:58"
+        },
+        {
+            "variable_id": "2350",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "535",
+            "variable_type": "String",
+            "variable_name": "dsd",
+            "variable_value": "{\"options\":{\"app_id\":\"214\",\"project_id\":\"214\",\"version_id\":\"406\",\"new_version_name\":\"4.0\",\"target_app_id\":\"214\",\"type_of_action\":\"copy\",\"user_id\":\"1\"}}",
+            "gv_category": "global",
+            "created": "2026-11-12 13:39:21",
+            "updated": "2026-11-12 13:39:21"
         }
     ],
     "ab_scheduler": [],
