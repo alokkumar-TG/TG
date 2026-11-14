@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "541",
-    "user_id": 1,
+    "user_id": 0,
     "abo_version": {
         "version_id": "541",
         "app_id": "240",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "240",
@@ -51,7 +51,20 @@
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "2453",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "541",
+            "variable_type": "int",
+            "variable_name": "username",
+            "variable_value": "9",
+            "gv_category": "global",
+            "created": "2026-11-14 10:26:55",
+            "updated": "2026-11-14 10:26:55"
+        }
+    ],
     "ab_scheduler": [],
     "domain": "192.168.88.204"
 }
