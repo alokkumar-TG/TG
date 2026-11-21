@@ -1,0 +1,91 @@
+{
+    "url": "https://jsonplaceholder.typicode.com/users",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": [],
+    "h_static": [],
+    "params": {
+        "gf": "hj"
+    },
+    "p_static": {
+        "gf": ",nm"
+    },
+    "key_paths": [
+        {
+            "key_path": "0.address.geo.lng",
+            "key_data_type": "double"
+        },
+        {
+            "key_path": "0.address.zipcode",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "0.address.geo",
+            "key_data_type": "json"
+        },
+        {
+            "key_path": "1.address",
+            "key_data_type": "json"
+        },
+        {
+            "key_path": "1.address.suite",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "1.address.zipcode",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "1.company.catchPhrase",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "1.company.bs",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "2.username",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "2.email",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "5.address.suite",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "5.address",
+            "key_data_type": "json"
+        },
+        {
+            "key_path": "7.address.zipcode",
+            "key_data_type": "integer"
+        },
+        {
+            "key_path": "7.address.suite",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "9.company.catchPhrase",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "9.company",
+            "key_data_type": "json"
+        },
+        {
+            "key_path": "9.website",
+            "key_data_type": "string"
+        },
+        {
+            "key_path": "9.phone",
+            "key_data_type": "string"
+        }
+    ],
+    "save_full_response": false,
+    "resp_type": "json",
+    "timeout": 30
+}
