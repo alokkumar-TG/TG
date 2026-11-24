@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-24 18:55:37",
+            "view_updated_date_time": "2026-11-24 20:18:15",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -584,7 +584,7 @@
             "gv_category": "global",
             "is_device": "0",
             "created": "2026-11-24 19:01:45",
-            "updated": "2026-11-24 19:01:45"
+            "updated": "2026-11-24 20:18:42"
         }
     ],
     "ab_scheduler": [],
