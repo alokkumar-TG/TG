@@ -580,11 +580,11 @@
             "version_id": "545",
             "variable_type": "int",
             "variable_name": "3264",
-            "variable_value": "6",
+            "variable_value": "66",
             "gv_category": "global",
             "is_device": "0",
             "created": "2026-11-24 19:01:45",
-            "updated": "2026-11-24 20:20:48"
+            "updated": "2026-11-24 20:21:07"
         }
     ],
     "ab_scheduler": [],
