@@ -1,0 +1,6 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6b056517275d5_1209/appium-web/src/test/java/tc01copy.java:1: error: cannot find symbol
+import org.json.JSONObfject;
+               ^
+  symbol:   class JSONObfject
+  location: package org.json
+1 error
