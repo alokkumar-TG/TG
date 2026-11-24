@@ -544,7 +544,21 @@
     ],
     "abo_version_capabilities": [],
     "abo_import_statement": [],
-    "abo_maven_dependency": [],
+    "abo_maven_dependency": [
+        {
+            "maven_id": "137",
+            "user_id": "1",
+            "app_id": "240",
+            "version_id": "545",
+            "maven_title": "lkh",
+            "group_id": "",
+            "artifact_id": "",
+            "version": "",
+            "maven_dependency": "<dependency>\" and end with \"</dependency>",
+            "created": "2026-11-24 20:32:28",
+            "updated": "2026-11-24 20:32:28"
+        }
+    ],
     "abo_external_jar": [],
     "abo_global_variable": [
         {
