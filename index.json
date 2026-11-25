@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": null,
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-24 20:18:15",
+            "view_updated_date_time": "2026-11-25 15:29:41",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -102,7 +102,25 @@
                             "user_id": "1"
                         }
                     ],
-                    "iterative_test_case": [],
+                    "iterative_test_case": {
+                        "id": "109",
+                        "user_id": "1",
+                        "tc_id": "5071",
+                        "json_url": "",
+                        "json_keys": null,
+                        "test_case": "[]",
+                        "type": "3",
+                        "api_url": null,
+                        "api_keys": null,
+                        "database_object": "{\"tdp_db_type\":\"1\",\"tdp_host\":\"127.0.0.1\",\"tdp_db\":\"testgrid_network_log\",\"tdp_user\":\"root\",\"tdp_password\":\"pass4TG$\",\"tdp_query\":\"select * from ab_users;\",\"is_using_proxy\":0}",
+                        "database_keys": "is_reviewed",
+                        "api_selected_key": null,
+                        "is_using_proxy": "0",
+                        "tdp_api_id": null,
+                        "api_method": "GET",
+                        "api_params": null,
+                        "api_headers": null
+                    },
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/240/545/1292/testcases/tc01.java",
                     "vault_paths": []
                 }
