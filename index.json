@@ -59,9 +59,9 @@
             "cm_test_function": "10788,10789,10790",
             "cm_test_case": "5071",
             "cm_test_case_ai": "",
-            "cm_network": null,
+            "cm_network": "129",
             "cm_renderer": null,
-            "view_updated_date_time": "2026-11-25 15:29:41",
+            "view_updated_date_time": "2026-11-25 16:27:50",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -188,7 +188,29 @@
                 }
             ],
             "abo_vm_test_case_manual": [],
-            "abo_vm_network_assert": [],
+            "abo_vm_network_assert": [
+                {
+                    "na_id": "129",
+                    "version_module_id": "1292",
+                    "na_name": "ret",
+                    "na_description": "",
+                    "cm_step_list": "128",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "abo_na_steps": [
+                        {
+                            "na_step_id": "128",
+                            "na_id": "129",
+                            "keyword_id": "6",
+                            "order": "0",
+                            "param1": "INT",
+                            "param2": "abc",
+                            "param3": "NAPARAM_1",
+                            "param4": "",
+                            "param5": ""
+                        }
+                    ]
+                }
+            ],
             "abo_update": [
                 {
                     "id": "4554",
@@ -234,6 +256,15 @@
                     "version_module_id": "1292",
                     "description": "",
                     "action_process": "edit_test_case"
+                },
+                {
+                    "id": "4565",
+                    "user_id": "1",
+                    "app_id": "240",
+                    "version_id": "545",
+                    "version_module_id": "1292",
+                    "description": "",
+                    "action_process": "add_network_assert"
                 }
             ],
             "abo_vm_test_story_manual": [],
