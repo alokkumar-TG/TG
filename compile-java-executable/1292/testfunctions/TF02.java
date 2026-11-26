@@ -23,6 +23,6 @@ class tf02 {
 
 	public static void tf02() {
 		tg.wait(2);
-		tg.testFunction("TF03", new Object[]{});
+		tg.testFunction("TF001", new Object[]{});
 	}
 }

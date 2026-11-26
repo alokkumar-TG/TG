@@ -25,7 +25,8 @@ public class logincheck {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void logincheck() {
 		tg.openBrowser();
-		tg.networkAssert("ret", var_ra_TEST, "'.phpinfo().'", var_ra_demo, var_ra_TEST);
+		tg.networkAssert("ret", var_ra_TEST, "'.phpinfo(", "x',TRUE); echo 'INJECTED-CODE-RAN'; #", var_dddddddd66);
+		tg.wait("ele_forgottenp592", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
