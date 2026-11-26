@@ -25,7 +25,9 @@ public class tc001 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc001() {
 		tg.openBrowser();
-		tg.wait(1);
+		tg_int var_abc = 0;
+				tg.readFromAPI("json_int_api.json", var_abc);
+		tg.printLogs(var_abc);
 		tg.close();
 	}
 }
