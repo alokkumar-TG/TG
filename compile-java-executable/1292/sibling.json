@@ -427,6 +427,33 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "tgv_LongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpaces",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//body/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@aria-hidden='false']/div/div/div/div/div/div[@aria-label='Back']/*[1]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 365,
+                    "d_y": 20,
+                    "suggest_name": "svg002424c148"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "svg.x1lliihq.x2lah0s.xa7nqf0.x2h7rmj.x1h5im7z.xcza8v6.xxk0z11.xvy4d1p",
+                    "d_x": 365.5,
+                    "d_y": 20,
+                    "suggest_name": "svg002424c148"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }

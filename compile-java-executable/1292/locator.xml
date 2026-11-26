@@ -61,4 +61,8 @@
     <element type="xpath">//body/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@aria-hidden='false']/div/div/div/div/div/div[@aria-label='Back']/*[1]</element>
     <element type="css">svg.x1lliihq.x2lah0s.xa7nqf0.x2h7rmj.x1h5im7z.xcza8v6.xxk0z11.xvy4d1p</element>
   </locator>
+  <locator name="tgv_LongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpacesLongElementNameWithoutSpaces">
+    <element type="xpath">//body/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[@aria-hidden='false']/div/div/div/div/div/div[@aria-label='Back']/*[1]</element>
+    <element type="css">svg.x1lliihq.x2lah0s.xa7nqf0.x2h7rmj.x1h5im7z.xcza8v6.xxk0z11.xvy4d1p</element>
+  </locator>
 </locators>
